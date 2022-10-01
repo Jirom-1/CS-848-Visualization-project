@@ -4,9 +4,6 @@
 # - School
 # - Year
 # - Dissertation
-
-
-
 import requests
 from bs4 import BeautifulSoup
 
