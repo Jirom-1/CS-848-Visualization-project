@@ -1,0 +1,538 @@
+digraph "Academic Genealogy" {
+	251553.0 [label="Shalev Ben-David
+University of Waterloo
+algorithms-and-complexity"]
+	96437.0 [label="Therese Biedl
+University of Waterloo
+algorithms-and-complexity"]
+	162538.0 [label="Eric Blais
+University of Waterloo
+algorithms-and-complexity"]
+	45379.0 [label="Dan Brown
+University of Waterloo
+algorithms-and-complexity"]
+	252543.0 [label="Trevor Brown
+University of Waterloo
+algorithms-and-complexity"]
+	65073.0 [label="Jonathan Buss
+University of Waterloo
+algorithms-and-complexity"]
+	81270.0 [label="Richard Cleve
+University of Waterloo
+algorithms-and-complexity"]
+	264772.0 [label="Gautam Kamath
+University of Waterloo
+algorithms-and-complexity"]
+	20521.0 [label="Lila Kari
+University of Waterloo
+algorithms-and-complexity"]
+	141559.0 [label="Lap Chi Lau
+University of Waterloo
+algorithms-and-complexity"]
+	94793.0 [label="Ming Li
+University of Waterloo
+algorithms-and-complexity"]
+	65035.0 [label="Anna Lubiw
+University of Waterloo
+algorithms-and-complexity"]
+	65036.0 [label="Ian Munro
+University of Waterloo
+algorithms-and-complexity"]
+	66900.0 [label="Naomi Nishimura
+University of Waterloo
+algorithms-and-complexity"]
+	66895.0 [label="Prabhakar Ragde
+University of Waterloo
+algorithms-and-complexity"]
+	31748.0 [label="Jeffrey Shallit
+University of Waterloo
+algorithms-and-complexity"]
+	33044.0 [label="Doug Stinson
+University of Waterloo
+algorithms-and-complexity"]
+	75330.0 [label="John Watrous
+University of Waterloo
+algorithms-and-complexity"]
+	39437.0 [label="Yuri Boykov
+University of Waterloo
+artificial-intelligence-and-machine-learning"]
+	279263.0 [label="Wenhu Chen
+University of Waterloo
+artificial-intelligence-and-machine-learning"]
+	58650.0 [label="Robin Cohen
+University of Waterloo
+artificial-intelligence-and-machine-learning"]
+	167185.0 [label="Jesse Hoey
+University of Waterloo
+artificial-intelligence-and-machine-learning"]
+	119359.0 [label="Kate Larson
+University of Waterloo
+artificial-intelligence-and-machine-learning"]
+	nan [label="Jimmy Lin
+University of Waterloo
+artificial-intelligence-and-machine-learning"]
+	131052.0 [label="Richard Mann
+University of Waterloo
+artificial-intelligence-and-machine-learning"]
+	97099.0 [label="Pascal Poupart
+University of Waterloo
+artificial-intelligence-and-machine-learning"]
+	73583.0 [label="Olga Veksler
+University of Waterloo
+artificial-intelligence-and-machine-learning"]
+	254910.0 [label="Hongyang Zhang
+University of Waterloo
+artificial-intelligence-and-machine-learning"]
+	65049.0 [label="Anita Layton (Department of Applied Mathematics, Faculty of Mathematics)
+University of Waterloo
+bioinformatics"]
+	147355.0 [label="Christopher Batty
+University of Waterloo
+computer-graphics"]
+	66906.0 [label="William Cowan
+University of Waterloo
+computer-graphics"]
+	78067.0 [label="Craig Kaplan
+University of Waterloo
+computer-graphics"]
+	71953.0 [label="Stephen Mann
+University of Waterloo
+computer-graphics"]
+	218594.0 [label="Yousra Aafer 
+University of Waterloo
+cryptography-security-and-privacy-crysp"]
+	67046.0 [label="N. Asokan
+University of Waterloo
+cryptography-security-and-privacy-crysp"]
+	70144.0 [label="Ian Goldberg
+University of Waterloo
+cryptography-security-and-privacy-crysp"]
+	203875.0 [label="Sergey Gorbunov
+University of Waterloo
+cryptography-security-and-privacy-crysp"]
+	206018.0 [label="Mohammad Hajiabadi
+University of Waterloo
+cryptography-security-and-privacy-crysp"]
+	145850.0 [label="Urs Hengartner
+University of Waterloo
+cryptography-security-and-privacy-crysp"]
+	66869.0 [label="Charles Clarke
+University of Waterloo
+data-systems"]
+	66818.0 [label="Gordon Cormack
+University of Waterloo
+data-systems"]
+	102378.0 [label="Lukasz Golab (Dept. of Management Sciences)
+University of Waterloo
+data-systems"]
+	125917.0 [label="Ihab Ilyas
+University of Waterloo
+data-systems"]
+	66887.0 [label="Kenneth Salem
+University of Waterloo
+data-systems"]
+	286451.0 [label="Semih Salihoglu
+University of Waterloo
+data-systems"]
+	70807.0 [label="David Toman
+University of Waterloo
+data-systems"]
+	66879.0 [label="Frank Tompa
+University of Waterloo
+data-systems"]
+	66877.0 [label="Grant Weddell
+University of Waterloo
+data-systems"]
+	66892.0 [label="Joanne Atlee
+University of Waterloo
+formal-methods"]
+	72132.0 [label="Nancy Day
+University of Waterloo
+formal-methods"]
+	69919.0 [label="Richard Trefler
+University of Waterloo
+formal-methods"]
+	121250.0 [label="Vijay Ganesh (Department of Electrical and Computer Engineering)
+University of Waterloo
+formal-methods"]
+	66882.0 [label="Johnny Wong
+University of Waterloo
+health-informatics"]
+	273183.0 [label="Yizhou Zhang
+University of Waterloo
+programming-languages"]
+	111760.0 [label="Brad Lushman
+University of Waterloo
+programming-languages"]
+	142874.0 [label="Werner Dietl (Department of Electrical and Computer Engineering, Faculty of Engineering)
+University of Waterloo
+programming-languages"]
+	103216.0 [label="Patrick Lam (Department of Electrical and Computer Engineering, Faculty of Engineering)
+University of Waterloo
+programming-languages"]
+	66894.0 [label="Peter Forsyth
+University of Waterloo
+scientific-computation"]
+	50835.0 [label="Alan George
+University of Waterloo
+scientific-computation"]
+	87911.0 [label="George Labahn
+University of Waterloo
+scientific-computation"]
+	66915.0 [label="Yuying Li
+University of Waterloo
+scientific-computation"]
+	14473.0 [label="Daniel Berry
+University of Waterloo
+software-engineering"]
+	66817.0 [label="Donald Cowan
+University of Waterloo
+software-engineering"]
+	90655.0 [label="Michael Godfrey
+University of Waterloo
+software-engineering"]
+	220043.0 [label="Shane McIntosh
+University of Waterloo
+software-engineering"]
+	185328.0 [label="Chengnian Sun
+University of Waterloo
+software-engineering"]
+	91384.0 [label="Tim Brecht
+University of Waterloo
+systems-and-networking"]
+	73556.0 [label="Srinivasan Keshav
+University of Waterloo
+systems-and-networking"]
+	233022.0 [label="Ali Mashtizadeh
+University of Waterloo
+systems-and-networking"]
+	66870.0 [label="David Taylor
+University of Waterloo
+systems-and-networking"]
+	66942.0 [label="Paul Ward
+University of Waterloo
+systems-and-networking"]
+	109495 [label="['Scott Joel Aaronson']
+['University of California
+2004"]
+	96436 [label="['Endre  Boros']
+['Eötvös Loránd University']
+1985"]
+	76794 [label="[\"Ryan William O'Donnell\"]
+['Massachusetts Institute of Technology']
+2003"]
+	36705 [label="['David Bernard Shmoys']
+['University of California
+1984"]
+	67145 [label="['Faith
+['University of California
+1982"]
+	64971 [label="['Michael Fredric Sipser']
+['University of California
+1980"]
+	81229 [label="['Charles Weill Rackoff']
+['Massachusetts Institute of Technology']
+1974"]
+	139732 [label="['Constantinos  Daskalakis']
+['University of California
+2008"]
+	20493 [label="['Arto K. Salomaa']
+['Turun yliopisto']
+1960"]
+	40420 [label="[\"Michael Sean O'Brien Molloy\"]
+['Carnegie Mellon University']
+1994"]
+	10404 [label="['Juris  Hartmanis']
+['California Institute of Technology']
+1955"]
+	14011 [label="['Stephen Arthur Cook'
+['Harvard University'
+1966"]
+	16108 [label="'Rudolf Anton Mathon']
+ 'University of Toronto']
+1972"]
+	42043 [label="['Allan Bertram Borodin']
+['Cornell University']
+1969"]
+	67145 [label="['Faith
+['University of California
+1982"]
+	82100 [label="['Avi  Wigderson'
+['Princeton University'
+1983"]
+	25275 [label="'Richard Manning Karp']
+ 'Harvard University']
+1959"]
+	6595 [label="['David M. Goldschmidt'
+['The University of Chicago'
+1969"]
+	13373 [label="'Manuel  Blum']
+ 'Massachusetts Institute of Technology']
+1964"]
+	33040 [label="['Ronald C. Mullin']
+['University of Waterloo']
+1964"]
+	11563 [label="['C. Eric
+['University of California
+1984"]
+	4759 [label="['David Clay Heath']
+['University of Illinois at Urbana-Champaign']
+1969"]
+	279264 [label="['Xifeng  Yan'
+['University of Illinois at Urbana-Champaign'
+2006"]
+	217154 [label="'William Yang  Wang']
+ 'Carnegie Mellon University']
+2016"]
+	8755 [label="['
+['University of Michigan']
+1975"]
+	72124 [label="['James J. Little']
+['University of British Columbia']
+1985"]
+	88145 [label="['Tuomas Wilhelm Sandholm']
+['University of Massachusetts Amherst']
+1996"]
+	176620 [label="Boris Katz
+Lomonosov Moscow State University
+1975"]
+	11836 [label="['Allan D. Jepson']
+['California Institute of Technology']
+1981"]
+	72088 [label="['Craig Edgar Boutilier']
+['University of Toronto']
+1992"]
+	71514 [label="['Ramin  Zabih']
+['Stanford University']
+1994"]
+	132986 [label="['David P. Woodruff'
+['Massachusetts Institute of Technology'
+2007"]
+	148432 [label="'Maria-Florina Nina Balcan']
+ 'Carnegie Mellon University']
+2008"]
+	70795 [label="['Robert  Bridson']
+['Stanford University']
+2003"]
+	128095 [label="['Martin J. Zuckermann']
+['University of Oxford']
+1963"]
+	50412 [label="['David Henry Salesin']
+['Stanford University']
+1991"]
+	33763 [label="['Anthony David DeRose']
+['University of California
+1985"]
+	81699 [label="['Wenliang  Du']
+['Purdue University']
+2001"]
+	120682 [label="['Michael \xa0 Waidner'
+['Karlsruher Institut für Technologie 
+1991"]
+	66819 [label="'James P. Black']
+ 'University of Waterloo']
+1982"]
+	67451 [label="['Eric Allen Brewer']
+['Massachusetts Institute of Technology']
+1994"]
+	133526 [label="['Vinod  Vaikuntanathan']
+['Massachusetts Institute of Technology']
+2008"]
+	72032 [label="['Bruce M. Kapron']
+['University of Toronto']
+1991"]
+	50087 [label="['Peter Alfons Steenkiste']
+['Stanford University']
+1987"]
+	66818 [label="['Gordon Villy Cormack']
+['University of Manitoba']
+1981"]
+	72390 [label="['M. Tamer
+['The Ohio State University']
+1983"]
+	96256 [label="['Ahmed Khalifa Elmagarmid'
+['The Ohio State University'
+1985"]
+	117312 [label="'Walid G. Aref']
+ 'University of Maryland College Park']
+1993"]
+	70978 [label="['Hector  Garcia-Molina']
+['Stanford University']
+1979"]
+	70979 [label="['Jennifer  Widom']
+['Cornell University']
+1987"]
+	70371 [label="['Jan Oskar Chomicki']
+['Rutgers University
+1990"]
+	24934 [label="['Calvin Carl Gotlieb']
+['University of Toronto']
+1947"]
+	79993 [label="['Stavros C. Christodoulakis']
+['University of Toronto']
+1981"]
+	103306 [label="['John Dennis Gannon
+['University of Toronto']
+1975"]
+	72125 [label="['Jeffrey John Joyce']
+['University of Cambridge']
+1990"]
+	69873 [label="['E. Allen
+['Harvard University']
+1981"]
+	50263 [label="['David L. Dill']
+['Carnegie Mellon University']
+1987"]
+	70476 [label="['Richard Robert Muntz']
+['Princeton University']
+1969"]
+	61959 [label="['Andrew Clifford Myers']
+['Massachusetts Institute of Technology']
+1999"]
+	66818 [label="['Gordon Villy Cormack']
+['University of Manitoba']
+1981"]
+	142873 [label="['Martin  Odersky'
+['ETH Zürich'
+1989"]
+	71839 [label="'Michael Dean Ernst'
+ 'University of Washington'
+2000"]
+	97971 [label="'Peter  Müller']
+ 'Fernuniversität Hagen']
+2001"]
+	71513 [label="['Martin C. Rinard']
+['Stanford University']
+1994"]
+	68238 [label="['Henning  Rasmussen']
+['University of Queensland']
+1968"]
+	4319 [label="['George Elmer Forsythe']
+['Brown University']
+1941"]
+	72398 [label="['Stanley  Cabay']
+['University of Toronto']
+1971"]
+	42579 [label="['Andrew Roger Conn']
+['University of Waterloo']
+1971"]
+	13683 [label="['Clement Leo McGowan. III'
+['Cornell University'
+1971"]
+	15166 [label="'Peter  Wegner']
+ 'University of London']
+1968"]
+	15914 [label="['Gerald  Berman']
+['University of Toronto']
+1950"]
+	67141 [label="['Richard Craig Holt']
+['Cornell University']
+1971"]
+	90657 [label="['Ahmed  Hassan']
+['University of Waterloo']
+2005"]
+	4794 [label="['Yeneng  Sun'
+['University of Illinois at Urbana-Champaign'
+1989"]
+	72059 [label="'Xiao  Luo']
+ 'University of Victoria']
+1993"]
+	67136 [label="['Songnian  Zhou']
+['University of California
+1987"]
+	32850 [label="['Domenico  Ferrari']
+['Politecnico di Milano']
+1963"]
+	61965 [label="['David Folkman Mazières']
+['Massachusetts Institute of Technology']
+2000"]
+	66871 [label="['David E. Morgan']
+['University of Waterloo']
+1971"]
+	66870 [label="['David J. Taylor']
+['University of Waterloo']
+1977"]
+	109495 -> 251553.0
+	96436 -> 96437.0
+	76794 -> 162538.0
+	36705 -> 45379.0
+	67145 -> 252543.0
+	64971 -> 65073.0
+	81229 -> 81270.0
+	139732 -> 264772.0
+	20493 -> 20521.0
+	40420 -> 141559.0
+	10404 -> 94793.0
+	14011 -> 65035.0
+	16108 -> 65035.0
+	42043 -> 65036.0
+	67145 -> 66900.0
+	82100 -> 66895.0
+	25275 -> 66895.0
+	6595 -> 31748.0
+	13373 -> 31748.0
+	33040 -> 33044.0
+	11563 -> 75330.0
+	4759 -> 39437.0
+	279264 -> 279263.0
+	217154 -> 279263.0
+	8755 -> 58650.0
+	72124 -> 167185.0
+	88145 -> 119359.0
+	176620 -> nan
+	11836 -> 131052.0
+	72088 -> 97099.0
+	71514 -> 73583.0
+	132986 -> 254910.0
+	148432 -> 254910.0
+	65023 -> 65049.0
+	59043 -> 65049.0
+	70795 -> 147355.0
+	128095 -> 66906.0
+	50412 -> 78067.0
+	33763 -> 71953.0
+	81699 -> 218594.0
+	120682 -> 67046.0
+	66819 -> 67046.0
+	67451 -> 70144.0
+	133526 -> 203875.0
+	72032 -> 206018.0
+	50087 -> 145850.0
+	66818 -> 66869.0
+	80823 -> 66818.0
+	72390 -> 102378.0
+	96256 -> 125917.0
+	117312 -> 125917.0
+	70978 -> 66887.0
+	70979 -> 286451.0
+	70371 -> 70807.0
+	24934 -> 66879.0
+	79993 -> 66877.0
+	103306 -> 66892.0
+	72125 -> 72132.0
+	69873 -> 69919.0
+	50263 -> 121250.0
+	70476 -> 66882.0
+	61959 -> 273183.0
+	66818 -> 111760.0
+	142873 -> 142874.0
+	71839 -> 142874.0
+	97971 -> 142874.0
+	71513 -> 103216.0
+	68238 -> 66894.0
+	4319 -> 50835.0
+	72398 -> 87911.0
+	42579 -> 66915.0
+	13683 -> 14473.0
+	15166 -> 14473.0
+	15914 -> 66817.0
+	67141 -> 90655.0
+	90657 -> 220043.0
+	4794 -> 185328.0
+	72059 -> 185328.0
+	67136 -> 91384.0
+	32850 -> 73556.0
+	61965 -> 233022.0
+	66871 -> 66870.0
+	66870 -> 66942.0
+}
