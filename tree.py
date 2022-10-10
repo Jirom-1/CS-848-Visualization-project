@@ -1,3 +1,4 @@
+from turtle import color, fillcolor
 import pandas as pd
 import graphviz
 import re
@@ -6,7 +7,7 @@ import re
 # plot academic genealogy tree
 
 # read data
-df = pd.read_csv('datasets/cs_professors.csv')
+df = pd.read_csv('datasets/algorithms-and-complexity.csv')
 
 # create graph
 dot = graphviz.Digraph("Academic Genealogy", format='png')
@@ -43,7 +44,7 @@ def getAdvisorYears(string):
 
 #create UWaterloo professor nodes
 for i in range(len(df)):
-    dot.node(str(df.loc[i, 'ID']), df.loc[i, 'Name'] + "\n" + "University of Waterloo\n"+ df.loc[i, 'Specialization'])
+    dot.node(str(df.loc[i, 'ID']), df.loc[i, 'Name'] + "\n" + str(df.loc[i, 'school']) + "\n" +   str(df.loc[i, 'year']) + "\n" + df.loc[i, 'Specialization'], fillcolor='blue')
 
 # #create advisor nodes
 for i in range(len(df)):
@@ -62,4 +63,4 @@ for i in range(len(df)):
         except:
             pass
 print(dot.source)
-dot.render('tree.gv', view=True)
+dot.render('algo-and-complex-tree.gv', view=True)

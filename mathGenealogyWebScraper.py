@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 
 def scrapeAdvisorIDs(professor_id):
     # return the ID(s) of a professor's advisor(s)
-    URL = "https://mathgenealogy.org/id.php?id=" + professor_id
+    URL = "https://mathgenealogy.org/id.php?id=" + str(professor_id)
     r = requests.get(URL)
     soup = BeautifulSoup(r.content, 'html5lib')
 
@@ -56,5 +56,5 @@ def scrapeProfessorDetails(ids):
     return (names, schools, years)
 
 
-# id = '151763'
+# id = '251553'
 # print(scrapeAdvisorIDs(id))
