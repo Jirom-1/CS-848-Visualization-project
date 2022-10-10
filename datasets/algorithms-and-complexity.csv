@@ -1,0 +1,19 @@
+Name,Specialization,ID,school,year,advisor_id,advisor_name,advisor_school,advisor_year
+Shalev Ben-David,algorithms-and-complexity,251553,['Massachusetts Institute of Technology'],['2017'],['109495'],['Scott Joel Aaronson'],"['University of California, Berkeley']",['2004']
+Therese Biedl,algorithms-and-complexity,96437,"['Rutgers University, New Brunswick']",['1997'],['96436'],['Endre  Boros'],['Eötvös Loránd University'],['1985']
+Eric Blais,algorithms-and-complexity,162538,['Carnegie Mellon University'],['2012'],['76794'],"[""Ryan William O'Donnell""]",['Massachusetts Institute of Technology'],['2003']
+Dan Brown,algorithms-and-complexity,45379,['Cornell University'],['2000'],['36705'],['David Bernard Shmoys'],"['University of California, Berkeley']",['1984']
+Trevor Brown,algorithms-and-complexity,252543,['University of Toronto'],['2017'],['67145'],['Faith (Fich) Ellen'],"['University of California, Berkeley']",['1982']
+Jonathan Buss,algorithms-and-complexity,65073,['Massachusetts Institute of Technology'],['1986'],['64971'],['Michael Fredric Sipser'],"['University of California, Berkeley']",['1980']
+Richard Cleve,algorithms-and-complexity,81270,['University of Toronto'],['1989'],['81229'],['Charles Weill Rackoff'],['Massachusetts Institute of Technology'],['1974']
+Gautam Kamath,algorithms-and-complexity,264772,['Massachusetts Institute of Technology'],['2018'],['139732'],['Constantinos  Daskalakis'],"['University of California, Berkeley']",['2008']
+Lila Kari,algorithms-and-complexity,20521,['Turun yliopisto'],['1991'],['20493'],['Arto K. Salomaa'],['Turun yliopisto'],['1960']
+Lap Chi Lau,algorithms-and-complexity,141559,['University of Toronto'],['2006'],['40420'],"[""Michael Sean O'Brien Molloy""]",['Carnegie Mellon University'],['1994']
+Ming Li,algorithms-and-complexity,94793,['Cornell University'],['1985'],['10404'],['Juris  Hartmanis'],['California Institute of Technology'],['1955']
+Anna Lubiw,algorithms-and-complexity,65035,['University of Toronto'],['1985'],"['16108', '14011']","['Rudolf Anton Mathon', 'Stephen Arthur Cook']","['University of Toronto', 'Harvard University']","['1972', '1966']"
+Ian Munro,algorithms-and-complexity,65036,['University of Toronto'],['1971'],['42043'],['Allan Bertram Borodin'],['Cornell University'],['1969']
+Naomi Nishimura,algorithms-and-complexity,66900,['University of Toronto'],['nto'],['67145'],['Faith (Fich) Ellen'],"['University of California, Berkeley']",['1982']
+Prabhakar Ragde,algorithms-and-complexity,66895,"['University of California, Berkeley']",['1986'],"['82100', '25275']","['Avi  Wigderson', 'Richard Manning Karp']","['Princeton University', 'Harvard University']","['1983', '1959']"
+Jeffrey Shallit,algorithms-and-complexity,31748,"['University of California, Berkeley']",['1983'],"['13373', '6595']","['Manuel  Blum', 'David M. Goldschmidt']","['Massachusetts Institute of Technology', 'The University of Chicago']","['1964', '1969']"
+Doug Stinson,algorithms-and-complexity,33044,['University of Waterloo'],['1981'],['33040'],['Ronald C. Mullin'],['University of Waterloo'],['1964']
+John Watrous,algorithms-and-complexity,75330,['University of Wisconsin-Madison'],['1998'],['11563'],['C. Eric (Carl) Bach'],"['University of California, Berkeley']",['1984']

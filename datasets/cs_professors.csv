@@ -1,0 +1,72 @@
+Name,Specialization,ID,advisor_id,advisor_name,advisor_school,advisor_year,advisor_dissertation
+Shalev Ben-David,algorithms-and-complexity,251553,['109495'],['Scott Joel Aaronson'],"['University of California, Berkeley']",['2004'],Limits on Efficient Computation in the Physical World
+Therese Biedl,algorithms-and-complexity,96437,['96436'],['Endre  Boros'],['Eötvös Loránd University'],['1985'],
+Eric Blais,algorithms-and-complexity,162538,['76794'],"[""Ryan William O'Donnell""]",['Massachusetts Institute of Technology'],['2003'],Computational Applications of Noise Sensitivity
+Dan Brown,algorithms-and-complexity,45379,['36705'],['David Bernard Shmoys'],"['University of California, Berkeley']",['1984'],"Approximation Algorithms for Problems in Sequencing, Scheduling, and Communication Network Design"
+Trevor Brown,algorithms-and-complexity,252543,['67145'],['Faith (Fich) Ellen'],"['University of California, Berkeley']",['1982'],Two Problems in Concrete Complexity:  Cycle Detection and Parallel Prefix Computation
+Jonathan Buss,algorithms-and-complexity,65073,['64971'],['Michael Fredric Sipser'],"['University of California, Berkeley']",['1980'],Nondeterminism and the Size of Two-Way Finite Automata
+Richard Cleve,algorithms-and-complexity,81270,['81229'],['Charles Weill Rackoff'],['Massachusetts Institute of Technology'],['1974'],The Computational Complexity of Some Logical Theories
+Gautam Kamath,algorithms-and-complexity,264772,['139732'],['Constantinos  Daskalakis'],"['University of California, Berkeley']",['2008'],The Complexity of Nash Equilibria
+Lila Kari,algorithms-and-complexity,20521,['20493'],['Arto K. Salomaa'],['Turun yliopisto'],['1960'],On the Composition of Functions of Several Variables Ranging Over a Finite Set
+Lap Chi Lau,algorithms-and-complexity,141559,['40420'],"[""Michael Sean O'Brien Molloy""]",['Carnegie Mellon University'],['1994'],Random Graphs with a Fixed Degree Sequence
+Ming Li,algorithms-and-complexity,94793,['10404'],['Juris  Hartmanis'],['California Institute of Technology'],['1955'],Some Embedding Theorems for Lattices
+Anna Lubiw,algorithms-and-complexity,65035,"['14011', '16108']","['Stephen Arthur Cook', 'Rudolf Anton Mathon']","['Harvard University', 'University of Toronto']","['1966', '1972']",On the Approximation of Elliptic Boundary Value Problems by Fundamental Solutions
+Ian Munro,algorithms-and-complexity,65036,['42043'],['Allan Bertram Borodin'],['Cornell University'],['1969'],Computational Complexity and the Existence of Complexity Gaps
+Naomi Nishimura,algorithms-and-complexity,66900,['67145'],['Faith (Fich) Ellen'],"['University of California, Berkeley']",['1982'],Two Problems in Concrete Complexity:  Cycle Detection and Parallel Prefix Computation
+Prabhakar Ragde,algorithms-and-complexity,66895,"['82100', '25275']","['Avi  Wigderson', 'Richard Manning Karp']","['Princeton University', 'Harvard University']","['1983', '1959']",Studies in Computational Complexity
+Jeffrey Shallit,algorithms-and-complexity,31748,"['6595', '13373']","['David M. Goldschmidt', 'Manuel  Blum']","['The University of Chicago', 'Massachusetts Institute of Technology']","['1969', '1964']",On the 2-Exponent of a Finite Group
+Doug Stinson,algorithms-and-complexity,33044,['33040'],['Ronald C. Mullin'],['University of Waterloo'],['1964'],An Enumerative Survey of Triangular Maps
+John Watrous,algorithms-and-complexity,75330,['11563'],['C. Eric (Carl) Bach'],"['University of California, Berkeley']",['1984'],Analytic Methods in the Analysis and Design of Number-Theoretic Algorithms
+Yuri Boykov,artificial-intelligence-and-machine-learning,39437,['4759'],['David Clay Heath'],['University of Illinois at Urbana-Champaign'],['1969'],Probabilistic Analysis of Hyperbolic Systems of Partial Differential Equations
+Wenhu Chen,artificial-intelligence-and-machine-learning,279263,"['279264', '217154']","['Xifeng  Yan', 'William Yang  Wang']","['University of Illinois at Urbana-Champaign', 'Carnegie Mellon University']","['2006', '2016']",Learning to Reason with a Scalable Probabilistic Logic
+Robin Cohen,artificial-intelligence-and-machine-learning,58650,['8755'],['(Charles) Raymond  Perrault'],['University of Michigan'],['1975'],Augmented Transition Networks and Their Relation to Tree Manipulation Systems
+Jesse Hoey,artificial-intelligence-and-machine-learning,167185,['72124'],['James J. Little'],['University of British Columbia'],['1985'],
+Kate Larson,artificial-intelligence-and-machine-learning,119359,['88145'],['Tuomas Wilhelm Sandholm'],['University of Massachusetts Amherst'],['1996'],Negotiation among Self-Interested Computationally Limited Agents
+Jimmy Lin,artificial-intelligence-and-machine-learning,N/A,[‘176620’],Boris Katz,Lomonosov Moscow State University,[‘1975'],
+Richard Mann,artificial-intelligence-and-machine-learning,131052,['11836'],['Allan D. Jepson'],['California Institute of Technology'],['1981'],I. Asymptotic Boundary Conditions for Ordinary Differential Equations.  II. Numerical Hopf Bifurcation.
+Pascal Poupart,artificial-intelligence-and-machine-learning,97099,['72088'],['Craig Edgar Boutilier'],['University of Toronto'],['1992'],Conditional logics for default reasoning and belief revision
+Olga Veksler,artificial-intelligence-and-machine-learning,73583,['71514'],['Ramin  Zabih'],['Stanford University'],['1994'],Individuating Unknown Objects by Combining Motion and Stereo
+Hongyang Zhang,artificial-intelligence-and-machine-learning,254910,"['132986', '148432']","['David P. Woodruff', 'Maria-Florina Nina Balcan']","['Massachusetts Institute of Technology', 'Carnegie Mellon University']","['2007', '2008']",Efficient and Private Distance Approximation in the Communication and Streaming Models
+"Anita Layton (Department of Applied Mathematics, Faculty of Mathematics)",bioinformatics,65049,"['65023', '59043']","['Christina  Christara', 'Kenneth Ronald Jackson']","['', 'University of Toronto']","['D.', '1978']","Variable Stepsize, Variable Order Integrand Approximation Methods"
+Christopher Batty,computer-graphics,147355,['70795'],['Robert  Bridson'],['Stanford University'],['2003'],Computational Aspects of Dynamic Surfaces
+William Cowan,computer-graphics,66906,['128095'],['Martin J. Zuckermann'],['University of Oxford'],['1963'],Some problems in quantum field theory
+Craig Kaplan,computer-graphics,78067,['50412'],['David Henry Salesin'],['Stanford University'],['1991'],Epsilon Geometry:  Building Robust Algorithms from Imprecise Computations
+Stephen Mann,computer-graphics,71953,['33763'],['Anthony David DeRose'],"['University of California, Berkeley']",['1985'],Geometric Continuity:  A Parametrization Independent Measure of Continuity for Computer Aided Geometric Design
+Yousra Aafer ,cryptography-security-and-privacy-crysp,218594,['81699'],['Wenliang  Du'],['Purdue University'],['2001'],A Study of Several Specific Secure Two-Party Computation Problems
+N. Asokan,cryptography-security-and-privacy-crysp,67046,"['120682', '66819']","['Michael \xa0 Waidner', 'James P. Black']","['Karlsruher Institut für Technologie (KIT)', 'University of Waterloo']","['1991', '1982']",Analysis and Design of Systems of Robust Storage Structures
+Ian Goldberg,cryptography-security-and-privacy-crysp,70144,['67451'],['Eric Allen Brewer'],['Massachusetts Institute of Technology'],['1994'],Portable High-Performance Supercomputing: High-Level Platform-Dependent Optimization
+Sergey Gorbunov,cryptography-security-and-privacy-crysp,203875,['133526'],['Vinod  Vaikuntanathan'],['Massachusetts Institute of Technology'],['2008'],Randomized Algorithms for Reliable Broadcast
+Mohammad Hajiabadi,cryptography-security-and-privacy-crysp,206018,['72032'],['Bruce M. Kapron'],['University of Toronto'],['1991'],Feasible Computation in Higher Types
+Urs Hengartner,cryptography-security-and-privacy-crysp,145850,['50087'],['Peter Alfons Steenkiste'],['Stanford University'],['1987'],LISP on a Reduced-Instuction-Set Processor:  Characterization and Optimization
+Charles Clarke,data-systems,66869,['66818'],['Gordon Villy Cormack'],['University of Manitoba'],['1981'],Separate Compilation and New Language Features
+Gordon Cormack,data-systems,66818,['80823'],['Peter R. King'],[''],['D.'],
+Lukasz Golab (Dept. of Management Sciences),data-systems,102378,['72390'],['M. Tamer (Mehmet) Ozsu'],['The Ohio State University'],['1983'],The Modeling and Analysis of Distributed Database Concurrency Control Mechanisms
+Ihab Ilyas,data-systems,125917,"['96256', '117312']","['Ahmed Khalifa Elmagarmid', 'Walid G. Aref']","['The Ohio State University', 'University of Maryland College Park']","['1985', '1993']",Deadlock Detection and Resolution in Distributed Processing Systems
+Kenneth Salem,data-systems,66887,['70978'],['Hector  Garcia-Molina'],['Stanford University'],['1979'],Performance of Update Algorithms for Replicated Data in a Distributed Database
+Semih Salihoglu,data-systems,286451,['70979'],['Jennifer  Widom'],['Cornell University'],['1987'],Trace-Based Network Proof Systems:  Expressiveness and Completeness
+David Toman,data-systems,70807,['70371'],['Jan Oskar Chomicki'],"['Rutgers University, New Brunswick']",['1990'],Functional Deductive Databases: Query Processing in the Presence of Limited Function Symbols
+Frank Tompa,data-systems,66879,['24934'],['Calvin Carl Gotlieb'],['University of Toronto'],['1947'],Problems Connected with the Trajectory of a Yawing Shell
+Grant Weddell,data-systems,66877,['79993'],['Stavros C. Christodoulakis'],['University of Toronto'],['1981'],Estimating Selectivities in Data Bases
+Joanne Atlee,formal-methods,66892,['103306'],"['John Dennis Gannon, Jr.']",['University of Toronto'],['1975'],Language Design to Enhance Programming Reliability
+Nancy Day,formal-methods,72132,['72125'],['Jeffrey John Joyce'],['University of Cambridge'],['1990'],Multi-Level Verification of Microprocessor-Based Systems
+Richard Trefler,formal-methods,69919,['69873'],['E. Allen (Ernest) Emerson'],['Harvard University'],['1981'],Branching Time Temporal Logic and the Design of Correct Concurrent Programs
+Vijay Ganesh (Department of Electrical and Computer Engineering),formal-methods,121250,['50263'],['David L. Dill'],['Carnegie Mellon University'],['1987'],Trace Theory for Automatic Heirarchical Verification of Speed-independent Circuits
+Johnny Wong,health-informatics,66882,['70476'],['Richard Robert Muntz'],['Princeton University'],['1969'],Scheduling of Computations on Multiprocessor Systems
+Yizhou Zhang,programming-languages,273183,['61959'],['Andrew Clifford Myers'],['Massachusetts Institute of Technology'],['1999'],Mostly-Static Decentralized Information Flow Control
+Brad Lushman,programming-languages,111760,['66818'],['Gordon Villy Cormack'],['University of Manitoba'],['1981'],Separate Compilation and New Language Features
+"Werner Dietl (Department of Electrical and Computer Engineering, Faculty of Engineering)",programming-languages,142874,"['142873', '71839', '97971']","['Martin  Odersky', 'Michael Dean Ernst', 'Peter  Müller']","['ETH Zürich', 'University of Washington', 'Fernuniversität Hagen']","['1989', '2000', '2001']",Modular Specification and Verification of Object-Oriented Programs
+"Patrick Lam (Department of Electrical and Computer Engineering, Faculty of Engineering)",programming-languages,103216,['71513'],['Martin C. Rinard'],['Stanford University'],['1994'],"The Design, Implementation and Evaluation of Jade:  A Portable, Implicitly Parallel Programming Language"
+Peter Forsyth,scientific-computation,66894,['68238'],['Henning  Rasmussen'],['University of Queensland'],['1968'],Steady viscous axisymmetric flows associated with rotating disks.
+Alan George,scientific-computation,50835,['4319'],['George Elmer Forsythe'],['Brown University'],['1941'],"Riesz Summabilitly Methods of Order r, for R (r) < 0,  Cesaro Summability of Independent Random Variables"
+George Labahn,scientific-computation,87911,['72398'],['Stanley  Cabay'],['University of Toronto'],['1971'],Second-Order Hyperbolic Equations with Data onTwo Intersecting Boundaries
+Yuying Li,scientific-computation,66915,['42579'],['Andrew Roger Conn'],['University of Waterloo'],['1971'],A Gradient Type Method of Locating Constrained Minima
+Daniel Berry,software-engineering,14473,"['13683', '15166']","['Clement Leo McGowan. III', 'Peter  Wegner']","['Cornell University', 'University of London']","['1971', '1968']","Programming Languages, Information Structures And Machine Organization"
+Donald Cowan,software-engineering,66817,['15914'],['Gerald  Berman'],['University of Toronto'],['1950'],Finite Projective Geometries
+Michael Godfrey,software-engineering,90655,['67141'],['Richard Craig Holt'],['Cornell University'],['1971'],On Deadlock in Computer Systems
+Shane McIntosh,software-engineering,220043,['90657'],['Ahmed  Hassan'],['University of Waterloo'],['2005'],Mining Software Repositories to Assist Developers and Support Managers
+Chengnian Sun,software-engineering,185328,"['4794', '72059']","['Yeneng  Sun', 'Xiao  Luo']","['University of Illinois at Urbana-Champaign', 'University of Victoria']","['1989', '1993']",Nonstandard Theory of Vector Measures
+Tim Brecht,systems-and-networking,91384,['67136'],['Songnian  Zhou'],"['University of California, Berkeley']",['1987'],Performance Studies of Dynamic Load Balancing in Distributed Systems
+Srinivasan Keshav,systems-and-networking,73556,['32850'],['Domenico  Ferrari'],['Politecnico di Milano'],['1963'],
+Ali Mashtizadeh,systems-and-networking,233022,['61965'],['David Folkman Mazières'],['Massachusetts Institute of Technology'],['2000'],Self-Certifying File System
+David Taylor,systems-and-networking,66870,['66871'],['David E. Morgan'],['University of Waterloo'],['1971'],Representation and Analysis of Computer Systems and Processes
+Paul Ward,systems-and-networking,66942,['66870'],['David J. Taylor'],['University of Waterloo'],['1977'],Robust Data Structure Implementations for Software Reliability
