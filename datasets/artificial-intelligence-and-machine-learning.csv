@@ -1,0 +1,34 @@
+Name,Specialization,ID,school,year,Generation,advisor_id
+Yuri Boykov,artificial-intelligence-and-machine-learning,39437,['Cornell University'],['1996'],0,['4759']
+Dan Brown,artificial-intelligence-and-machine-learning,45379,['Cornell University'],['2000'],0,['36705']
+Wenhu Chen,artificial-intelligence-and-machine-learning,279263,"['University of California, Santa Barbara']",['2021'],0,nan217154;279264;217154;279264;
+Robin Cohen,artificial-intelligence-and-machine-learning,58650,['University of Toronto'],['1983'],0,['8755']
+Jesse Hoey,artificial-intelligence-and-machine-learning,167185,['University of British Columbia'],['2004'],0,['72124']
+Gautam Kamath,artificial-intelligence-and-machine-learning,264772,['Massachusetts Institute of Technology'],['2018'],0,['139732']
+Kate Larson,artificial-intelligence-and-machine-learning,119359,['Carnegie Mellon University'],['2004'],0,['88145']
+Jimmy Lin,artificial-intelligence-and-machine-learning,,['Massachusetts Institute of Technology'],['2004'],0,176620.0
+Richard Mann,artificial-intelligence-and-machine-learning,131052,['University of Toronto'],['1997'],0,['11836']
+Pascal Poupart,artificial-intelligence-and-machine-learning,97099,['University of Toronto'],['2005'],0,['72088']
+Olga Veksler,artificial-intelligence-and-machine-learning,73583,['Cornell University'],['1999'],0,['71514']
+Hongyang Zhang,artificial-intelligence-and-machine-learning,254910,['Carnegie Mellon University'],['2019'],0,nan132986;148432;132986;148432;
+Xifeng  Yan,artificial-intelligence-and-machine-learning,279264,University of Illinois at Urbana-Champaign,2006,1,['72247']
+Maria-Florina Nina Balcan,artificial-intelligence-and-machine-learning,148432,Carnegie Mellon University,2008,1,['33035']
+Jiawei  Han,artificial-intelligence-and-machine-learning,72247,University of Wisconsin-Madison,1985,2,['82279']
+Avrim Louis Blum,artificial-intelligence-and-machine-learning,33035,Massachusetts Institute of Technology,1991,2,['50081']
+Larry  Travis,artificial-intelligence-and-machine-learning,82279,"University of California, Los Angeles",1966,3,['15886']
+Ronald Linn Rivest,artificial-intelligence-and-machine-learning,50081,Stanford University,1974,3,['69223']
+Abraham  Robinson,artificial-intelligence-and-machine-learning,15886.0,University of London,1949,4,['24557']
+Robert W Floyd,artificial-intelligence-and-machine-learning,69223,The University of Chicago,1953,4,None
+Paul  Dienes,artificial-intelligence-and-machine-learning,24557,Eötvös Loránd University and Université Paris IV-Sorbonne,1907,5,['39071']
+Émile  Borel,artificial-intelligence-and-machine-learning,39071,École Normale Supérieure Paris,1893,6,['34254']
+Gaston  Darboux,artificial-intelligence-and-machine-learning,34254,École Normale Supérieure Paris,1866,7,['26995']
+Michel  Chasles,artificial-intelligence-and-machine-learning,26995,École Polytechnique,1814,8,['17865']
+Siméon Denis Poisson,artificial-intelligence-and-machine-learning,17865,École Polytechnique,1800,9,17864;108295;17864;108295;
+Joseph Louis Lagrange,artificial-intelligence-and-machine-learning,17864.,,ee,10,38586;146036;38586;146036;
+Pierre-Simon  Laplace,artificial-intelligence-and-machine-learning,108295,Université de Caen Normandie,1769,10,['108266']
+Xifeng  Yan,artificial-intelligence-and-machine-learning,279264,University of Illinois at Urbana-Champaign,2006,1,72247
+William Yang  Wang,artificial-intelligence-and-machine-learning,217154,Carnegie Mellon University,2016,1,70227
+Xifeng  Yan,artificial-intelligence-and-machine-learning,279264,University of Illinois at Urbana-Champaign,2006,1,72247
+Maria-Florina Nina Balcan,artificial-intelligence-and-machine-learning,148432,Carnegie Mellon University,2008,1,33035
+David P. Woodruff,artificial-intelligence-and-machine-learning,132986,Massachusetts Institute of Technology,2007,1,71081
+Maria-Florina Nina Balcan,artificial-intelligence-and-machine-learning,148432,Carnegie Mellon University,2008,1,33035

@@ -32,28 +32,25 @@ def scrapeAdvisorIDs(professor_id):
         # print(student_ids)
     except:
         student_ids = []
+        raise
 
     # return set difference as list
     return list(set(ids) - set(student_ids))
 
 
-def scrapeProfessorDetails(ids):
+def scrapeProfessorDetails(id):
     # return the name, school, and year of a professor
-    names = []
-    schools = []
-    years = []
-    for id in ids:
-        URL = "https://mathgenealogy.org/id.php?id=" + id
-        r = requests.get(URL)
-        soup = BeautifulSoup(r.content, 'html5lib')
-        professor_details = soup.find_all('span')
+    URL = "https://mathgenealogy.org/id.php?id=" + id
+    r = requests.get(URL)
+    soup = BeautifulSoup(r.content, 'html5lib')
+    professor_details = soup.find_all('span')
 
 
-        names.append(soup.findAll('h2')[0].get_text().strip())
-        schools.append(professor_details[1].get_text().strip())
-        years.append(professor_details[0].get_text()[-4:].strip())
+    name = soup.findAll('h2')[0].get_text().strip()
+    school = professor_details[1].get_text().strip()
+    year = professor_details[0].get_text()[-4:].strip()
 
-    return (names, schools, years)
+    return (name, school, year)
 
 
 # id = '251553'
