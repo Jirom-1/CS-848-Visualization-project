@@ -1,0 +1,47 @@
+Name,Specialization,ID,school,year,Generation,advisor_id
+Shalev Ben-David,Quantum computing,251553,['Massachusetts Institute of Technology'],['2017'],0,109495
+Richard Cleve,Quantum computing,81270,['University of Toronto'],['1989'],0,81229
+John Watrous,Quantum computing,75330,['University of Wisconsin-Madison'],['1998'],0,11563
+Scott Joel Aaronson,Quantum computing,109495,"University of California, Berkeley",2004,1,38686
+Charles Weill Rackoff,Quantum computing,81229,Massachusetts Institute of Technology,1974,1,25184
+C. Eric (Carl) Bach,Quantum computing,11563,"University of California, Berkeley",1984,1,13373
+Umesh Virkumar Vazirani,Quantum computing,38686,"University of California, Berkeley",1986,2,13373
+Albert Ronald da Silva Meyer,Quantum computing,25184,Harvard University,1972,2,13297
+Manuel  Blum,Quantum computing,13373,Massachusetts Institute of Technology,1964,2,6869
+Manuel  Blum,Quantum computing,13373,Massachusetts Institute of Technology,1964,3,6869
+Patrick Carl Fischer,Quantum computing,13297,Massachusetts Institute of Technology,1962,3,8021
+Marvin Lee Minsky,Quantum computing,6869,Princeton University,1954,3,8581
+Marvin Lee Minsky,Quantum computing,6869,Princeton University,1954,4,8581
+"Hartley  Rogers, Jr.",Quantum computing,8021,Princeton University,1952,4,8011
+Albert William Tucker,Quantum computing,8581,Princeton University,1932,4,7461
+Albert William Tucker,Quantum computing,8581,Princeton University,1932,5,7461
+Alonzo  Church,Quantum computing,8011,Princeton University,1927,5,805
+Solomon  Lefschetz,Quantum computing,7461,Clark University,1911,5,7451
+Solomon  Lefschetz,Quantum computing,7461,Clark University,1911,6,7451
+Oswald  Veblen,Quantum computing,805,The University of Chicago,1903,6,806
+William Edward Story,Quantum computing,7451,Universität Leipzig,1875,6,32858;18589;
+William Edward Story,Quantum computing,7451,Universität Leipzig,1875,7,32858;18589;
+E. H. (Eliakim Hastings) Moore,Quantum computing,806,Yale University,1885,7,7865
+Carl Gottfried Neumann,Quantum computing,32858,Universität Königsberg,1856,7,46967;57706;
+Wilhelm  Scheibner,Quantum computing,18589,Martin-Luther-Universität Halle-Wittenberg,1848,7,15635
+Carl Gottfried Neumann,Quantum computing,32858,Universität Königsberg,1856,8,46967;57706;
+Wilhelm  Scheibner,Quantum computing,18589,Martin-Luther-Universität Halle-Wittenberg,1848,8,15635
+H. A. (Hubert Anson) Newton,Quantum computing,7865,Yale University,1850,8,26995
+Otto  Hesse,Quantum computing,46967,Universität Königsberg,1840,8,15635
+Friedrich Julius Richelot,Quantum computing,57706,Universität Königsberg,1831,8,15635
+Carl Gustav Jacob Jacobi,Quantum computing,15635,Humboldt-Universität zu Berlin,1825,8,41423
+Otto  Hesse,Quantum computing,46967,Universität Königsberg,1840,9,15635
+Friedrich Julius Richelot,Quantum computing,57706,Universität Königsberg,1831,9,15635
+Carl Gustav Jacob Jacobi,Quantum computing,15635,Humboldt-Universität zu Berlin,1825,9,41423
+Michel  Chasles,Quantum computing,26995,École Polytechnique,1814,9,17865
+Carl Gustav Jacob Jacobi,Quantum computing,15635,Humboldt-Universität zu Berlin,1825,9,41423
+Carl Gustav Jacob Jacobi,Quantum computing,15635,Humboldt-Universität zu Berlin,1825,9,41423
+Enno Heeren Dirksen,Quantum computing,41423,Georg-August-Universität Göttingen,1820,9,57659;57667;
+Carl Gustav Jacob Jacobi,Quantum computing,15635,Humboldt-Universität zu Berlin,1825,10,41423
+Carl Gustav Jacob Jacobi,Quantum computing,15635,Humboldt-Universität zu Berlin,1825,10,41423
+Enno Heeren Dirksen,Quantum computing,41423,Georg-August-Universität Göttingen,1820,10,57659;57667;
+Siméon Denis Poisson,Quantum computing,17865,École Polytechnique,1800,10,108295;17864;
+Enno Heeren Dirksen,Quantum computing,41423,Georg-August-Universität Göttingen,1820,10,57659;57667;
+Enno Heeren Dirksen,Quantum computing,41423,Georg-August-Universität Göttingen,1820,10,57659;57667;
+Johann Tobias Mayer,Quantum computing,57659,Georg-August-Universität Göttingen,1773,10,66476;65161;
+Bernhard Friedrich Thibaut,Quantum computing,57667,Georg-August-Universität Göttingen,1796,10,66476;65161;

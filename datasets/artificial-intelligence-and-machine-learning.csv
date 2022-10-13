@@ -1,34 +1,286 @@
 Name,Specialization,ID,school,year,Generation,advisor_id
-Yuri Boykov,artificial-intelligence-and-machine-learning,39437,['Cornell University'],['1996'],0,['4759']
-Dan Brown,artificial-intelligence-and-machine-learning,45379,['Cornell University'],['2000'],0,['36705']
-Wenhu Chen,artificial-intelligence-and-machine-learning,279263,"['University of California, Santa Barbara']",['2021'],0,nan217154;279264;217154;279264;
-Robin Cohen,artificial-intelligence-and-machine-learning,58650,['University of Toronto'],['1983'],0,['8755']
-Jesse Hoey,artificial-intelligence-and-machine-learning,167185,['University of British Columbia'],['2004'],0,['72124']
-Gautam Kamath,artificial-intelligence-and-machine-learning,264772,['Massachusetts Institute of Technology'],['2018'],0,['139732']
-Kate Larson,artificial-intelligence-and-machine-learning,119359,['Carnegie Mellon University'],['2004'],0,['88145']
-Jimmy Lin,artificial-intelligence-and-machine-learning,,['Massachusetts Institute of Technology'],['2004'],0,176620.0
-Richard Mann,artificial-intelligence-and-machine-learning,131052,['University of Toronto'],['1997'],0,['11836']
-Pascal Poupart,artificial-intelligence-and-machine-learning,97099,['University of Toronto'],['2005'],0,['72088']
-Olga Veksler,artificial-intelligence-and-machine-learning,73583,['Cornell University'],['1999'],0,['71514']
-Hongyang Zhang,artificial-intelligence-and-machine-learning,254910,['Carnegie Mellon University'],['2019'],0,nan132986;148432;132986;148432;
-Xifeng  Yan,artificial-intelligence-and-machine-learning,279264,University of Illinois at Urbana-Champaign,2006,1,['72247']
-Maria-Florina Nina Balcan,artificial-intelligence-and-machine-learning,148432,Carnegie Mellon University,2008,1,['33035']
-Jiawei  Han,artificial-intelligence-and-machine-learning,72247,University of Wisconsin-Madison,1985,2,['82279']
-Avrim Louis Blum,artificial-intelligence-and-machine-learning,33035,Massachusetts Institute of Technology,1991,2,['50081']
-Larry  Travis,artificial-intelligence-and-machine-learning,82279,"University of California, Los Angeles",1966,3,['15886']
-Ronald Linn Rivest,artificial-intelligence-and-machine-learning,50081,Stanford University,1974,3,['69223']
-Abraham  Robinson,artificial-intelligence-and-machine-learning,15886.0,University of London,1949,4,['24557']
-Robert W Floyd,artificial-intelligence-and-machine-learning,69223,The University of Chicago,1953,4,None
-Paul  Dienes,artificial-intelligence-and-machine-learning,24557,Eötvös Loránd University and Université Paris IV-Sorbonne,1907,5,['39071']
-Émile  Borel,artificial-intelligence-and-machine-learning,39071,École Normale Supérieure Paris,1893,6,['34254']
-Gaston  Darboux,artificial-intelligence-and-machine-learning,34254,École Normale Supérieure Paris,1866,7,['26995']
-Michel  Chasles,artificial-intelligence-and-machine-learning,26995,École Polytechnique,1814,8,['17865']
-Siméon Denis Poisson,artificial-intelligence-and-machine-learning,17865,École Polytechnique,1800,9,17864;108295;17864;108295;
-Joseph Louis Lagrange,artificial-intelligence-and-machine-learning,17864.,,ee,10,38586;146036;38586;146036;
-Pierre-Simon  Laplace,artificial-intelligence-and-machine-learning,108295,Université de Caen Normandie,1769,10,['108266']
+Yuri Boykov,artificial-intelligence-and-machine-learning,39437,['Cornell University'],['1996'],0,4759
+Dan Brown,artificial-intelligence-and-machine-learning,45379,['Cornell University'],['2000'],0,36705
+Wenhu Chen,artificial-intelligence-and-machine-learning,279263,"['University of California, Santa Barbara']",['2021'],0,279264;217154;
+Robin Cohen,artificial-intelligence-and-machine-learning,58650,['University of Toronto'],['1983'],0,8755
+Jesse Hoey,artificial-intelligence-and-machine-learning,167185,['University of British Columbia'],['2004'],0,72124
+Gautam Kamath,artificial-intelligence-and-machine-learning,264772,['Massachusetts Institute of Technology'],['2018'],0,139732
+Kate Larson,artificial-intelligence-and-machine-learning,119359,['Carnegie Mellon University'],['2004'],0,88145
+Jimmy Lin,artificial-intelligence-and-machine-learning,0,['Massachusetts Institute of Technology'],['2004'],0,176620
+Richard Mann,artificial-intelligence-and-machine-learning,131052,['University of Toronto'],['1997'],0,11836
+Pascal Poupart,artificial-intelligence-and-machine-learning,97099,['University of Toronto'],['2005'],0,72088
+Olga Veksler,artificial-intelligence-and-machine-learning,73583,['Cornell University'],['1999'],0,71514
+Hongyang Zhang,artificial-intelligence-and-machine-learning,254910,['Carnegie Mellon University'],['2019'],0,148432;132986;
+David Clay Heath,artificial-intelligence-and-machine-learning,4759,University of Illinois at Urbana-Champaign,1969,1,4758
+David Bernard Shmoys,artificial-intelligence-and-machine-learning,36705,"University of California, Berkeley",1984,1,25276
 Xifeng  Yan,artificial-intelligence-and-machine-learning,279264,University of Illinois at Urbana-Champaign,2006,1,72247
 William Yang  Wang,artificial-intelligence-and-machine-learning,217154,Carnegie Mellon University,2016,1,70227
-Xifeng  Yan,artificial-intelligence-and-machine-learning,279264,University of Illinois at Urbana-Champaign,2006,1,72247
+(Charles) Raymond  Perrault,artificial-intelligence-and-machine-learning,8755,University of Michigan,1975,1,8658;44546;
+James J. Little,artificial-intelligence-and-machine-learning,72124,University of British Columbia,1985,1,72085
+Constantinos  Daskalakis,artificial-intelligence-and-machine-learning,139732,"University of California, Berkeley",2008,1,46289
+Tuomas Wilhelm Sandholm,artificial-intelligence-and-machine-learning,88145,University of Massachusetts Amherst,1996,1,88112
+Boris  Katz,artificial-intelligence-and-machine-learning,176620,Lomonosov Moscow State University,1975,1,76951
+Allan D. Jepson,artificial-intelligence-and-machine-learning,11836,California Institute of Technology,1981,1,12037
+Craig Edgar Boutilier,artificial-intelligence-and-machine-learning,72088,University of Toronto,1992,1,5481
+Ramin  Zabih,artificial-intelligence-and-machine-learning,71514,Stanford University,1994,1,71100
 Maria-Florina Nina Balcan,artificial-intelligence-and-machine-learning,148432,Carnegie Mellon University,2008,1,33035
 David P. Woodruff,artificial-intelligence-and-machine-learning,132986,Massachusetts Institute of Technology,2007,1,71081
-Maria-Florina Nina Balcan,artificial-intelligence-and-machine-learning,148432,Carnegie Mellon University,2008,1,33035
+Frank Bardsley Knight,artificial-intelligence-and-machine-learning,4758,Princeton University,1959,2,9629;33019;
+Eugene Leighton Lawler,artificial-intelligence-and-machine-learning,25276,Harvard University,1963,2,13305
+Jiawei  Han,artificial-intelligence-and-machine-learning,72247,University of Wisconsin-Madison,1985,2,82279
+William Weston Cohen,artificial-intelligence-and-machine-learning,70227,"Rutgers University, New Brunswick",1990,2,70186
+Joyce Barbara Friedman,artificial-intelligence-and-machine-learning,8658,Harvard University,1965,2,29869
+William Chesley Rounds,artificial-intelligence-and-machine-learning,44546,Stanford University,1968,2,8024
+Robert James Woodham,artificial-intelligence-and-machine-learning,72085,Massachusetts Institute of Technology,1977,2,61066
+Christos H. Papadimitriou,artificial-intelligence-and-machine-learning,46289,Princeton University,1976,2,82018
+Victor Richard Lesser,artificial-intelligence-and-machine-learning,88112,Stanford University,1973,2,88102
+Evgenii Mikhailovich Landis,artificial-intelligence-and-machine-learning,76951,,1953,2,76948;55146;
+Herbert Bishop Keller,artificial-intelligence-and-machine-learning,12037,New York University,1954,2,12042;13411;
+Raymond  Reiter,artificial-intelligence-and-machine-learning,5481,University of Michigan,1967,2,25275;13812;
+Oussama  Khatib,artificial-intelligence-and-machine-learning,71100,Institut supérieur de l'aéronautique et de l'espace,1980,2,61379
+Avrim Louis Blum,artificial-intelligence-and-machine-learning,33035,Massachusetts Institute of Technology,1991,2,50081
+Piotr  Indyk,artificial-intelligence-and-machine-learning,71081,Stanford University,2001,2,41471
+Hale Freeman Trotter,artificial-intelligence-and-machine-learning,9629,Princeton University,1956,3,33019
+William  Feller,artificial-intelligence-and-machine-learning,33019,Georg-August-Universität Göttingen,1926,3,7378
+Anthony Gervin Oettinger,artificial-intelligence-and-machine-learning,13305,Harvard University,1954,3,18953
+Larry  Travis,artificial-intelligence-and-machine-learning,82279,"University of California, Los Angeles",1966,3,15886
+Alexander Tiberiu Borgida,artificial-intelligence-and-machine-learning,70186,University of Toronto,1977,3,8755
+Hao  Wang,artificial-intelligence-and-machine-learning,29869,Harvard University,1948,3,73831
+Dana Stewart Scott,artificial-intelligence-and-machine-learning,8024,Princeton University,1958,3,8011
+Berthold Klaus Paul Horn,artificial-intelligence-and-machine-learning,61066,Massachusetts Institute of Technology,1970,3,6869
+Kenneth  Steiglitz,artificial-intelligence-and-machine-learning,82018,New York University,1963,3,98916
+William Frederick Miller,artificial-intelligence-and-machine-learning,88102,Purdue University,1956,3,128356
+Aleksandr Semenovich Kronrod,artificial-intelligence-and-machine-learning,76948,,1949,3,10479
+Ivan Georgievich Petrovsky,artificial-intelligence-and-machine-learning,55146,Lomonosov Moscow State University,ity,3,24109
+Wilhelm  Magnus,artificial-intelligence-and-machine-learning,12042,Johann Wolfgang Goethe-Universität Frankfurt am Main,1931,3,7339
+Joseph Bishop Keller,artificial-intelligence-and-machine-learning,13411,New York University,1948,3,7378
+Richard Manning Karp,artificial-intelligence-and-machine-learning,25275,Harvard University,1959,3,13305
+Harvey  Garner,artificial-intelligence-and-machine-learning,13812,University of Michigan,1958,3,84481
+Jean-François  Maitre,artificial-intelligence-and-machine-learning,61379,Université Joseph Fourier Grenoble I,1974,3,58747
+Ronald Linn Rivest,artificial-intelligence-and-machine-learning,50081,Stanford University,1974,3,69223
+Rajeev  Motwani,artificial-intelligence-and-machine-learning,41471,"University of California, Berkeley",1988,3,25275
+William  Feller,artificial-intelligence-and-machine-learning,33019,Georg-August-Universität Göttingen,1926,4,7378
+Richard  Courant,artificial-intelligence-and-machine-learning,7378,Georg-August-Universität Göttingen,1910,4,7298
+Howard Hathaway Aiken,artificial-intelligence-and-machine-learning,18953,Harvard University,1939,4,25248
+Abraham  Robinson,artificial-intelligence-and-machine-learning,15886,University of London,1949,4,24557
+(Charles) Raymond  Perrault,artificial-intelligence-and-machine-learning,8755,University of Michigan,1975,4,44546;8658;
+Willard Van Orman Quine,artificial-intelligence-and-machine-learning,73831,Harvard University,1932,4,78732
+Alonzo  Church,artificial-intelligence-and-machine-learning,8011,Princeton University,1927,4,805
+Marvin Lee Minsky,artificial-intelligence-and-machine-learning,6869,Princeton University,1954,4,8581
+Sheldon Shou-Lien Chang,artificial-intelligence-and-machine-learning,98916,Purdue University,1947,4,111345
+Robert Leroy Platzman,artificial-intelligence-and-machine-learning,128356,The University of Chicago,1942,4,126428
+Nikolai Nikolayevich Luzin,artificial-intelligence-and-machine-learning,10479,Lomonosov Moscow State University,1915,4,24109
+Dimitri Fedorowitsch Egorov,artificial-intelligence-and-machine-learning,24109,Lomonosov Moscow State University,1901,4,24101
+Max Wilhelm Dehn,artificial-intelligence-and-machine-learning,7339,Georg-August-Universität Göttingen,1899,4,7298
+Richard  Courant,artificial-intelligence-and-machine-learning,7378,Georg-August-Universität Göttingen,1910,4,7298
+Anthony Gervin Oettinger,artificial-intelligence-and-machine-learning,13305,Harvard University,1954,4,18953
+Norman Ross Scott,artificial-intelligence-and-machine-learning,84481,University of Illinois at Urbana-Champaign,1950,4,140183
+Noël  Gastinel,artificial-intelligence-and-machine-learning,58747,Université Joseph Fourier Grenoble I,1960,4,78519
+Robert W Floyd,artificial-intelligence-and-machine-learning,69223,The University of Chicago,1953,4,None
+Richard Manning Karp,artificial-intelligence-and-machine-learning,25275,Harvard University,1959,4,13305
+Richard  Courant,artificial-intelligence-and-machine-learning,7378,Georg-August-Universität Göttingen,1910,5,7298
+David  Hilbert,artificial-intelligence-and-machine-learning,7298,Universität Königsberg,1885,5,7404
+Emory Leon Chaffee,artificial-intelligence-and-machine-learning,25248,Harvard University,1911,5,141987
+Paul  Dienes,artificial-intelligence-and-machine-learning,24557,Eötvös Loránd University and Université Paris IV-Sorbonne,1907,5,39071
+William Chesley Rounds,artificial-intelligence-and-machine-learning,44546,Stanford University,1968,5,8024
+Joyce Barbara Friedman,artificial-intelligence-and-machine-learning,8658,Harvard University,1965,5,29869
+Alfred North Whitehead,artificial-intelligence-and-machine-learning,78732,University of Cambridge,1884,5,101929
+Oswald  Veblen,artificial-intelligence-and-machine-learning,805,The University of Chicago,1903,5,806
+Albert William Tucker,artificial-intelligence-and-machine-learning,8581,Princeton University,1932,5,7461
+Robert Peer Siskind,artificial-intelligence-and-machine-learning,111345,Harvard University,1925,5,None
+James  Franck,artificial-intelligence-and-machine-learning,126428,Humboldt-Universität zu Berlin,1906,5,62397;124661;
+Dimitri Fedorowitsch Egorov,artificial-intelligence-and-machine-learning,24109,Lomonosov Moscow State University,1901,5,24101
+Nicolai Vasilievich Bugaev,artificial-intelligence-and-machine-learning,24101,Lomonosov Moscow State University,1866,5,18331;55185;7486;
+David  Hilbert,artificial-intelligence-and-machine-learning,7298,Universität Königsberg,1885,5,7404
+David  Hilbert,artificial-intelligence-and-machine-learning,7298,Universität Königsberg,1885,5,7404
+Howard Hathaway Aiken,artificial-intelligence-and-machine-learning,18953,Harvard University,1939,5,25248
+Lloyd Thomas Devore,artificial-intelligence-and-machine-learning,140183,The Pennsylvania State University,1933,5,147676;147677;
+Jean  Kuntzmann,artificial-intelligence-and-machine-learning,78519,Université de Paris,1940,5,73816
+Anthony Gervin Oettinger,artificial-intelligence-and-machine-learning,13305,Harvard University,1954,5,18953
+David  Hilbert,artificial-intelligence-and-machine-learning,7298,Universität Königsberg,1885,6,7404
+C. L. Ferdinand (Carl Louis) Lindemann,artificial-intelligence-and-machine-learning,7404,Friedrich-Alexander-Universität Erlangen-Nürnberg,1873,6,7401
+George Washington Pierce,artificial-intelligence-and-machine-learning,141987,Harvard University,1900,6,67041
+Émile  Borel,artificial-intelligence-and-machine-learning,39071,École Normale Supérieure Paris,1893,6,34254
+Dana Stewart Scott,artificial-intelligence-and-machine-learning,8024,Princeton University,1958,6,8011
+Hao  Wang,artificial-intelligence-and-machine-learning,29869,Harvard University,1948,6,73831
+Edward John Routh,artificial-intelligence-and-machine-learning,101929,University of Cambridge,1857,6,42016;129420;
+E. H. (Eliakim Hastings) Moore,artificial-intelligence-and-machine-learning,806,Yale University,1885,6,7865
+Solomon  Lefschetz,artificial-intelligence-and-machine-learning,7461,Clark University,1911,6,7451
+Paul Karl Ludwig Drude,artificial-intelligence-and-machine-learning,62397,Georg-August-Universität Göttingen,1887,6,45011
+Emil Gabriel Warburg,artificial-intelligence-and-machine-learning,124661,Universität Berlin,1867,6,123973;123978;
+Nicolai Vasilievich Bugaev,artificial-intelligence-and-machine-learning,24101,Lomonosov Moscow State University,1866,6,18331;55185;7486;
+Ernst Eduard Kummer,artificial-intelligence-and-machine-learning,18331,Martin-Luther-Universität Halle-Wittenberg,1831,6,25484
+Joseph  Liouville,artificial-intelligence-and-machine-learning,55185,"Faculté des Sciences, Paris",1836,6,104652;17865;
+Karl Theodor Wilhelm Weierstraß,artificial-intelligence-and-machine-learning,7486,Westfälische Wilhelms-Universität Münster,1841,6,29458
+C. L. Ferdinand (Carl Louis) Lindemann,artificial-intelligence-and-machine-learning,7404,Friedrich-Alexander-Universität Erlangen-Nürnberg,1873,6,7401
+C. L. Ferdinand (Carl Louis) Lindemann,artificial-intelligence-and-machine-learning,7404,Friedrich-Alexander-Universität Erlangen-Nürnberg,1873,6,7401
+Emory Leon Chaffee,artificial-intelligence-and-machine-learning,25248,Harvard University,1911,6,141987
+William Ross Ham,artificial-intelligence-and-machine-learning,147676,The University of Chicago,1909,6,72167
+David Christie Duncan,artificial-intelligence-and-machine-learning,147677,University of Michigan,1924,6,148190
+Georges  Valiron,artificial-intelligence-and-machine-learning,73816,Université de Paris,1914,6,39071
+Howard Hathaway Aiken,artificial-intelligence-and-machine-learning,18953,Harvard University,1939,6,25248
+C. L. Ferdinand (Carl Louis) Lindemann,artificial-intelligence-and-machine-learning,7404,Friedrich-Alexander-Universität Erlangen-Nürnberg,1873,7,7401
+C. Felix (Christian) Klein,artificial-intelligence-and-machine-learning,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,7,7402;19964;
+John  Trowbridge,artificial-intelligence-and-machine-learning,67041,Harvard University,1873,7,132487
+Gaston  Darboux,artificial-intelligence-and-machine-learning,34254,École Normale Supérieure Paris,1866,7,26995
+Alonzo  Church,artificial-intelligence-and-machine-learning,8011,Princeton University,1927,7,805
+Willard Van Orman Quine,artificial-intelligence-and-machine-learning,73831,Harvard University,1932,7,78732
+William  Hopkins,artificial-intelligence-and-machine-learning,42016,University of Cambridge,1830,7,102043
+Isaac  Todhunter,artificial-intelligence-and-machine-learning,129420,University of Cambridge,1848,7,42016
+H. A. (Hubert Anson) Newton,artificial-intelligence-and-machine-learning,7865,Yale University,1850,7,26995
+William Edward Story,artificial-intelligence-and-machine-learning,7451,Universität Leipzig,1875,7,18589;32858;
+Woldemar  Voigt,artificial-intelligence-and-machine-learning,45011,Universität Königsberg,1874,7,18600
+August Adolph Eduard Eberhard Kundt,artificial-intelligence-and-machine-learning,123973,Universität Berlin,1864,7,123978
+Heinrich Gustav Magnus,artificial-intelligence-and-machine-learning,123978,Universität Berlin,1827,7,123999
+Ernst Eduard Kummer,artificial-intelligence-and-machine-learning,18331,Martin-Luther-Universität Halle-Wittenberg,1831,7,25484
+Joseph  Liouville,artificial-intelligence-and-machine-learning,55185,"Faculté des Sciences, Paris",1836,7,104652;17865;
+Karl Theodor Wilhelm Weierstraß,artificial-intelligence-and-machine-learning,7486,Westfälische Wilhelms-Universität Münster,1841,7,29458
+Heinrich Ferdinand Scherk,artificial-intelligence-and-machine-learning,25484,Universität Berlin,1823,7,18603;65162;
+Louis Jacques Thenard,artificial-intelligence-and-machine-learning,104652,École Polytechnique,que,7,158571
+Siméon Denis Poisson,artificial-intelligence-and-machine-learning,17865,École Polytechnique,1800,7,17864;108295;
+Christoph  Gudermann,artificial-intelligence-and-machine-learning,29458,Georg-August-Universität Göttingen,1823,7,57667
+C. Felix (Christian) Klein,artificial-intelligence-and-machine-learning,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,7,7402;19964;
+C. Felix (Christian) Klein,artificial-intelligence-and-machine-learning,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,7,7402;19964;
+George Washington Pierce,artificial-intelligence-and-machine-learning,141987,Harvard University,1900,7,67041
+Robert Andrews Millikan,artificial-intelligence-and-machine-learning,72167,Columbia University,1895,7,72170;148580;
+Ora Stanley Duffendack,artificial-intelligence-and-machine-learning,148190,Princeton University,1922,7,147836
+Émile  Borel,artificial-intelligence-and-machine-learning,39071,École Normale Supérieure Paris,1893,7,34254
+Emory Leon Chaffee,artificial-intelligence-and-machine-learning,25248,Harvard University,1911,7,141987
+C. Felix (Christian) Klein,artificial-intelligence-and-machine-learning,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,8,7402;19964;
+Julius  Plücker,artificial-intelligence-and-machine-learning,7402,Philipps-Universität Marburg,1823,8,29642
+Rudolf Otto Sigismund Lipschitz,artificial-intelligence-and-machine-learning,19964,Universität Berlin,1853,8,47064;17946;
+Joseph  Lovering,artificial-intelligence-and-machine-learning,132487,Harvard University,1833,8,80886
+Michel  Chasles,artificial-intelligence-and-machine-learning,26995,École Polytechnique,1814,8,17865
+Oswald  Veblen,artificial-intelligence-and-machine-learning,805,The University of Chicago,1903,8,806
+Alfred North Whitehead,artificial-intelligence-and-machine-learning,78732,University of Cambridge,1884,8,101929
+Adam  Sedgwick,artificial-intelligence-and-machine-learning,102043,University of Cambridge,1811,8,102036;102037;
+William  Hopkins,artificial-intelligence-and-machine-learning,42016,University of Cambridge,1830,8,102043
+Michel  Chasles,artificial-intelligence-and-machine-learning,26995,École Polytechnique,1814,8,17865
+Wilhelm  Scheibner,artificial-intelligence-and-machine-learning,18589,Martin-Luther-Universität Halle-Wittenberg,1848,8,15635
+Carl Gottfried Neumann,artificial-intelligence-and-machine-learning,32858,Universität Königsberg,1856,8,57706;46967;
+Franz Ernst Neumann,artificial-intelligence-and-machine-learning,18600,Universität Berlin,1825,8,66319
+Heinrich Gustav Magnus,artificial-intelligence-and-machine-learning,123978,Universität Berlin,1827,8,123999
+Eilhard  Mitscherlich,artificial-intelligence-and-machine-learning,123999,Georg-August-Universität Göttingen,1814,8,123979
+Heinrich Ferdinand Scherk,artificial-intelligence-and-machine-learning,25484,Universität Berlin,1823,8,18603;65162;
+Louis Jacques Thenard,artificial-intelligence-and-machine-learning,104652,École Polytechnique,que,8,158571
+Siméon Denis Poisson,artificial-intelligence-and-machine-learning,17865,École Polytechnique,1800,8,17864;108295;
+Christoph  Gudermann,artificial-intelligence-and-machine-learning,29458,Georg-August-Universität Göttingen,1823,8,57667
+Friedrich Wilhelm Bessel,artificial-intelligence-and-machine-learning,18603,Georg-August-Universität Göttingen,1810,8,18231
+Heinrich Wilhelm Brandes,artificial-intelligence-and-machine-learning,65162,Georg-August-Universität Göttingen,1800,8,65161;66476;
+Nicolas Louis Vauquelin,artificial-intelligence-and-machine-learning,158571,,,8,158735
+Joseph Louis Lagrange,artificial-intelligence-and-machine-learning,17864,,ee,8,38586;146036;
+Pierre-Simon  Laplace,artificial-intelligence-and-machine-learning,108295,Université de Caen Normandie,1769,8,108266
+Bernhard Friedrich Thibaut,artificial-intelligence-and-machine-learning,57667,Georg-August-Universität Göttingen,1796,8,65161;66476;
+Julius  Plücker,artificial-intelligence-and-machine-learning,7402,Philipps-Universität Marburg,1823,8,29642
+Rudolf Otto Sigismund Lipschitz,artificial-intelligence-and-machine-learning,19964,Universität Berlin,1853,8,47064;17946;
+Julius  Plücker,artificial-intelligence-and-machine-learning,7402,Philipps-Universität Marburg,1823,8,29642
+Rudolf Otto Sigismund Lipschitz,artificial-intelligence-and-machine-learning,19964,Universität Berlin,1853,8,47064;17946;
+John  Trowbridge,artificial-intelligence-and-machine-learning,67041,Harvard University,1873,8,132487
+Albert Abraham Michelson,artificial-intelligence-and-machine-learning,72170,,D.,8,49057
+Ogden  Rood,artificial-intelligence-and-machine-learning,148580,,,8,None
+Karl Taylor Compton,artificial-intelligence-and-machine-learning,147836,Princeton University,1912,8,90415
+Gaston  Darboux,artificial-intelligence-and-machine-learning,34254,École Normale Supérieure Paris,1866,8,26995
+George Washington Pierce,artificial-intelligence-and-machine-learning,141987,Harvard University,1900,8,67041
+Julius  Plücker,artificial-intelligence-and-machine-learning,7402,Philipps-Universität Marburg,1823,9,29642
+Rudolf Otto Sigismund Lipschitz,artificial-intelligence-and-machine-learning,19964,Universität Berlin,1853,9,47064;17946;
+Christian Ludwig Gerling,artificial-intelligence-and-machine-learning,29642,Georg-August-Universität Göttingen,1812,9,18231
+Martin  Ohm,artificial-intelligence-and-machine-learning,47064,Friedrich-Alexander-Universität Erlangen-Nürnberg,1811,9,47025
+Gustav Peter Lejeune Dirichlet,artificial-intelligence-and-machine-learning,17946,Rheinische Friedrich-Wilhelms-Universität Bonn,1827,9,17981;17865;
+Benjamin  Peirce,artificial-intelligence-and-machine-learning,80886,Harvard University,1829,9,147797
+Siméon Denis Poisson,artificial-intelligence-and-machine-learning,17865,École Polytechnique,1800,9,17864;108295;
+E. H. (Eliakim Hastings) Moore,artificial-intelligence-and-machine-learning,806,Yale University,1885,9,7865
+Edward John Routh,artificial-intelligence-and-machine-learning,101929,University of Cambridge,1857,9,42016;129420;
+Thomas  Jones,artificial-intelligence-and-machine-learning,102036,University of Cambridge,1782,9,133301;103066;
+John  Dawson,artificial-intelligence-and-machine-learning,102037,,,9,129421;129422;
+Adam  Sedgwick,artificial-intelligence-and-machine-learning,102043,University of Cambridge,1811,9,102036;102037;
+Siméon Denis Poisson,artificial-intelligence-and-machine-learning,17865,École Polytechnique,1800,9,17864;108295;
+Carl Gustav Jacob Jacobi,artificial-intelligence-and-machine-learning,15635,Humboldt-Universität zu Berlin,1825,9,41423
+Friedrich Julius Richelot,artificial-intelligence-and-machine-learning,57706,Universität Königsberg,1831,9,15635
+Otto  Hesse,artificial-intelligence-and-machine-learning,46967,Universität Königsberg,1840,9,15635
+Christian Samuel Weiss,artificial-intelligence-and-machine-learning,66319,Universität Leipzig,1801,9,124285;124286;
+Eilhard  Mitscherlich,artificial-intelligence-and-machine-learning,123999,Georg-August-Universität Göttingen,1814,9,123979
+Friedrich  Stromeyer,artificial-intelligence-and-machine-learning,123979,Georg-August-Universität Göttingen,1800,9,158571;76485;
+Friedrich Wilhelm Bessel,artificial-intelligence-and-machine-learning,18603,Georg-August-Universität Göttingen,1810,9,18231
+Heinrich Wilhelm Brandes,artificial-intelligence-and-machine-learning,65162,Georg-August-Universität Göttingen,1800,9,65161;66476;
+Nicolas Louis Vauquelin,artificial-intelligence-and-machine-learning,158571,,,9,158735
+Joseph Louis Lagrange,artificial-intelligence-and-machine-learning,17864,,ee,9,38586;146036;
+Pierre-Simon  Laplace,artificial-intelligence-and-machine-learning,108295,Université de Caen Normandie,1769,9,108266
+Bernhard Friedrich Thibaut,artificial-intelligence-and-machine-learning,57667,Georg-August-Universität Göttingen,1796,9,65161;66476;
+Carl Friedrich Gauß,artificial-intelligence-and-machine-learning,18231,Universität Helmstedt,1799,9,18230
+Georg Christoph Lichtenberg,artificial-intelligence-and-machine-learning,65161,Georg-August-Universität Göttingen,1765,9,66476
+Abraham Gotthelf Kästner,artificial-intelligence-and-machine-learning,66476,Universität Leipzig,1739,9,57670
+Antoine Francois de Fourcroy,artificial-intelligence-and-machine-learning,158735,Université de Paris,ris,9,158900
+Leonhard  Euler,artificial-intelligence-and-machine-learning,38586,Universität Basel,1726,9,53410
+Giovanni Battista (Giambattista) Beccaria,artificial-intelligence-and-machine-learning,146036,,,9,None
+Jean Le Rond d'Alembert,artificial-intelligence-and-machine-learning,108266,Collège Mazarin,1735,9,None
+Georg Christoph Lichtenberg,artificial-intelligence-and-machine-learning,65161,Georg-August-Universität Göttingen,1765,9,66476
+Abraham Gotthelf Kästner,artificial-intelligence-and-machine-learning,66476,Universität Leipzig,1739,9,57670
+Christian Ludwig Gerling,artificial-intelligence-and-machine-learning,29642,Georg-August-Universität Göttingen,1812,9,18231
+Martin  Ohm,artificial-intelligence-and-machine-learning,47064,Friedrich-Alexander-Universität Erlangen-Nürnberg,1811,9,47025
+Gustav Peter Lejeune Dirichlet,artificial-intelligence-and-machine-learning,17946,Rheinische Friedrich-Wilhelms-Universität Bonn,1827,9,17981;17865;
+Christian Ludwig Gerling,artificial-intelligence-and-machine-learning,29642,Georg-August-Universität Göttingen,1812,9,18231
+Martin  Ohm,artificial-intelligence-and-machine-learning,47064,Friedrich-Alexander-Universität Erlangen-Nürnberg,1811,9,47025
+Gustav Peter Lejeune Dirichlet,artificial-intelligence-and-machine-learning,17946,Rheinische Friedrich-Wilhelms-Universität Bonn,1827,9,17981;17865;
+Joseph  Lovering,artificial-intelligence-and-machine-learning,132487,Harvard University,1833,9,80886
+Hermann Ludwig Ferdinand von Helmholtz,artificial-intelligence-and-machine-learning,49057,Universität Berlin,1842,9,23194
+Owen W. Richardson,artificial-intelligence-and-machine-learning,90415,University of London,1904,9,50701
+Michel  Chasles,artificial-intelligence-and-machine-learning,26995,École Polytechnique,1814,9,17865
+John  Trowbridge,artificial-intelligence-and-machine-learning,67041,Harvard University,1873,9,132487
+Christian Ludwig Gerling,artificial-intelligence-and-machine-learning,29642,Georg-August-Universität Göttingen,1812,10,18231
+Martin  Ohm,artificial-intelligence-and-machine-learning,47064,Friedrich-Alexander-Universität Erlangen-Nürnberg,1811,10,47025
+Gustav Peter Lejeune Dirichlet,artificial-intelligence-and-machine-learning,17946,Rheinische Friedrich-Wilhelms-Universität Bonn,1827,10,17981;17865;
+Carl Friedrich Gauß,artificial-intelligence-and-machine-learning,18231,Universität Helmstedt,1799,10,18230
+Karl Christian von Langsdorf,artificial-intelligence-and-machine-learning,47025,Georg-August-Universität Göttingen and Justus-Liebig-Universität Gießen and Universität Erfurt,1781,10,66476
+Jean-Baptiste Joseph Fourier,artificial-intelligence-and-machine-learning,17981,École Normale Supérieure,ure,10,17864
+Siméon Denis Poisson,artificial-intelligence-and-machine-learning,17865,École Polytechnique,1800,10,17864;108295;
+Nathaniel  Bowditch,artificial-intelligence-and-machine-learning,147797,,,10,None
+Joseph Louis Lagrange,artificial-intelligence-and-machine-learning,17864,,ee,10,38586;146036;
+Pierre-Simon  Laplace,artificial-intelligence-and-machine-learning,108295,Université de Caen Normandie,1769,10,108266
+H. A. (Hubert Anson) Newton,artificial-intelligence-and-machine-learning,7865,Yale University,1850,10,26995
+William  Hopkins,artificial-intelligence-and-machine-learning,42016,University of Cambridge,1830,10,102043
+Isaac  Todhunter,artificial-intelligence-and-machine-learning,129420,University of Cambridge,1848,10,42016
+Thomas  Postlethwaite,artificial-intelligence-and-machine-learning,133301,University of Cambridge,1756,10,133367
+John  Cranke,artificial-intelligence-and-machine-learning,103066,University of Cambridge,1774,10,None
+Edward  Waring,artificial-intelligence-and-machine-learning,129421,University of Cambridge,1760,10,None
+Henry  Bracken,artificial-intelligence-and-machine-learning,129422,Universiteit Leiden,den,10,101856
+Thomas  Jones,artificial-intelligence-and-machine-learning,102036,University of Cambridge,1782,10,133301;103066;
+John  Dawson,artificial-intelligence-and-machine-learning,102037,,,10,129421;129422;
+Joseph Louis Lagrange,artificial-intelligence-and-machine-learning,17864,,ee,10,38586;146036;
+Pierre-Simon  Laplace,artificial-intelligence-and-machine-learning,108295,Université de Caen Normandie,1769,10,108266
+Enno Heeren Dirksen,artificial-intelligence-and-machine-learning,41423,Georg-August-Universität Göttingen,1820,10,57659;57667;
+Carl Gustav Jacob Jacobi,artificial-intelligence-and-machine-learning,15635,Humboldt-Universität zu Berlin,1825,10,41423
+Carl Gustav Jacob Jacobi,artificial-intelligence-and-machine-learning,15635,Humboldt-Universität zu Berlin,1825,10,41423
+Abraham Gottlob Werner,artificial-intelligence-and-machine-learning,124285,Universität Leipzig,1774,10,124490
+René Just Haüy,artificial-intelligence-and-machine-learning,124286,,D.,10,None
+Friedrich  Stromeyer,artificial-intelligence-and-machine-learning,123979,Georg-August-Universität Göttingen,1800,10,158571;76485;
+Nicolas Louis Vauquelin,artificial-intelligence-and-machine-learning,158571,,,10,158735
+Johann Friedrich Gmelin,artificial-intelligence-and-machine-learning,76485,Eberhard-Karls-Universität Tübingen,1768,10,76484;123957;
+Carl Friedrich Gauß,artificial-intelligence-and-machine-learning,18231,Universität Helmstedt,1799,10,18230
+Georg Christoph Lichtenberg,artificial-intelligence-and-machine-learning,65161,Georg-August-Universität Göttingen,1765,10,66476
+Abraham Gotthelf Kästner,artificial-intelligence-and-machine-learning,66476,Universität Leipzig,1739,10,57670
+Antoine Francois de Fourcroy,artificial-intelligence-and-machine-learning,158735,Université de Paris,ris,10,158900
+Leonhard  Euler,artificial-intelligence-and-machine-learning,38586,Universität Basel,1726,10,53410
+Giovanni Battista (Giambattista) Beccaria,artificial-intelligence-and-machine-learning,146036,,,10,None
+Jean Le Rond d'Alembert,artificial-intelligence-and-machine-learning,108266,Collège Mazarin,1735,10,None
+Georg Christoph Lichtenberg,artificial-intelligence-and-machine-learning,65161,Georg-August-Universität Göttingen,1765,10,66476
+Abraham Gotthelf Kästner,artificial-intelligence-and-machine-learning,66476,Universität Leipzig,1739,10,57670
+Johann Friedrich Pfaff,artificial-intelligence-and-machine-learning,18230,Georg-August-Universität Göttingen,1786,10,66476;127710;
+Abraham Gotthelf Kästner,artificial-intelligence-and-machine-learning,66476,Universität Leipzig,1739,10,57670
+Christian August Hausen,artificial-intelligence-and-machine-learning,57670,Martin-Luther-Universität Halle-Wittenberg,1713,10,72669;128986;
+Jean Baptiste Michel Bucquet,artificial-intelligence-and-machine-learning,158900,Université de Paris,1768,10,159761
+Johann  Bernoulli,artificial-intelligence-and-machine-learning,53410,Universität Basel,1694,10,129628;54440;
+Abraham Gotthelf Kästner,artificial-intelligence-and-machine-learning,66476,Universität Leipzig,1739,10,57670
+Christian August Hausen,artificial-intelligence-and-machine-learning,57670,Martin-Luther-Universität Halle-Wittenberg,1713,10,72669;128986;
+Carl Friedrich Gauß,artificial-intelligence-and-machine-learning,18231,Universität Helmstedt,1799,10,18230
+Karl Christian von Langsdorf,artificial-intelligence-and-machine-learning,47025,Georg-August-Universität Göttingen and Justus-Liebig-Universität Gießen and Universität Erfurt,1781,10,66476
+Jean-Baptiste Joseph Fourier,artificial-intelligence-and-machine-learning,17981,École Normale Supérieure,ure,10,17864
+Siméon Denis Poisson,artificial-intelligence-and-machine-learning,17865,École Polytechnique,1800,10,17864;108295;
+Carl Friedrich Gauß,artificial-intelligence-and-machine-learning,18231,Universität Helmstedt,1799,10,18230
+Karl Christian von Langsdorf,artificial-intelligence-and-machine-learning,47025,Georg-August-Universität Göttingen and Justus-Liebig-Universität Gießen and Universität Erfurt,1781,10,66476
+Jean-Baptiste Joseph Fourier,artificial-intelligence-and-machine-learning,17981,École Normale Supérieure,ure,10,17864
+Siméon Denis Poisson,artificial-intelligence-and-machine-learning,17865,École Polytechnique,1800,10,17864;108295;
+Benjamin  Peirce,artificial-intelligence-and-machine-learning,80886,Harvard University,1829,10,147797
+Johannes Peter Müller,artificial-intelligence-and-machine-learning,23194,Rheinische Friedrich-Wilhelms-Universität Bonn,1822,10,101865;104394;233065;
+Joseph John Thomson,artificial-intelligence-and-machine-learning,50701,University of Cambridge,1883,10,101979
+Siméon Denis Poisson,artificial-intelligence-and-machine-learning,17865,École Polytechnique,1800,10,17864;108295;
+Joseph  Lovering,artificial-intelligence-and-machine-learning,132487,Harvard University,1833,10,80886

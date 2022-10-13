@@ -1,0 +1,76 @@
+Name,Specialization,ID,school,year,Generation,advisor_id
+Jesse Hoey,health-informatics,167185,['University of British Columbia'],['2004'],0,72124
+Ming Li,health-informatics,94793,['Cornell University'],['1985'],0,10404
+Pascal Poupart,health-informatics,97099,['University of Toronto'],['2005'],0,72088
+Johnny Wong,health-informatics,66882,"['University of California, Los Angeles']",['1975'],0,70476
+James J. Little,health-informatics,72124,University of British Columbia,1985,1,72085
+Juris  Hartmanis,health-informatics,10404,California Institute of Technology,1955,1,10395
+Craig Edgar Boutilier,health-informatics,72088,University of Toronto,1992,1,5481
+Richard Robert Muntz,health-informatics,70476,Princeton University,1969,1,82027
+Robert James Woodham,health-informatics,72085,Massachusetts Institute of Technology,1977,2,61066
+Robert Palmer Dilworth,health-informatics,10395,California Institute of Technology,1939,2,10385
+Raymond  Reiter,health-informatics,5481,University of Michigan,1967,2,13812;25275;
+"Edward Grady Coffman, Jr.",health-informatics,82027,"University of California, Los Angeles",1966,2,24334
+Berthold Klaus Paul Horn,health-informatics,61066,Massachusetts Institute of Technology,1970,3,6869
+Morgan  Ward,health-informatics,10385,California Institute of Technology,1928,3,7868
+Harvey  Garner,health-informatics,13812,University of Michigan,1958,3,84481
+Richard Manning Karp,health-informatics,25275,Harvard University,1959,3,13305
+Leonard  Kleinrock,health-informatics,24334,Massachusetts Institute of Technology,1963,3,65315
+Marvin Lee Minsky,health-informatics,6869,Princeton University,1954,4,8581
+Eric Temple Bell,health-informatics,7868,Columbia University,1912,4,7611;37346;
+Norman Ross Scott,health-informatics,84481,University of Illinois at Urbana-Champaign,1950,4,140183
+Anthony Gervin Oettinger,health-informatics,13305,Harvard University,1954,4,18953
+Edward  Arthurs,health-informatics,65315,Massachusetts Institute of Technology,1955,4,10801
+Albert William Tucker,health-informatics,8581,Princeton University,1932,5,7461
+Frank Nelson Cole,health-informatics,7611,Harvard University,1886,5,7401
+Cassius Jackson Keyser,health-informatics,37346,Columbia University,1902,5,None
+Lloyd Thomas Devore,health-informatics,140183,The Pennsylvania State University,1933,5,147676;147677;
+Howard Hathaway Aiken,health-informatics,18953,Harvard University,1939,5,25248
+William Kirby Linvill,health-informatics,10801,Massachusetts Institute of Technology,1949,5,63061
+Solomon  Lefschetz,health-informatics,7461,Clark University,1911,6,7451
+C. Felix (Christian) Klein,health-informatics,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,6,7402;19964;
+William Ross Ham,health-informatics,147676,The University of Chicago,1909,6,72167
+David Christie Duncan,health-informatics,147677,University of Michigan,1924,6,148190
+Emory Leon Chaffee,health-informatics,25248,Harvard University,1911,6,141987
+Ernst Adolph Guillemin,health-informatics,63061,Ludwig-Maximilians-Universität München,1926,6,31357
+William Edward Story,health-informatics,7451,Universität Leipzig,1875,7,32858;18589;
+Julius  Plücker,health-informatics,7402,Philipps-Universität Marburg,1823,7,29642
+Rudolf Otto Sigismund Lipschitz,health-informatics,19964,Universität Berlin,1853,7,17946;47064;
+Robert Andrews Millikan,health-informatics,72167,Columbia University,1895,7,72170;148580;
+Ora Stanley Duffendack,health-informatics,148190,Princeton University,1922,7,147836
+George Washington Pierce,health-informatics,141987,Harvard University,1900,7,67041
+Arnold Johannes Wilhelm Sommerfeld,health-informatics,31357,Universität Königsberg,1891,7,7404
+Carl Gottfried Neumann,health-informatics,32858,Universität Königsberg,1856,8,46967;57706;
+Wilhelm  Scheibner,health-informatics,18589,Martin-Luther-Universität Halle-Wittenberg,1848,8,15635
+Christian Ludwig Gerling,health-informatics,29642,Georg-August-Universität Göttingen,1812,8,18231
+Gustav Peter Lejeune Dirichlet,health-informatics,17946,Rheinische Friedrich-Wilhelms-Universität Bonn,1827,8,17865;17981;
+Martin  Ohm,health-informatics,47064,Friedrich-Alexander-Universität Erlangen-Nürnberg,1811,8,47025
+Albert Abraham Michelson,health-informatics,72170,,D.,8,49057
+Ogden  Rood,health-informatics,148580,,,8,None
+Karl Taylor Compton,health-informatics,147836,Princeton University,1912,8,90415
+John  Trowbridge,health-informatics,67041,Harvard University,1873,8,132487
+C. L. Ferdinand (Carl Louis) Lindemann,health-informatics,7404,Friedrich-Alexander-Universität Erlangen-Nürnberg,1873,8,7401
+Otto  Hesse,health-informatics,46967,Universität Königsberg,1840,9,15635
+Friedrich Julius Richelot,health-informatics,57706,Universität Königsberg,1831,9,15635
+Carl Gustav Jacob Jacobi,health-informatics,15635,Humboldt-Universität zu Berlin,1825,9,41423
+Carl Friedrich Gauß,health-informatics,18231,Universität Helmstedt,1799,9,18230
+Siméon Denis Poisson,health-informatics,17865,École Polytechnique,1800,9,108295;17864;
+Jean-Baptiste Joseph Fourier,health-informatics,17981,École Normale Supérieure,ure,9,17864
+Karl Christian von Langsdorf,health-informatics,47025,Georg-August-Universität Göttingen and Justus-Liebig-Universität Gießen and Universität Erfurt,1781,9,66476
+Hermann Ludwig Ferdinand von Helmholtz,health-informatics,49057,Universität Berlin,1842,9,23194
+Owen W. Richardson,health-informatics,90415,University of London,1904,9,50701
+Joseph  Lovering,health-informatics,132487,Harvard University,1833,9,80886
+C. Felix (Christian) Klein,health-informatics,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,9,7402;19964;
+Carl Gustav Jacob Jacobi,health-informatics,15635,Humboldt-Universität zu Berlin,1825,10,41423
+Carl Gustav Jacob Jacobi,health-informatics,15635,Humboldt-Universität zu Berlin,1825,10,41423
+Enno Heeren Dirksen,health-informatics,41423,Georg-August-Universität Göttingen,1820,10,57659;57667;
+Johann Friedrich Pfaff,health-informatics,18230,Georg-August-Universität Göttingen,1786,10,66476;127710;
+Pierre-Simon  Laplace,health-informatics,108295,Université de Caen Normandie,1769,10,108266
+Joseph Louis Lagrange,health-informatics,17864,,ee,10,146036;38586;
+Joseph Louis Lagrange,health-informatics,17864,,ee,10,146036;38586;
+Abraham Gotthelf Kästner,health-informatics,66476,Universität Leipzig,1739,10,57670
+Johannes Peter Müller,health-informatics,23194,Rheinische Friedrich-Wilhelms-Universität Bonn,1822,10,104394;101865;233065;
+Joseph John Thomson,health-informatics,50701,University of Cambridge,1883,10,101979
+Benjamin  Peirce,health-informatics,80886,Harvard University,1829,10,147797
+Julius  Plücker,health-informatics,7402,Philipps-Universität Marburg,1823,10,29642
+Rudolf Otto Sigismund Lipschitz,health-informatics,19964,Universität Berlin,1853,10,17946;47064;

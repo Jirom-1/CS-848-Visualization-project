@@ -1,0 +1,174 @@
+Name,Specialization,ID,school,year,Generation,advisor_id
+Trevor Brown,programming-languages,252543,['University of Toronto'],['2017'],0,67145
+Prabhakar Ragde,programming-languages,66895,"['University of California, Berkeley']",['1986'],0,82100;25275;
+Yizhou Zhang,programming-languages,273183,['Cornell University'],['2019'],0,61959
+Brad Lushman,programming-languages,111760,['University of Waterloo'],['2007'],0,66818
+"Werner Dietl (Department of Electrical and Computer Engineering, Faculty of Engineering)",programming-languages,142874,['ETH Zürich'],['2009'],0,97971;71839;142873;
+"Patrick Lam (Department of Electrical and Computer Engineering, Faculty of Engineering)",programming-languages,103216,['Massachusetts Institute of Technology'],['2007'],0,71513
+Faith (Fich) Ellen,programming-languages,67145,"University of California, Berkeley",1982,1,25275
+Avi  Wigderson,programming-languages,82100,Princeton University,1983,1,69524
+Richard Manning Karp,programming-languages,25275,Harvard University,1959,1,13305
+Andrew Clifford Myers,programming-languages,61959,Massachusetts Institute of Technology,1999,1,61932
+Gordon Villy Cormack,programming-languages,66818,University of Manitoba,1981,1,80823
+Peter  Müller,programming-languages,97971,Fernuniversität Hagen,2001,1,97956;93863;
+Michael Dean Ernst,programming-languages,71839,University of Washington,2000,1,50230
+Martin  Odersky,programming-languages,142873,ETH Zürich,1989,1,61847
+Martin C. Rinard,programming-languages,71513,Stanford University,1994,1,50307
+Richard Manning Karp,programming-languages,25275,Harvard University,1959,2,13305
+Richard Jay Lipton,programming-languages,69524,Carnegie Mellon University,1973,2,86340
+Anthony Gervin Oettinger,programming-languages,13305,Harvard University,1954,2,18953
+Barbara Jane Huberman Liskov,programming-languages,61932,Stanford University,1968,2,22145
+Peter R. King,programming-languages,80823,,D.,2,None
+Arnd  Poetzsch-Heffter,programming-languages,97956,Technische Universität München,1991,2,22779;21194;
+Gary Todd Leavens,programming-languages,93863,Massachusetts Institute of Technology,1989,2,67447
+David Samuel Notkin,programming-languages,50230,Carnegie Mellon University,1984,2,50067
+Niklaus Emil Wirth,programming-languages,61847,"University of California, Berkeley",1963,2,10185;61956;
+Monica Sin-Ling Lam,programming-languages,50307,Carnegie Mellon University,1987,2,47159
+Anthony Gervin Oettinger,programming-languages,13305,Harvard University,1954,3,18953
+David Lorge Parnas,programming-languages,86340,Carnegie Mellon University,1965,3,13112;90571;
+Howard Hathaway Aiken,programming-languages,18953,Harvard University,1939,3,25248
+John  McCarthy,programming-languages,22145,Princeton University,1951,3,10290
+Manfred  Broy,programming-languages,22779,Technische Universität München,1980,3,21232
+Jürgen  Eickel,programming-languages,21194,Westfälische Wilhelms-Universität Münster,1961,3,15253
+William Edward Weihl,programming-languages,67447,Massachusetts Institute of Technology,1984,3,61932
+Arie Nicolaas Habermann,programming-languages,50067,Technische Universiteit Eindhoven,1967,3,45747
+Harry Douglas Huskey,programming-languages,10185,The Ohio State University,1943,3,10323
+Edward Albert Feigenbaum,programming-languages,61956,Carnegie Mellon University,1960,3,87903
+Hsiang-Tsung  Kung,programming-languages,47159,Carnegie Mellon University,1974,3,18492
+Howard Hathaway Aiken,programming-languages,18953,Harvard University,1939,4,25248
+Alan Jay Perlis,programming-languages,13112,Massachusetts Institute of Technology,1950,4,1488
+Everard Mott Williams,programming-languages,90571,Yale University,1939,4,252402
+Emory Leon Chaffee,programming-languages,25248,Harvard University,1911,4,141987
+Donald Clayton Spencer,programming-languages,10290,University of Cambridge,1939,4,10463;17806;
+Friedrich Ludwig Bauer,programming-languages,21232,Ludwig-Maximilians-Universität München,1951,4,25129;36548;
+Heinrich Adolph Behnke,programming-languages,15253,Universität Hamburg,1923,4,7379
+Barbara Jane Huberman Liskov,programming-languages,61932,Stanford University,1968,4,22145
+Edsger Wybe Dijkstra,programming-languages,45747,Universiteit van Amsterdam,1959,4,59162
+Tibor  Radó,programming-languages,10323,University of Szeged,1922,4,11321;7488;
+Herbert Alexander Simon,programming-languages,87903,The University of Chicago,1943,4,122119;122490;
+Joseph Frederick Traub,programming-languages,18492,Columbia University,1959,4,30091
+Emory Leon Chaffee,programming-languages,25248,Harvard University,1911,5,141987
+Philip  Franklin,programming-languages,1488,Princeton University,1921,5,805
+Francis Thomas McNamara,programming-languages,252402,Yale University,1924,5,None
+George Washington Pierce,programming-languages,141987,Harvard University,1900,5,67041
+John Edensor Littlewood,programming-languages,10463,University of Cambridge,1910,5,12099
+G. H. (Godfrey Harold) Hardy,programming-languages,17806,University of Cambridge,1903,5,31354;18571;
+Fritz  Bopp,programming-languages,25129,Georg-August-Universität Göttingen,1937,5,106421;57661;
+Georg  Aumann,programming-languages,36548,Ludwig-Maximilians-Universität München,1931,5,57471;7517;
+Erich  Hecke,programming-languages,7379,Georg-August-Universität Göttingen,1910,5,7298
+John  McCarthy,programming-languages,22145,Princeton University,1951,5,10290
+Adriaan  van Wijngaarden,programming-languages,59162,Technische Universiteit Delft,1945,5,58909
+Frigyes (Frédéric) Riesz,programming-languages,11321,Eötvös Loránd University,1902,5,107016
+Leopold (Lipót) Fejér,programming-languages,7488,Eötvös Loránd University,1902,5,7487
+Harold Dwight Lasswell,programming-languages,122119,The University of Chicago,1926,5,122120
+Henry  Schultz,programming-languages,122490,Columbia University,1925,5,122450
+Henry Michael Foley,programming-languages,30091,University of Michigan,1943,5,92249
+George Washington Pierce,programming-languages,141987,Harvard University,1900,6,67041
+Oswald  Veblen,programming-languages,805,The University of Chicago,1903,6,806
+John  Trowbridge,programming-languages,67041,Harvard University,1873,6,132487
+Ernest William Barnes,programming-languages,12099,University of Cambridge,1907,6,27230
+Augustus Edward Hough Love,programming-languages,31354,ETH Zürich,ich,6,None
+Edmund Taylor Whittaker,programming-languages,18571,University of Cambridge,1895,6,17829;17467;
+Erwin Richard Fues,programming-languages,106421,Ludwig-Maximilians-Universität München,1919,6,31357
+Fritz  Sauter,programming-languages,57661,Universität Innsbruck,1928,6,138330
+Heinrich Franz Friedrich Tietze,programming-languages,57471,Universität Wien,1904,6,27259
+Constantin  Carathéodory,programming-languages,7517,Georg-August-Universität Göttingen,1904,6,29675
+David  Hilbert,programming-languages,7298,Universität Königsberg,1885,6,7404
+Donald Clayton Spencer,programming-languages,10290,University of Cambridge,1939,6,10463;17806;
+Cornelis Benjamin Biezeno,programming-languages,58909,Universiteit van Amsterdam,1933,6,None
+Gyula  Vályi,programming-languages,107016,,1881,6,90711
+Hermann Amandus Schwarz,programming-languages,7487,Universität Berlin,1864,6,18331;7486;
+Charles Edward Merriam,programming-languages,122120,Columbia University,1900,6,127845
+Henry Ludwell Moore,programming-languages,122450,The Johns Hopkins University,1892,6,122449;122448;
+David Mathias Dennison,programming-languages,92249,University of Michigan,1924,6,115036;115037;
+John  Trowbridge,programming-languages,67041,Harvard University,1873,7,132487
+E. H. (Eliakim Hastings) Moore,programming-languages,806,Yale University,1885,7,7865
+Joseph  Lovering,programming-languages,132487,Harvard University,1833,7,80886
+Walter William Rouse Ball,programming-languages,27230,University of Cambridge,1874,7,None
+Andrew Russell Forsyth,programming-languages,17829,University of Cambridge,1881,7,7824
+George Howard Darwin,programming-languages,17467,University of Cambridge,1871,7,101929
+Arnold Johannes Wilhelm Sommerfeld,programming-languages,31357,Universität Königsberg,1891,7,7404
+Arthur  March,programming-languages,138330,Universität Innsbruck,1913,7,138329
+Gustav  Ritter von Escherich,programming-languages,27259,Technische Universität Graz,1873,7,27258;49523;
+Hermann  Minkowski,programming-languages,29675,Universität Königsberg,1885,7,7404
+C. L. Ferdinand (Carl Louis) Lindemann,programming-languages,7404,Friedrich-Alexander-Universität Erlangen-Nürnberg,1873,7,7401
+John Edensor Littlewood,programming-languages,10463,University of Cambridge,1910,7,12099
+G. H. (Godfrey Harold) Hardy,programming-languages,17806,University of Cambridge,1903,7,31354;18571;
+Moritz  Réthy,programming-languages,90711,Ruprecht-Karls-Universität Heidelberg,1874,7,18336
+Ernst Eduard Kummer,programming-languages,18331,Martin-Luther-Universität Halle-Wittenberg,1831,7,25484
+Karl Theodor Wilhelm Weierstraß,programming-languages,7486,Westfälische Wilhelms-Universität Münster,1841,7,29458
+William Archibald Dunning,programming-languages,127845,Columbia University,1885,7,201548
+Simon  Newcomb,programming-languages,122449,,1858,7,80886
+John Bates Clark,programming-languages,122448,Ruprecht-Karls-Universität Heidelberg,1877,7,194422
+Walter Francis Colby,programming-languages,115036,University of Michigan,1909,7,179033
+Oskar  Klein,programming-languages,115037,Stockholm University,1921,7,200502
+Joseph  Lovering,programming-languages,132487,Harvard University,1833,8,80886
+H. A. (Hubert Anson) Newton,programming-languages,7865,Yale University,1850,8,26995
+Benjamin  Peirce,programming-languages,80886,Harvard University,1829,8,147797
+Arthur  Cayley,programming-languages,7824,Universiteit Leiden and University College Dublin and University of Oxford,1875,8,42016
+Edward John Routh,programming-languages,101929,University of Cambridge,1857,8,42016;129420;
+C. L. Ferdinand (Carl Louis) Lindemann,programming-languages,7404,Friedrich-Alexander-Universität Erlangen-Nürnberg,1873,8,7401
+Ottokar  Tumlirz,programming-languages,138329,Charles University,1879,8,113011
+Johannes  Frischauf,programming-languages,27258,Universität Wien,1861,8,96350;96357;
+Karl  Friesach,programming-languages,49523,Universität Wien,1846,8,None
+C. L. Ferdinand (Carl Louis) Lindemann,programming-languages,7404,Friedrich-Alexander-Universität Erlangen-Nürnberg,1873,8,7401
+C. Felix (Christian) Klein,programming-languages,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,8,7402;19964;
+Ernest William Barnes,programming-languages,12099,University of Cambridge,1907,8,27230
+Augustus Edward Hough Love,programming-languages,31354,ETH Zürich,ich,8,None
+Edmund Taylor Whittaker,programming-languages,18571,University of Cambridge,1895,8,17829;17467;
+Leo  Königsberger,programming-languages,18336,Universität Berlin,1860,8,18331;7486;
+Heinrich Ferdinand Scherk,programming-languages,25484,Universität Berlin,1823,8,65162;18603;
+Christoph  Gudermann,programming-languages,29458,Georg-August-Universität Göttingen,1823,8,57667
+John William Burgess,programming-languages,201548,,,8,None
+Benjamin  Peirce,programming-languages,80886,Harvard University,1829,8,147797
+Karl  Knies,programming-languages,194422,Philipps-Universität Marburg,1846,8,177156
+Harrison McAllister Randall,programming-languages,179033,University of Michigan,1902,8,None
+Svante  Arrhenius,programming-languages,200502,,,8,None
+Benjamin  Peirce,programming-languages,80886,Harvard University,1829,9,147797
+Michel  Chasles,programming-languages,26995,École Polytechnique,1814,9,17865
+Nathaniel  Bowditch,programming-languages,147797,,,9,None
+William  Hopkins,programming-languages,42016,University of Cambridge,1830,9,102043
+William  Hopkins,programming-languages,42016,University of Cambridge,1830,9,102043
+Isaac  Todhunter,programming-languages,129420,University of Cambridge,1848,9,42016
+C. Felix (Christian) Klein,programming-languages,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,9,7402;19964;
+Ernst  Mach,programming-languages,113011,Universität Wien,1860,9,113010
+Franz Xaver Moth,programming-languages,96350,University of Prague,1822,9,96327;96330;
+Józef Maximilian Petzval,programming-languages,96357,Eötvös Loránd University,1832,9,None
+C. Felix (Christian) Klein,programming-languages,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,9,7402;19964;
+Julius  Plücker,programming-languages,7402,Philipps-Universität Marburg,1823,9,29642
+Rudolf Otto Sigismund Lipschitz,programming-languages,19964,Universität Berlin,1853,9,17946;47064;
+Walter William Rouse Ball,programming-languages,27230,University of Cambridge,1874,9,None
+Andrew Russell Forsyth,programming-languages,17829,University of Cambridge,1881,9,7824
+George Howard Darwin,programming-languages,17467,University of Cambridge,1871,9,101929
+Ernst Eduard Kummer,programming-languages,18331,Martin-Luther-Universität Halle-Wittenberg,1831,9,25484
+Karl Theodor Wilhelm Weierstraß,programming-languages,7486,Westfälische Wilhelms-Universität Münster,1841,9,29458
+Heinrich Wilhelm Brandes,programming-languages,65162,Georg-August-Universität Göttingen,1800,9,66476;65161;
+Friedrich Wilhelm Bessel,programming-languages,18603,Georg-August-Universität Göttingen,1810,9,18231
+Bernhard Friedrich Thibaut,programming-languages,57667,Georg-August-Universität Göttingen,1796,9,66476;65161;
+Nathaniel  Bowditch,programming-languages,147797,,,9,None
+Bruno  Hildebrand,programming-languages,177156,Universität Breslau,1836,9,199699
+Nathaniel  Bowditch,programming-languages,147797,,,10,None
+Siméon Denis Poisson,programming-languages,17865,École Polytechnique,1800,10,108295;17864;
+Adam  Sedgwick,programming-languages,102043,University of Cambridge,1811,10,102036;102037;
+Adam  Sedgwick,programming-languages,102043,University of Cambridge,1811,10,102036;102037;
+William  Hopkins,programming-languages,42016,University of Cambridge,1830,10,102043
+Julius  Plücker,programming-languages,7402,Philipps-Universität Marburg,1823,10,29642
+Rudolf Otto Sigismund Lipschitz,programming-languages,19964,Universität Berlin,1853,10,17946;47064;
+Andreas  von Ettingshausen,programming-languages,113010,Universität Wien and Kaiserlich-königliche Technische Militärakademie,1817,10,128056
+Franz Josef Ritter von Gerstner,programming-languages,96327,Karl-Ferdinand-Universität Prag,1776,10,143091;143129;
+Bernard(us) Placidus Johann Nepomuk Bolzano,programming-languages,96330,University of Prague,1805,10,96327
+Julius  Plücker,programming-languages,7402,Philipps-Universität Marburg,1823,10,29642
+Rudolf Otto Sigismund Lipschitz,programming-languages,19964,Universität Berlin,1853,10,17946;47064;
+Christian Ludwig Gerling,programming-languages,29642,Georg-August-Universität Göttingen,1812,10,18231
+Gustav Peter Lejeune Dirichlet,programming-languages,17946,Rheinische Friedrich-Wilhelms-Universität Bonn,1827,10,17865;17981;
+Martin  Ohm,programming-languages,47064,Friedrich-Alexander-Universität Erlangen-Nürnberg,1811,10,47025
+Arthur  Cayley,programming-languages,7824,Universiteit Leiden and University College Dublin and University of Oxford,1875,10,42016
+Edward John Routh,programming-languages,101929,University of Cambridge,1857,10,42016;129420;
+Heinrich Ferdinand Scherk,programming-languages,25484,Universität Berlin,1823,10,65162;18603;
+Christoph  Gudermann,programming-languages,29458,Georg-August-Universität Göttingen,1823,10,57667
+Abraham Gotthelf Kästner,programming-languages,66476,Universität Leipzig,1739,10,57670
+Georg Christoph Lichtenberg,programming-languages,65161,Georg-August-Universität Göttingen,1765,10,66476
+Carl Friedrich Gauß,programming-languages,18231,Universität Helmstedt,1799,10,18230
+Abraham Gotthelf Kästner,programming-languages,66476,Universität Leipzig,1739,10,57670
+Georg Christoph Lichtenberg,programming-languages,65161,Georg-August-Universität Göttingen,1765,10,66476
+Maximilian Wolfgang Duncker,programming-languages,199699,Humboldt-Universität zu Berlin,1834,10,229407;229406;

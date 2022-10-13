@@ -1,0 +1,103 @@
+digraph "Academic Genealogy for computer-graphics" {
+	147355 [label="Christopher Batty
+['University of British Columbia']
+['2010']
+computer-graphics" fillcolor=blue]
+	66906 [label="William Cowan
+['McGill University']
+['1976']
+computer-graphics" fillcolor=blue]
+	78067 [label="Craig Kaplan
+['University of Washington']
+['2002']
+computer-graphics" fillcolor=blue]
+	71953 [label="Stephen Mann
+['University of Washington']
+['1992']
+computer-graphics" fillcolor=blue]
+	70795 [label="Robert  Bridson
+Stanford University
+2003
+computer-graphics" fillcolor=blue]
+	128095 [label="Martin J. Zuckermann
+University of Oxford
+1963
+computer-graphics" fillcolor=blue]
+	50412 [label="David Henry Salesin
+Stanford University
+1991
+computer-graphics" fillcolor=blue]
+	33763 [label="Anthony David DeRose
+University of California, Berkeley
+1985
+computer-graphics" fillcolor=blue]
+	36653 [label="Ronald Paul Fedkiw
+University of California, Los Angeles
+1996
+computer-graphics" fillcolor=blue]
+	39940 [label="Leonidas John (Ioannis) Guibas
+Stanford University
+1976
+computer-graphics" fillcolor=blue]
+	50070 [label="Brian Andrew Barsky
+University of Utah
+1981
+computer-graphics" fillcolor=blue]
+	11645 [label="Stanley Joel Osher
+New York University
+1966
+computer-graphics" fillcolor=blue]
+	10416 [label="Donald Ervin Knuth
+California Institute of Technology
+1963
+computer-graphics" fillcolor=blue]
+	16454 [label="Richard Franklin Riesenfeld
+Syracuse University
+1973
+computer-graphics" fillcolor=blue]
+	13409 [label="Jacob Theodore (Jack) Schwartz
+Yale University
+1951
+computer-graphics" fillcolor=blue]
+	6807 [label="Marshall  Hall, Jr.
+Yale University
+1936
+computer-graphics" fillcolor=blue]
+	14382 [label="William John Gordon, Jr.
+Brown University
+1965
+computer-graphics" fillcolor=blue]
+	96017 [label="Steven A. Coons
+nan
+D.
+computer-graphics" fillcolor=blue]
+	4299 [label="Nelson  Dunford
+Brown University
+1936
+computer-graphics" fillcolor=blue]
+	11890 [label="Øystein  Ore
+Universitetet i Oslo
+1924
+computer-graphics" fillcolor=blue]
+	13797 [label="Gordon Frank Newell
+University of Illinois at Urbana-Champaign
+1950
+computer-graphics" fillcolor=blue]
+	70795 -> 147355
+	128095 -> 66906
+	50412 -> 78067
+	33763 -> 71953
+	36653 -> 70795
+	39940 -> 50412
+	50070 -> 33763
+	11645 -> 36653
+	10416 -> 39940
+	16454 -> 50070
+	13409 -> 11645
+	6807 -> 10416
+	14382 -> 16454
+	96017 -> 16454
+	4299 -> 13409
+	11890 -> 6807
+	13797 -> 14382
+}

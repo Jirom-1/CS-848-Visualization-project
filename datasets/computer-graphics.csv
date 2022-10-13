@@ -1,0 +1,35 @@
+Name,Specialization,ID,school,year,Generation,advisor_id
+Christopher Batty,computer-graphics,147355,['University of British Columbia'],['2010'],0,70795
+William Cowan,computer-graphics,66906,['McGill University'],['1976'],0,128095
+Craig Kaplan,computer-graphics,78067,['University of Washington'],['2002'],0,50412
+Stephen Mann,computer-graphics,71953,['University of Washington'],['1992'],0,33763
+Robert  Bridson,computer-graphics,70795,Stanford University,2003,1,36653
+Martin J. Zuckermann,computer-graphics,128095,University of Oxford,1963,1,None
+David Henry Salesin,computer-graphics,50412,Stanford University,1991,1,39940
+Anthony David DeRose,computer-graphics,33763,"University of California, Berkeley",1985,1,50070
+Ronald Paul Fedkiw,computer-graphics,36653,"University of California, Los Angeles",1996,2,11645
+Leonidas John (Ioannis) Guibas,computer-graphics,39940,Stanford University,1976,2,10416
+Brian Andrew Barsky,computer-graphics,50070,University of Utah,1981,2,16454
+Stanley Joel Osher,computer-graphics,11645,New York University,1966,3,13409
+Donald Ervin Knuth,computer-graphics,10416,California Institute of Technology,1963,3,6807
+Richard Franklin Riesenfeld,computer-graphics,16454,Syracuse University,1973,3,14382;96017;
+Jacob Theodore (Jack) Schwartz,computer-graphics,13409,Yale University,1951,4,4299
+"Marshall  Hall, Jr.",computer-graphics,6807,Yale University,1936,4,11890
+"William John Gordon, Jr.",computer-graphics,14382,Brown University,1965,4,13797
+Steven A. Coons,computer-graphics,96017,,D.,4,None
+Nelson  Dunford,computer-graphics,4299,Brown University,1936,5,4740
+Øystein  Ore,computer-graphics,11890,Universitetet i Oslo,1924,5,18237
+Gordon Frank Newell,computer-graphics,13797,University of Illinois at Urbana-Champaign,1950,5,None
+Jacob David Tamarkin,computer-graphics,4740,St. Petersburg State University,1917,6,12543
+Thoralf Albert Skolem,computer-graphics,18237,Universitetet i Oslo,1926,6,18236
+Andrei Andreyevich Markov,computer-graphics,12543,St. Petersburg State University,1884,7,12542
+Axel  Thue,computer-graphics,18236,University of Christiania,1889,7,77898
+Pafnuty Lvovich Chebyshev,computer-graphics,12542,St. Petersburg State University,1849,8,12541
+Elling  Holst,computer-graphics,77898,,D.,8,18235
+Nikolai Dmitrievich Brashman,computer-graphics,12541,Kazan State University and Lomonosov Moscow State University,1834,9,12540;259973;146776;
+M. Sophus (Marius) Lie,computer-graphics,18235,University of Christiania,1872,9,66101;66102;
+Joseph Johann von Littrow,computer-graphics,12540,Universität Wien,1838,10,None
+Mikhail Vasilyevich  Ostrogradsky,computer-graphics,259973,Université de Paris,1823,10,17865;55177;
+Nikolai Ivanovich Lobachevsky,computer-graphics,146776,Kazan State University,ity,10,151180;122737;
+Carl Anton Bjerknes,computer-graphics,66101,Universitetet i Oslo,1848,10,77899;17946;18232;
+Cato Maximilian Guldberg,computer-graphics,66102,,l.,10,None

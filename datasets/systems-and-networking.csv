@@ -1,0 +1,107 @@
+Name,Specialization,ID,school,year,Generation,advisor_id
+Raouf Boutaba,systems-and-networking,73170,[''],['D.'],0,None
+Tim Brecht,systems-and-networking,91384,['University of Toronto'],['1994'],0,67136
+Ian Goldberg,systems-and-networking,70144,"['University of California, Berkeley']",['2000'],0,67451
+Sergey Gorbunov,systems-and-networking,203875,['Massachusetts Institute of Technology'],['2015'],0,133526
+Urs Hengartner,systems-and-networking,145850,['Carnegie Mellon University'],['2005'],0,50087
+Srinivasan Keshav,systems-and-networking,73556,"['University of California, Berkeley']",['1991'],0,32850
+Ali Mashtizadeh,systems-and-networking,233022,['Stanford University'],['2017'],0,61965
+David Taylor,systems-and-networking,66870,['University of Waterloo'],['1977'],0,66871
+Richard Trefler,systems-and-networking,69919,['University of Texas at Austin'],['1999'],0,69873
+Paul Ward,systems-and-networking,66942,['University of Waterloo'],['2002'],0,66870
+Johnny Wong,systems-and-networking,66882,"['University of California, Los Angeles']",['1975'],0,70476
+Songnian  Zhou,systems-and-networking,67136,"University of California, Berkeley",1987,1,32850
+Eric Allen Brewer,systems-and-networking,67451,Massachusetts Institute of Technology,1994,1,67447
+Vinod  Vaikuntanathan,systems-and-networking,133526,Massachusetts Institute of Technology,2008,1,35879
+Peter Alfons Steenkiste,systems-and-networking,50087,Stanford University,1987,1,40909
+Domenico  Ferrari,systems-and-networking,32850,Politecnico di Milano,1963,1,158121
+David Folkman Mazières,systems-and-networking,61965,Massachusetts Institute of Technology,2000,1,61950
+David E. Morgan,systems-and-networking,66871,University of Waterloo,1971,1,66872
+E. Allen (Ernest) Emerson,systems-and-networking,69873,Harvard University,1981,1,50063
+David J. Taylor,systems-and-networking,66870,University of Waterloo,1977,1,66871
+Richard Robert Muntz,systems-and-networking,70476,Princeton University,1969,1,82027
+Domenico  Ferrari,systems-and-networking,32850,Politecnico di Milano,1963,2,158121
+William Edward Weihl,systems-and-networking,67447,Massachusetts Institute of Technology,1984,2,61932
+Shafrira  Goldwasser,systems-and-networking,35879,"University of California, Berkeley",1984,2,13373
+John Leroy Hennessy,systems-and-networking,40909,State University of New York at Stony Brook,1977,2,94545
+Luigi  Dadda,systems-and-networking,158121,Politecnico di Milano,1947,2,158188
+M. Frans (Marinus) Kaashoek,systems-and-networking,61950,Vrije Universiteit Amsterdam,1992,2,69777
+Eric G. Manning,systems-and-networking,66872,University of Illinois at Urbana-Champaign,1965,2,92718
+"Edmund Melson Clarke, Jr.",systems-and-networking,50063,Cornell University,1976,2,9041
+David E. Morgan,systems-and-networking,66871,University of Waterloo,1971,2,66872
+"Edward Grady Coffman, Jr.",systems-and-networking,82027,"University of California, Los Angeles",1966,2,24334
+Luigi  Dadda,systems-and-networking,158121,Politecnico di Milano,1947,3,158188
+Barbara Jane Huberman Liskov,systems-and-networking,61932,Stanford University,1968,3,22145
+Manuel  Blum,systems-and-networking,13373,Massachusetts Institute of Technology,1964,3,6869
+Richard Bruce Kieburtz,systems-and-networking,94545,University of Washington,1961,3,21212
+Ercole  Bottani,systems-and-networking,158188,Politecnico di Milano,1922,3,None
+Andrew Stuart Tanenbaum,systems-and-networking,69777,"University of California, Berkeley",1971,3,104776
+Sundaram  Seshu,systems-and-networking,92718,University of Illinois at Urbana-Champaign,1955,3,92644
+Robert Lee Constable,systems-and-networking,9041,University of Wisconsin-Madison,1968,3,8012
+Eric G. Manning,systems-and-networking,66872,University of Illinois at Urbana-Champaign,1965,3,92718
+Leonard  Kleinrock,systems-and-networking,24334,Massachusetts Institute of Technology,1963,3,65315
+Ercole  Bottani,systems-and-networking,158188,Politecnico di Milano,1922,4,None
+John  McCarthy,systems-and-networking,22145,Princeton University,1951,4,10290
+Marvin Lee Minsky,systems-and-networking,6869,Princeton University,1954,4,8581
+Akira  Ishimaru,systems-and-networking,21212,University of Washington,1958,4,35108
+John Marsh Wilcox,systems-and-networking,104776,"University of California, Berkeley",1954,4,194780
+Willis Laurens Emery,systems-and-networking,92644,Iowa State University,1947,4,92761
+Stephen Cole Kleene,systems-and-networking,8012,Princeton University,1934,4,8011
+Sundaram  Seshu,systems-and-networking,92718,University of Illinois at Urbana-Champaign,1955,4,92644
+Edward  Arthurs,systems-and-networking,65315,Massachusetts Institute of Technology,1955,4,10801
+Donald Clayton Spencer,systems-and-networking,10290,University of Cambridge,1939,5,10463;17806;
+Albert William Tucker,systems-and-networking,8581,Princeton University,1932,5,7461
+Gedaliahu  Held,systems-and-networking,35108,"University of California, Berkeley",1954,5,144842
+Burton Jones Moyer,systems-and-networking,194780,University of Washington,1939,5,200824
+John Douglas Ryder,systems-and-networking,92761,Iowa State University,1944,5,131580
+Alonzo  Church,systems-and-networking,8011,Princeton University,1927,5,805
+Willis Laurens Emery,systems-and-networking,92644,Iowa State University,1947,5,92761
+William Kirby Linvill,systems-and-networking,10801,Massachusetts Institute of Technology,1949,5,63061
+John Edensor Littlewood,systems-and-networking,10463,University of Cambridge,1910,6,12099
+G. H. (Godfrey Harold) Hardy,systems-and-networking,17806,University of Cambridge,1903,6,31354;18571;
+Solomon  Lefschetz,systems-and-networking,7461,Clark University,1911,6,7451
+Samuel  Silver,systems-and-networking,144842,Massachusetts Institute of Technology,1940,6,64503
+Donald Holt Loughridge,systems-and-networking,200824,California Institute of Technology,1927,6,72167
+Wallace L. Cassell,systems-and-networking,131580,University of Colorado at Boulder,1928,6,None
+Oswald  Veblen,systems-and-networking,805,The University of Chicago,1903,6,806
+John Douglas Ryder,systems-and-networking,92761,Iowa State University,1944,6,131580
+Ernst Adolph Guillemin,systems-and-networking,63061,Ludwig-Maximilians-Universität München,1926,6,31357
+Ernest William Barnes,systems-and-networking,12099,University of Cambridge,1907,7,27230
+Augustus Edward Hough Love,systems-and-networking,31354,ETH Zürich,ich,7,None
+Edmund Taylor Whittaker,systems-and-networking,18571,University of Cambridge,1895,7,17829;17467;
+William Edward Story,systems-and-networking,7451,Universität Leipzig,1875,7,32858;18589;
+John Clarke Slater,systems-and-networking,64503,Harvard University,1923,7,79749
+Robert Andrews Millikan,systems-and-networking,72167,Columbia University,1895,7,72170;148580;
+E. H. (Eliakim Hastings) Moore,systems-and-networking,806,Yale University,1885,7,7865
+Wallace L. Cassell,systems-and-networking,131580,University of Colorado at Boulder,1928,7,None
+Arnold Johannes Wilhelm Sommerfeld,systems-and-networking,31357,Universität Königsberg,1891,7,7404
+Walter William Rouse Ball,systems-and-networking,27230,University of Cambridge,1874,8,None
+Andrew Russell Forsyth,systems-and-networking,17829,University of Cambridge,1881,8,7824
+George Howard Darwin,systems-and-networking,17467,University of Cambridge,1871,8,101929
+Carl Gottfried Neumann,systems-and-networking,32858,Universität Königsberg,1856,8,46967;57706;
+Wilhelm  Scheibner,systems-and-networking,18589,Martin-Luther-Universität Halle-Wittenberg,1848,8,15635
+Percy Williams Bridgman,systems-and-networking,79749,Harvard University,1908,8,35094
+Albert Abraham Michelson,systems-and-networking,72170,,D.,8,49057
+Ogden  Rood,systems-and-networking,148580,,,8,None
+H. A. (Hubert Anson) Newton,systems-and-networking,7865,Yale University,1850,8,26995
+C. L. Ferdinand (Carl Louis) Lindemann,systems-and-networking,7404,Friedrich-Alexander-Universität Erlangen-Nürnberg,1873,8,7401
+Arthur  Cayley,systems-and-networking,7824,Universiteit Leiden and University College Dublin and University of Oxford,1875,9,42016
+Edward John Routh,systems-and-networking,101929,University of Cambridge,1857,9,42016;129420;
+Otto  Hesse,systems-and-networking,46967,Universität Königsberg,1840,9,15635
+Friedrich Julius Richelot,systems-and-networking,57706,Universität Königsberg,1831,9,15635
+Carl Gustav Jacob Jacobi,systems-and-networking,15635,Humboldt-Universität zu Berlin,1825,9,41423
+Wallace Clement Sabine,systems-and-networking,35094,Harvard University,1888,9,67041
+Hermann Ludwig Ferdinand von Helmholtz,systems-and-networking,49057,Universität Berlin,1842,9,23194
+Michel  Chasles,systems-and-networking,26995,École Polytechnique,1814,9,17865
+C. Felix (Christian) Klein,systems-and-networking,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,9,7402;19964;
+William  Hopkins,systems-and-networking,42016,University of Cambridge,1830,10,102043
+William  Hopkins,systems-and-networking,42016,University of Cambridge,1830,10,102043
+Isaac  Todhunter,systems-and-networking,129420,University of Cambridge,1848,10,42016
+Carl Gustav Jacob Jacobi,systems-and-networking,15635,Humboldt-Universität zu Berlin,1825,10,41423
+Carl Gustav Jacob Jacobi,systems-and-networking,15635,Humboldt-Universität zu Berlin,1825,10,41423
+Enno Heeren Dirksen,systems-and-networking,41423,Georg-August-Universität Göttingen,1820,10,57659;57667;
+John  Trowbridge,systems-and-networking,67041,Harvard University,1873,10,132487
+Johannes Peter Müller,systems-and-networking,23194,Rheinische Friedrich-Wilhelms-Universität Bonn,1822,10,104394;101865;233065;
+Siméon Denis Poisson,systems-and-networking,17865,École Polytechnique,1800,10,108295;17864;
+Julius  Plücker,systems-and-networking,7402,Philipps-Universität Marburg,1823,10,29642
+Rudolf Otto Sigismund Lipschitz,systems-and-networking,19964,Universität Berlin,1853,10,17946;47064;

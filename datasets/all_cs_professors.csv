@@ -32,7 +32,7 @@ Jesse Hoey,artificial-intelligence-and-machine-learning,167185,['University of 
 Gautam Kamath,artificial-intelligence-and-machine-learning,264772,['Massachusetts Institute of Technology'],['2018'],0
 Kate Larson,artificial-intelligence-and-machine-learning,119359,['Carnegie Mellon University'],['2004'],0
 Edith Law,artificial-intelligence-and-machine-learning,N/A,,,0
-Jimmy Lin,artificial-intelligence-and-machine-learning,Advisor is Boris Katz,['Massachusetts Institute of Technology'],['2004'],0
+Jimmy Lin,artificial-intelligence-and-machine-learning,0,['Massachusetts Institute of Technology'],['2004'],0
 Yang Lu,artificial-intelligence-and-machine-learning,N/A,,,0
 Richard Mann,artificial-intelligence-and-machine-learning,131052,['University of Toronto'],['1997'],0
 Pascal Poupart,artificial-intelligence-and-machine-learning,97099,['University of Toronto'],['2005'],0
@@ -72,7 +72,7 @@ Lukasz Golab (Dept. of Management Sciences),data-systems,102378,['University of 
 Maura Grossman,data-systems,N/A,,,0
 Xi He,data-systems,N/A,,,0
 Ihab Ilyas,data-systems,125917,['Purdue University'],['2004'],0
-Jimmy Lin,data-systems,Advisor is Boris Katz,['Massachusetts Institute of Technology'],['2004'],0
+Jimmy Lin,data-systems,0,['Massachusetts Institute of Technology'],['2004'],0
 Tamer Özsu,data-systems,N/A,,,0
 Kenneth Salem,data-systems,66887,['Princeton University'],['1989'],0
 Semih Salihoglu,data-systems,286451,['Stanford University'],['2015'],0
@@ -84,7 +84,7 @@ Joanne Atlee,formal-methods,66892,['University of Maryland College Park'],['199
 Nancy Day,formal-methods,72132,['University of British Columbia'],['1998'],0
 Richard Trefler,formal-methods,69919,['University of Texas at Austin'],['1999'],0
 Vijay Ganesh (Department of Electrical and Computer Engineering),formal-methods,121250,['Stanford University'],['2007'],0
-Derek Rayside (Department of Electrical and Computer Engineering),formal-methods,252767 (unknown advisor but phD in MIT),,,0
+Derek Rayside (Department of Electrical and Computer Engineering),formal-methods,252767,,,0
 John Thistle (Department of Electrical and Computer Engineering),formal-methods,N/A,,,0
 Jesse Hoey,health-informatics,167185,['University of British Columbia'],['2004'],0
 Edith Law,health-informatics,,,,0

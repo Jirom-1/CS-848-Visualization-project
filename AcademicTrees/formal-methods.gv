@@ -1,0 +1,149 @@
+digraph "Academic Genealogy for formal-methods" {
+	66892 [label="Joanne Atlee
+['University of Maryland College Park']
+['1992']
+formal-methods" fillcolor=blue]
+	72132 [label="Nancy Day
+['University of British Columbia']
+['1998']
+formal-methods" fillcolor=blue]
+	69919 [label="Richard Trefler
+['University of Texas at Austin']
+['1999']
+formal-methods" fillcolor=blue]
+	121250 [label="Vijay Ganesh (Department of Electrical and Computer Engineering)
+['Stanford University']
+['2007']
+formal-methods" fillcolor=blue]
+	252767 [label="Derek Rayside (Department of Electrical and Computer Engineering)
+nan
+nan
+formal-methods" fillcolor=blue]
+	103306 [label="John Dennis Gannon, Jr.
+University of Toronto
+1975
+formal-methods" fillcolor=blue]
+	72125 [label="Jeffrey John Joyce
+University of Cambridge
+1990
+formal-methods" fillcolor=blue]
+	69873 [label="E. Allen (Ernest) Emerson
+Harvard University
+1981
+formal-methods" fillcolor=blue]
+	50263 [label="David L. Dill
+Carnegie Mellon University
+1987
+formal-methods" fillcolor=blue]
+	13815 [label="James Jay Horning
+Stanford University
+1969
+formal-methods" fillcolor=blue]
+	86294 [label="Michael J. C. Gordon
+The University of Edinburgh
+1973
+formal-methods" fillcolor=blue]
+	50063 [label="Edmund Melson Clarke, Jr.
+Cornell University
+1976
+formal-methods" fillcolor=blue]
+	13120 [label="Jerome Arthur Feldman
+Carnegie Mellon University
+1964
+formal-methods" fillcolor=blue]
+	102542 [label="Rodney Martineau Burstall
+University of Birmingham
+1966
+formal-methods" fillcolor=blue]
+	9041 [label="Robert Lee Constable
+University of Wisconsin-Madison
+1968
+formal-methods" fillcolor=blue]
+	13112 [label="Alan Jay Perlis
+Massachusetts Institute of Technology
+1950
+formal-methods" fillcolor=blue]
+	133637 [label="Norman Alfred Dudley
+University of Birmingham
+1955
+formal-methods" fillcolor=blue]
+	133638 [label="K. Brian Haley
+University of Birmingham
+1962
+formal-methods" fillcolor=blue]
+	8012 [label="Stephen Cole Kleene
+Princeton University
+1934
+formal-methods" fillcolor=blue]
+	1488 [label="Philip  Franklin
+Princeton University
+1921
+formal-methods" fillcolor=blue]
+	170791 [label="F.  Benson
+nan
+ee
+formal-methods" fillcolor=blue]
+	170790 [label="Elsie Anna Grace Knowles
+Friedrich-Schiller-Universität Jena
+1932
+formal-methods" fillcolor=blue]
+	8011 [label="Alonzo  Church
+Princeton University
+1927
+formal-methods" fillcolor=blue]
+	805 [label="Oswald  Veblen
+The University of Chicago
+1903
+formal-methods" fillcolor=blue]
+	181026 [label="Mathilde Maria Johanna Themis Vaerting
+Rheinische Friedrich-Wilhelms-Universität Bonn
+1911
+formal-methods" fillcolor=blue]
+	806 [label="E. H. (Eliakim Hastings) Moore
+Yale University
+1885
+formal-methods" fillcolor=blue]
+	51360 [label="Adolf  Dyroff
+Bayerische Julius-Maximilians-Universität Würzburg
+1892
+formal-methods" fillcolor=blue]
+	7865 [label="H. A. (Hubert Anson) Newton
+Yale University
+1850
+formal-methods" fillcolor=blue]
+	26995 [label="Michel  Chasles
+École Polytechnique
+1814
+formal-methods" fillcolor=blue]
+	17865 [label="Siméon Denis Poisson
+École Polytechnique
+1800
+formal-methods" fillcolor=blue]
+	103306 -> 66892
+	72125 -> 72132
+	69873 -> 69919
+	50263 -> 121250
+	13815 -> 103306
+	86294 -> 72125
+	50063 -> 69873
+	50063 -> 50263
+	13120 -> 13815
+	102542 -> 86294
+	9041 -> 50063
+	13112 -> 13120
+	133637 -> 102542
+	133638 -> 102542
+	8012 -> 9041
+	1488 -> 13112
+	170791 -> 133637
+	170790 -> 133637
+	8011 -> 8012
+	805 -> 1488
+	181026 -> 170790
+	805 -> 8011
+	806 -> 805
+	51360 -> 181026
+	7865 -> 806
+	26995 -> 7865
+	17865 -> 26995
+}

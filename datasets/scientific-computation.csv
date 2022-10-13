@@ -1,0 +1,131 @@
+Name,Specialization,ID,school,year,Generation,advisor_id
+Christopher Batty,scientific-computation,147355,['University of British Columbia'],['2010'],0,70795
+Peter Forsyth,scientific-computation,66894,['University of Western Ontario'],['1979'],0,68238
+Alan George,scientific-computation,50835,['Stanford University'],['1971'],0,4319
+George Labahn,scientific-computation,87911,['University of Alberta'],['1988'],0,72398
+Anita Layton (Cross appointed from the Department of Applied Mathematics),scientific-computation,65049,['University of Toronto'],['2001'],0,59043;65023;
+Yuying Li,scientific-computation,66915,['University of Waterloo'],['1988'],0,42579
+Robert  Bridson,scientific-computation,70795,Stanford University,2003,1,36653
+Henning  Rasmussen,scientific-computation,68238,University of Queensland,1968,1,14740
+George Elmer Forsythe,scientific-computation,4319,Brown University,1941,1,4740;33019;
+Stanley  Cabay,scientific-computation,72398,University of Toronto,1971,1,33269
+Kenneth Ronald Jackson,scientific-computation,59043,University of Toronto,1978,1,17245
+Christina  Christara,scientific-computation,65023,,D.,1,None
+Andrew Roger Conn,scientific-computation,42579,University of Waterloo,1971,1,66902
+Ronald Paul Fedkiw,scientific-computation,36653,"University of California, Los Angeles",1996,2,11645
+A. Fenton Pillow,scientific-computation,14740,University of Cambridge,1950,2,30467
+Jacob David Tamarkin,scientific-computation,4740,St. Petersburg State University,1917,2,12543
+William  Feller,scientific-computation,33019,Georg-August-Universität Göttingen,1926,2,7378
+Anthony  Zeppetella,scientific-computation,33269,New York University,1976,2,33017
+Thomas E. Hull,scientific-computation,17245,University of Toronto,1949,2,16268
+Tomasz  Pietrzykowski,scientific-computation,66902,Polska Akademia Nauk,1960,2,None
+Stanley Joel Osher,scientific-computation,11645,New York University,1966,3,13409
+George Keith Batchelor,scientific-computation,30467,University of Cambridge,1948,3,18588
+Andrei Andreyevich Markov,scientific-computation,12543,St. Petersburg State University,1884,3,12542
+Richard  Courant,scientific-computation,7378,Georg-August-Universität Göttingen,1910,3,7298
+"Henry P. McKean, Jr.",scientific-computation,33017,Princeton University,1955,3,33019
+Leopold  Infeld,scientific-computation,16268,Uniwersytet Jagielloński,1921,3,106278
+Jacob Theodore (Jack) Schwartz,scientific-computation,13409,Yale University,1951,4,4299
+Geoffrey Ingram Taylor,scientific-computation,18588,University of Cambridge,dge,4,50701
+Pafnuty Lvovich Chebyshev,scientific-computation,12542,St. Petersburg State University,1849,4,12541
+David  Hilbert,scientific-computation,7298,Universität Königsberg,1885,4,7404
+William  Feller,scientific-computation,33019,Georg-August-Universität Göttingen,1926,4,7378
+Władysław  Natanson,scientific-computation,106278,University of Cambridge,dge,4,50701
+Nelson  Dunford,scientific-computation,4299,Brown University,1936,5,4740
+Joseph John Thomson,scientific-computation,50701,University of Cambridge,1883,5,101979
+Nikolai Dmitrievich Brashman,scientific-computation,12541,Kazan State University and Lomonosov Moscow State University,1834,5,12540;259973;146776;
+C. L. Ferdinand (Carl Louis) Lindemann,scientific-computation,7404,Friedrich-Alexander-Universität Erlangen-Nürnberg,1873,5,7401
+Richard  Courant,scientific-computation,7378,Georg-August-Universität Göttingen,1910,5,7298
+Joseph John Thomson,scientific-computation,50701,University of Cambridge,1883,5,101979
+Jacob David Tamarkin,scientific-computation,4740,St. Petersburg State University,1917,6,12543
+John William Strutt (Lord Rayleigh),scientific-computation,101979,University of Cambridge,1868,6,101929;102483;
+Joseph Johann von Littrow,scientific-computation,12540,Universität Wien,1838,6,None
+Mikhail Vasilyevich  Ostrogradsky,scientific-computation,259973,Université de Paris,1823,6,55177;17865;
+Nikolai Ivanovich Lobachevsky,scientific-computation,146776,Kazan State University,ity,6,122737;151180;
+C. Felix (Christian) Klein,scientific-computation,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,6,7402;19964;
+David  Hilbert,scientific-computation,7298,Universität Königsberg,1885,6,7404
+John William Strutt (Lord Rayleigh),scientific-computation,101979,University of Cambridge,1868,6,101929;102483;
+Andrei Andreyevich Markov,scientific-computation,12543,St. Petersburg State University,1884,7,12542
+Edward John Routh,scientific-computation,101929,University of Cambridge,1857,7,42016;129420;
+George Gabriel Stokes,scientific-computation,102483,University of Cambridge,1841,7,42016
+Augustin Louis Cauchy,scientific-computation,55177,École Nationale des Ponts et Chaussées,ées,7,None
+Siméon Denis Poisson,scientific-computation,17865,École Polytechnique,1800,7,108295;17864;
+Stepan  Rumovsky,scientific-computation,122737,Königliche Akademie der Wissenschaften zu Berlin,lin,7,260114;38586;
+Johann Martin Christian Bartels,scientific-computation,151180,Friedrich-Schiller-Universität Jena,1799,7,18230;66476;65161;
+Julius  Plücker,scientific-computation,7402,Philipps-Universität Marburg,1823,7,29642
+Rudolf Otto Sigismund Lipschitz,scientific-computation,19964,Universität Berlin,1853,7,17946;47064;
+C. L. Ferdinand (Carl Louis) Lindemann,scientific-computation,7404,Friedrich-Alexander-Universität Erlangen-Nürnberg,1873,7,7401
+Edward John Routh,scientific-computation,101929,University of Cambridge,1857,7,42016;129420;
+George Gabriel Stokes,scientific-computation,102483,University of Cambridge,1841,7,42016
+Pafnuty Lvovich Chebyshev,scientific-computation,12542,St. Petersburg State University,1849,8,12541
+William  Hopkins,scientific-computation,42016,University of Cambridge,1830,8,102043
+Isaac  Todhunter,scientific-computation,129420,University of Cambridge,1848,8,42016
+William  Hopkins,scientific-computation,42016,University of Cambridge,1830,8,102043
+Pierre-Simon  Laplace,scientific-computation,108295,Université de Caen Normandie,1769,8,108266
+Joseph Louis Lagrange,scientific-computation,17864,,ee,8,146036;38586;
+Mikhail Vasilyevich  Lomonosov,scientific-computation,260114,Philipps-Universität Marburg,1739,8,47793
+Leonhard  Euler,scientific-computation,38586,Universität Basel,1726,8,53410
+Johann Friedrich Pfaff,scientific-computation,18230,Georg-August-Universität Göttingen,1786,8,66476;127710;
+Abraham Gotthelf Kästner,scientific-computation,66476,Universität Leipzig,1739,8,57670
+Georg Christoph Lichtenberg,scientific-computation,65161,Georg-August-Universität Göttingen,1765,8,66476
+Christian Ludwig Gerling,scientific-computation,29642,Georg-August-Universität Göttingen,1812,8,18231
+Gustav Peter Lejeune Dirichlet,scientific-computation,17946,Rheinische Friedrich-Wilhelms-Universität Bonn,1827,8,17865;17981;
+Martin  Ohm,scientific-computation,47064,Friedrich-Alexander-Universität Erlangen-Nürnberg,1811,8,47025
+C. Felix (Christian) Klein,scientific-computation,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,8,7402;19964;
+William  Hopkins,scientific-computation,42016,University of Cambridge,1830,8,102043
+Isaac  Todhunter,scientific-computation,129420,University of Cambridge,1848,8,42016
+William  Hopkins,scientific-computation,42016,University of Cambridge,1830,8,102043
+Nikolai Dmitrievich Brashman,scientific-computation,12541,Kazan State University and Lomonosov Moscow State University,1834,9,12540;259973;146776;
+Adam  Sedgwick,scientific-computation,102043,University of Cambridge,1811,9,102036;102037;
+William  Hopkins,scientific-computation,42016,University of Cambridge,1830,9,102043
+Adam  Sedgwick,scientific-computation,102043,University of Cambridge,1811,9,102036;102037;
+Jean Le Rond d'Alembert,scientific-computation,108266,Collège Mazarin,1735,9,None
+Giovanni Battista (Giambattista) Beccaria,scientific-computation,146036,,,9,None
+Leonhard  Euler,scientific-computation,38586,Universität Basel,1726,9,53410
+Christian M. von Wolff,scientific-computation,47793,Universität Leipzig,1703,9,113719;60985;157308;
+Johann  Bernoulli,scientific-computation,53410,Universität Basel,1694,9,54440;129628;
+Abraham Gotthelf Kästner,scientific-computation,66476,Universität Leipzig,1739,9,57670
+Johann Elert Bode,scientific-computation,127710,Handelsakademie Hamburg,urg,9,127668
+Christian August Hausen,scientific-computation,57670,Martin-Luther-Universität Halle-Wittenberg,1713,9,72669;128986;
+Abraham Gotthelf Kästner,scientific-computation,66476,Universität Leipzig,1739,9,57670
+Carl Friedrich Gauß,scientific-computation,18231,Universität Helmstedt,1799,9,18230
+Siméon Denis Poisson,scientific-computation,17865,École Polytechnique,1800,9,108295;17864;
+Jean-Baptiste Joseph Fourier,scientific-computation,17981,École Normale Supérieure,ure,9,17864
+Karl Christian von Langsdorf,scientific-computation,47025,Georg-August-Universität Göttingen and Justus-Liebig-Universität Gießen and Universität Erfurt,1781,9,66476
+Julius  Plücker,scientific-computation,7402,Philipps-Universität Marburg,1823,9,29642
+Rudolf Otto Sigismund Lipschitz,scientific-computation,19964,Universität Berlin,1853,9,17946;47064;
+Adam  Sedgwick,scientific-computation,102043,University of Cambridge,1811,9,102036;102037;
+William  Hopkins,scientific-computation,42016,University of Cambridge,1830,9,102043
+Adam  Sedgwick,scientific-computation,102043,University of Cambridge,1811,9,102036;102037;
+Joseph Johann von Littrow,scientific-computation,12540,Universität Wien,1838,10,None
+Mikhail Vasilyevich  Ostrogradsky,scientific-computation,259973,Université de Paris,1823,10,55177;17865;
+Nikolai Ivanovich Lobachevsky,scientific-computation,146776,Kazan State University,ity,10,122737;151180;
+Thomas  Jones,scientific-computation,102036,University of Cambridge,1782,10,133301;103066;
+John  Dawson,scientific-computation,102037,,,10,129421;129422;
+Adam  Sedgwick,scientific-computation,102043,University of Cambridge,1811,10,102036;102037;
+Thomas  Jones,scientific-computation,102036,University of Cambridge,1782,10,133301;103066;
+John  Dawson,scientific-computation,102037,,,10,129421;129422;
+Johann  Bernoulli,scientific-computation,53410,Universität Basel,1694,10,54440;129628;
+Ehrenfried Walter von Tschirnhaus,scientific-computation,113719,Universiteit Leiden,1674,10,132725;101860;119293;
+Gottfried Wilhelm Leibniz,scientific-computation,60985,Universität Leipzig,1666,10,137705;143859;125561;60984;
+Christoph  Pfautz,scientific-computation,157308,Universität Leipzig,1663,10,157307
+Jacob  Bernoulli,scientific-computation,54440,Universität Basel,1676,10,143011;143084;
+Nikolaus  Eglinger,scientific-computation,129628,Universität Basel,1661,10,129708;125125;
+Christian August Hausen,scientific-computation,57670,Martin-Luther-Universität Halle-Wittenberg,1713,10,72669;128986;
+Johann Georg Büsch,scientific-computation,127668,Georg-August-Universität Göttingen,1752,10,208259;60782;
+Johann Christoph Wichmannshausen,scientific-computation,72669,Universität Leipzig,1685,10,21235
+Johann Andreas Planer,scientific-computation,128986,Martin-Luther-Universität Halle-Wittenberg,1686,10,128046;128938;
+Christian August Hausen,scientific-computation,57670,Martin-Luther-Universität Halle-Wittenberg,1713,10,72669;128986;
+Johann Friedrich Pfaff,scientific-computation,18230,Georg-August-Universität Göttingen,1786,10,66476;127710;
+Pierre-Simon  Laplace,scientific-computation,108295,Université de Caen Normandie,1769,10,108266
+Joseph Louis Lagrange,scientific-computation,17864,,ee,10,146036;38586;
+Joseph Louis Lagrange,scientific-computation,17864,,ee,10,146036;38586;
+Abraham Gotthelf Kästner,scientific-computation,66476,Universität Leipzig,1739,10,57670
+Christian Ludwig Gerling,scientific-computation,29642,Georg-August-Universität Göttingen,1812,10,18231
+Gustav Peter Lejeune Dirichlet,scientific-computation,17946,Rheinische Friedrich-Wilhelms-Universität Bonn,1827,10,17865;17981;
+Martin  Ohm,scientific-computation,47064,Friedrich-Alexander-Universität Erlangen-Nürnberg,1811,10,47025
+Thomas  Jones,scientific-computation,102036,University of Cambridge,1782,10,133301;103066;
+John  Dawson,scientific-computation,102037,,,10,129421;129422;
+Adam  Sedgwick,scientific-computation,102043,University of Cambridge,1811,10,102036;102037;
+Thomas  Jones,scientific-computation,102036,University of Cambridge,1782,10,133301;103066;
+John  Dawson,scientific-computation,102037,,,10,129421;129422;

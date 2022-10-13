@@ -1,0 +1,222 @@
+Name,Specialization,ID,school,year,Generation,advisor_id
+Charles Clarke,data-systems,66869,['University of Waterloo'],['1996'],0,66818
+Gordon Cormack,data-systems,66818,['University of Manitoba'],['1981'],0,80823
+Lukasz Golab (Dept. of Management Sciences),data-systems,102378,['University of Waterloo'],['2006'],0,72390
+Ihab Ilyas,data-systems,125917,['Purdue University'],['2004'],0,117312;96256;
+Jimmy Lin,data-systems,0,['Massachusetts Institute of Technology'],['2004'],0,176620
+Kenneth Salem,data-systems,66887,['Princeton University'],['1989'],0,70978
+Semih Salihoglu,data-systems,286451,['Stanford University'],['2015'],0,70979
+David Toman,data-systems,70807,['Kansas State University'],['1996'],0,70371
+Frank Tompa,data-systems,66879,['University of Toronto'],['1974'],0,24934
+Grant Weddell,data-systems,66877,['University of Toronto'],['1987'],0,79993
+Gordon Villy Cormack,data-systems,66818,University of Manitoba,1981,1,80823
+Peter R. King,data-systems,80823,,D.,1,None
+M. Tamer (Mehmet) Ozsu,data-systems,72390,The Ohio State University,1983,1,79360
+Walid G. Aref,data-systems,117312,University of Maryland College Park,1993,1,41489
+Ahmed Khalifa Elmagarmid,data-systems,96256,The Ohio State University,1985,1,None
+Boris  Katz,data-systems,176620,Lomonosov Moscow State University,1975,1,76951
+Hector  Garcia-Molina,data-systems,70978,Stanford University,1979,1,70996
+Jennifer  Widom,data-systems,70979,Cornell University,1987,1,22781
+Jan Oskar Chomicki,data-systems,70371,"Rutgers University, New Brunswick",1990,1,70225
+Calvin Carl Gotlieb,data-systems,24934,University of Toronto,1947,1,16275
+Stavros C. Christodoulakis,data-systems,79993,University of Toronto,1981,1,66903
+Peter R. King,data-systems,80823,,D.,2,None
+Bruce Warren Weide,data-systems,79360,Carnegie Mellon University,1979,2,102419
+Hanan  Samet,data-systems,41489,Stanford University,1975,2,23037
+Evgenii Mikhailovich Landis,data-systems,76951,,1953,2,55146;76948;
+Gio(vanni) Corrado Melchiore Wiederhold,data-systems,70996,"University of California, San Francisco",1976,2,5709
+David  Gries,data-systems,22781,Technische Universität München,1966,2,21622;21232;
+Tomasz  Imielinski,data-systems,70225,Polska Akademia Nauk,1981,2,70822
+Eli Franklin Burton,data-systems,16275,University of Toronto,1910,2,265395
+Kenneth Clem Sevcik,data-systems,66903,The University of Chicago,1972,2,79967
+Michael Ian Shamos,data-systems,102419,Yale University,1978,3,69526
+Vinton Gray Cerf,data-systems,23037,"University of California, Los Angeles",1972,3,69930
+Ivan Georgievich Petrovsky,data-systems,55146,Lomonosov Moscow State University,ity,3,24109
+Aleksandr Semenovich Kronrod,data-systems,76948,,1949,3,10479
+John Amsden Starkweather,data-systems,5709,Northwestern University,1955,3,16963
+Josef  Stoer,data-systems,21622,Johannes Gutenberg-Universität Mainz,1961,3,24762;21232;
+Friedrich Ludwig Bauer,data-systems,21232,Ludwig-Maximilians-Universität München,1951,3,25129;36548;
+"Witold  Lipski, Jr.",data-systems,70822,Polska Akademia Nauk,1974,3,22583
+John Cunningham McLennan,data-systems,265395,University of Toronto,1900,3,None
+Linus Edward Schrage,data-systems,79967,Cornell University,1966,3,79965
+David Paul Dobkin,data-systems,69526,Harvard University,1973,4,18746
+Gerald  Estrin,data-systems,69930,University of Wisconsin-Madison,1951,4,29801
+Dimitri Fedorowitsch Egorov,data-systems,24109,Lomonosov Moscow State University,1901,4,24101
+Nikolai Nikolayevich Luzin,data-systems,10479,Lomonosov Moscow State University,1915,4,24109
+Carl Porter Duncan,data-systems,16963,Brown University,1947,4,93076
+Klaus  Samelson,data-systems,24762,Ludwig-Maximilians-Universität München,1951,4,25129
+Friedrich Ludwig Bauer,data-systems,21232,Ludwig-Maximilians-Universität München,1951,4,25129;36548;
+Fritz  Bopp,data-systems,25129,Georg-August-Universität Göttingen,1937,4,106421;57661;
+Georg  Aumann,data-systems,36548,Ludwig-Maximilians-Universität München,1931,4,57471;7517;
+Wiktor  Marek,data-systems,22583,Uniwersytet Warszawski,1968,4,489
+William Laughlin Maxwell,data-systems,79965,Cornell University,1961,4,79968
+Roger Ware Brockett,data-systems,18746,Case Western Reserve University,1964,5,92461
+Vincent C. Rideout,data-systems,29801,California Institute of Technology,1940,5,222430
+Nicolai Vasilievich Bugaev,data-systems,24101,Lomonosov Moscow State University,1866,5,18331;55185;7486;
+Dimitri Fedorowitsch Egorov,data-systems,24109,Lomonosov Moscow State University,1901,5,24101
+Harold  Schlosberg,data-systems,93076,Princeton University,1928,5,95237;95238;
+Fritz  Bopp,data-systems,25129,Georg-August-Universität Göttingen,1937,5,106421;57661;
+Fritz  Bopp,data-systems,25129,Georg-August-Universität Göttingen,1937,5,106421;57661;
+Georg  Aumann,data-systems,36548,Ludwig-Maximilians-Universität München,1931,5,57471;7517;
+Erwin Richard Fues,data-systems,106421,Ludwig-Maximilians-Universität München,1919,5,31357
+Fritz  Sauter,data-systems,57661,Universität Innsbruck,1928,5,138330
+Heinrich Franz Friedrich Tietze,data-systems,57471,Universität Wien,1904,5,27259
+Constantin  Carathéodory,data-systems,7517,Georg-August-Universität Göttingen,1904,5,29675
+Andrzej  Mostowski,data-systems,489,Uniwersytet Warszawski,1938,5,13347;24546;
+Richard Walter Conway,data-systems,79968,Cornell University,1958,5,79969
+Mihajlo D. Mesarović,data-systems,92461,University of Belgrade,1955,6,None
+Royal Wasson Sorensen,data-systems,222430,California Institute of Technology,1938,6,None
+Ernst Eduard Kummer,data-systems,18331,Martin-Luther-Universität Halle-Wittenberg,1831,6,25484
+Joseph  Liouville,data-systems,55185,"Faculté des Sciences, Paris",1836,6,17865;104652;
+Karl Theodor Wilhelm Weierstraß,data-systems,7486,Westfälische Wilhelms-Universität Münster,1841,6,29458
+Nicolai Vasilievich Bugaev,data-systems,24101,Lomonosov Moscow State University,1866,6,18331;55185;7486;
+Edwin Bissell Holt,data-systems,95237,Harvard University,1901,6,29244
+Leonard  Carmichael,data-systems,95238,Harvard University,1924,6,29189
+Erwin Richard Fues,data-systems,106421,Ludwig-Maximilians-Universität München,1919,6,31357
+Fritz  Sauter,data-systems,57661,Universität Innsbruck,1928,6,138330
+Erwin Richard Fues,data-systems,106421,Ludwig-Maximilians-Universität München,1919,6,31357
+Fritz  Sauter,data-systems,57661,Universität Innsbruck,1928,6,138330
+Heinrich Franz Friedrich Tietze,data-systems,57471,Universität Wien,1904,6,27259
+Constantin  Carathéodory,data-systems,7517,Georg-August-Universität Göttingen,1904,6,29675
+Arnold Johannes Wilhelm Sommerfeld,data-systems,31357,Universität Königsberg,1891,6,7404
+Arthur  March,data-systems,138330,Universität Innsbruck,1913,6,138329
+Gustav  Ritter von Escherich,data-systems,27259,Technische Universität Graz,1873,6,27258;49523;
+Hermann  Minkowski,data-systems,29675,Universität Königsberg,1885,6,7404
+Alfred  Tarski,data-systems,13347,Uniwersytet Warszawski,1924,6,13345
+Kazimierz  Kuratowski,data-systems,24546,Uniwersytet Warszawski,1921,6,12547;86692;
+"Andrew Schultz Schultz, Jr.",data-systems,79969,Cornell University,1941,6,80136
+Heinrich Ferdinand Scherk,data-systems,25484,Universität Berlin,1823,7,65162;18603;
+Siméon Denis Poisson,data-systems,17865,École Polytechnique,1800,7,108295;17864;
+Louis Jacques Thenard,data-systems,104652,École Polytechnique,que,7,158571
+Christoph  Gudermann,data-systems,29458,Georg-August-Universität Göttingen,1823,7,57667
+Ernst Eduard Kummer,data-systems,18331,Martin-Luther-Universität Halle-Wittenberg,1831,7,25484
+Joseph  Liouville,data-systems,55185,"Faculté des Sciences, Paris",1836,7,17865;104652;
+Karl Theodor Wilhelm Weierstraß,data-systems,7486,Westfälische Wilhelms-Universität Münster,1841,7,29458
+William  James,data-systems,29244,Harvard University,1869,7,99605;49057;
+Walter Fenno Dearborn,data-systems,29189,Columbia University,1905,7,72614
+Arnold Johannes Wilhelm Sommerfeld,data-systems,31357,Universität Königsberg,1891,7,7404
+Arthur  March,data-systems,138330,Universität Innsbruck,1913,7,138329
+Arnold Johannes Wilhelm Sommerfeld,data-systems,31357,Universität Königsberg,1891,7,7404
+Arthur  March,data-systems,138330,Universität Innsbruck,1913,7,138329
+Gustav  Ritter von Escherich,data-systems,27259,Technische Universität Graz,1873,7,27258;49523;
+Hermann  Minkowski,data-systems,29675,Universität Königsberg,1885,7,7404
+C. L. Ferdinand (Carl Louis) Lindemann,data-systems,7404,Friedrich-Alexander-Universität Erlangen-Nürnberg,1873,7,7401
+Ottokar  Tumlirz,data-systems,138329,Charles University,1879,7,113011
+Johannes  Frischauf,data-systems,27258,Universität Wien,1861,7,96350;96357;
+Karl  Friesach,data-systems,49523,Universität Wien,1846,7,None
+C. L. Ferdinand (Carl Louis) Lindemann,data-systems,7404,Friedrich-Alexander-Universität Erlangen-Nürnberg,1873,7,7401
+Stanislaw  Lesniewski,data-systems,13345,University of Lwów,1912,7,13344
+Stefan  Mazurkiewicz,data-systems,12547,University of Lwów,1913,7,12545
+Zygmunt  Janiszewski,data-systems,86692,,1911,7,86693
+John Robert Bangs Jr.,data-systems,80136,Cornell University,1921,7,None
+Heinrich Wilhelm Brandes,data-systems,65162,Georg-August-Universität Göttingen,1800,8,66476;65161;
+Friedrich Wilhelm Bessel,data-systems,18603,Georg-August-Universität Göttingen,1810,8,18231
+Pierre-Simon  Laplace,data-systems,108295,Université de Caen Normandie,1769,8,108266
+Joseph Louis Lagrange,data-systems,17864,,ee,8,146036;38586;
+Nicolas Louis Vauquelin,data-systems,158571,,,8,158735
+Bernhard Friedrich Thibaut,data-systems,57667,Georg-August-Universität Göttingen,1796,8,66476;65161;
+Heinrich Ferdinand Scherk,data-systems,25484,Universität Berlin,1823,8,65162;18603;
+Siméon Denis Poisson,data-systems,17865,École Polytechnique,1800,8,108295;17864;
+Louis Jacques Thenard,data-systems,104652,École Polytechnique,que,8,158571
+Christoph  Gudermann,data-systems,29458,Georg-August-Universität Göttingen,1823,8,57667
+Pierre  Janet,data-systems,99605,Université de Paris,1889,8,None
+Hermann Ludwig Ferdinand von Helmholtz,data-systems,49057,Universität Berlin,1842,8,23194
+James McKeen Cattell,data-systems,72614,Universität Leipzig,1886,8,46065
+C. L. Ferdinand (Carl Louis) Lindemann,data-systems,7404,Friedrich-Alexander-Universität Erlangen-Nürnberg,1873,8,7401
+Ottokar  Tumlirz,data-systems,138329,Charles University,1879,8,113011
+C. L. Ferdinand (Carl Louis) Lindemann,data-systems,7404,Friedrich-Alexander-Universität Erlangen-Nürnberg,1873,8,7401
+Ottokar  Tumlirz,data-systems,138329,Charles University,1879,8,113011
+Johannes  Frischauf,data-systems,27258,Universität Wien,1861,8,96350;96357;
+Karl  Friesach,data-systems,49523,Universität Wien,1846,8,None
+C. L. Ferdinand (Carl Louis) Lindemann,data-systems,7404,Friedrich-Alexander-Universität Erlangen-Nürnberg,1873,8,7401
+C. Felix (Christian) Klein,data-systems,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,8,7402;19964;
+Ernst  Mach,data-systems,113011,Universität Wien,1860,8,113010
+Franz Xaver Moth,data-systems,96350,University of Prague,1822,8,96327;96330;
+Józef Maximilian Petzval,data-systems,96357,Eötvös Loránd University,1832,8,None
+C. Felix (Christian) Klein,data-systems,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,8,7402;19964;
+Kazimierz  Twardowski,data-systems,13344,Universität Wien,1891,8,141831;15176;
+Wacław  Sierpiński,data-systems,12545,Uniwersytet Jagielloński,1906,8,12544;12546;
+Henri Léon Lebesgue,data-systems,86693,"Faculté des Sciences, Paris",1902,8,39071
+Abraham Gotthelf Kästner,data-systems,66476,Universität Leipzig,1739,9,57670
+Georg Christoph Lichtenberg,data-systems,65161,Georg-August-Universität Göttingen,1765,9,66476
+Carl Friedrich Gauß,data-systems,18231,Universität Helmstedt,1799,9,18230
+Jean Le Rond d'Alembert,data-systems,108266,Collège Mazarin,1735,9,None
+Giovanni Battista (Giambattista) Beccaria,data-systems,146036,,,9,None
+Leonhard  Euler,data-systems,38586,Universität Basel,1726,9,53410
+Antoine Francois de Fourcroy,data-systems,158735,Université de Paris,ris,9,158900
+Abraham Gotthelf Kästner,data-systems,66476,Universität Leipzig,1739,9,57670
+Georg Christoph Lichtenberg,data-systems,65161,Georg-August-Universität Göttingen,1765,9,66476
+Heinrich Wilhelm Brandes,data-systems,65162,Georg-August-Universität Göttingen,1800,9,66476;65161;
+Friedrich Wilhelm Bessel,data-systems,18603,Georg-August-Universität Göttingen,1810,9,18231
+Pierre-Simon  Laplace,data-systems,108295,Université de Caen Normandie,1769,9,108266
+Joseph Louis Lagrange,data-systems,17864,,ee,9,146036;38586;
+Nicolas Louis Vauquelin,data-systems,158571,,,9,158735
+Bernhard Friedrich Thibaut,data-systems,57667,Georg-August-Universität Göttingen,1796,9,66476;65161;
+Johannes Peter Müller,data-systems,23194,Rheinische Friedrich-Wilhelms-Universität Bonn,1822,9,104394;101865;233065;
+Wilhelm Max Wundt,data-systems,46065,Ruprecht-Karls-Universität Heidelberg,1856,9,232366
+C. Felix (Christian) Klein,data-systems,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,9,7402;19964;
+Ernst  Mach,data-systems,113011,Universität Wien,1860,9,113010
+C. Felix (Christian) Klein,data-systems,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,9,7402;19964;
+Ernst  Mach,data-systems,113011,Universität Wien,1860,9,113010
+Franz Xaver Moth,data-systems,96350,University of Prague,1822,9,96327;96330;
+Józef Maximilian Petzval,data-systems,96357,Eötvös Loránd University,1832,9,None
+C. Felix (Christian) Klein,data-systems,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,9,7402;19964;
+Julius  Plücker,data-systems,7402,Philipps-Universität Marburg,1823,9,29642
+Rudolf Otto Sigismund Lipschitz,data-systems,19964,Universität Berlin,1853,9,17946;47064;
+Andreas  von Ettingshausen,data-systems,113010,Universität Wien and Kaiserlich-königliche Technische Militärakademie,1817,9,128056
+Franz Josef Ritter von Gerstner,data-systems,96327,Karl-Ferdinand-Universität Prag,1776,9,143091;143129;
+Bernard(us) Placidus Johann Nepomuk Bolzano,data-systems,96330,University of Prague,1805,9,96327
+Julius  Plücker,data-systems,7402,Philipps-Universität Marburg,1823,9,29642
+Rudolf Otto Sigismund Lipschitz,data-systems,19964,Universität Berlin,1853,9,17946;47064;
+Robert  Zimmermann,data-systems,141831,Universität Wien,1846,9,96330
+Franz Clemens Brentano,data-systems,15176,Eberhard-Karls-Universität Tübingen,1862,9,60803;28227;
+Georgy Fedoseevich Voronoy,data-systems,12544,St. Petersburg State University,1896,9,12543
+Stanislaw  Zaremba,data-systems,12546,Université Paris IV-Sorbonne,1889,9,34254;34266;
+Émile  Borel,data-systems,39071,École Normale Supérieure Paris,1893,9,34254
+Christian August Hausen,data-systems,57670,Martin-Luther-Universität Halle-Wittenberg,1713,10,72669;128986;
+Abraham Gotthelf Kästner,data-systems,66476,Universität Leipzig,1739,10,57670
+Johann Friedrich Pfaff,data-systems,18230,Georg-August-Universität Göttingen,1786,10,66476;127710;
+Johann  Bernoulli,data-systems,53410,Universität Basel,1694,10,54440;129628;
+Jean Baptiste Michel Bucquet,data-systems,158900,Université de Paris,1768,10,159761
+Christian August Hausen,data-systems,57670,Martin-Luther-Universität Halle-Wittenberg,1713,10,72669;128986;
+Abraham Gotthelf Kästner,data-systems,66476,Universität Leipzig,1739,10,57670
+Abraham Gotthelf Kästner,data-systems,66476,Universität Leipzig,1739,10,57670
+Georg Christoph Lichtenberg,data-systems,65161,Georg-August-Universität Göttingen,1765,10,66476
+Carl Friedrich Gauß,data-systems,18231,Universität Helmstedt,1799,10,18230
+Jean Le Rond d'Alembert,data-systems,108266,Collège Mazarin,1735,10,None
+Giovanni Battista (Giambattista) Beccaria,data-systems,146036,,,10,None
+Leonhard  Euler,data-systems,38586,Universität Basel,1726,10,53410
+Antoine Francois de Fourcroy,data-systems,158735,Université de Paris,ris,10,158900
+Abraham Gotthelf Kästner,data-systems,66476,Universität Leipzig,1739,10,57670
+Georg Christoph Lichtenberg,data-systems,65161,Georg-August-Universität Göttingen,1765,10,66476
+Karl Asmund Rudolphi,data-systems,104394,Ernst-Moritz-Arndt-Universität Greifswald,1795,10,106530
+Philipp Franz von Walther,data-systems,101865,Ludwig-Maximilians-Universität Landshut,1803,10,101852;101851;
+Karl August Franz Josef Mayer,data-systems,233065,Eberhard-Karls-Universität Tübingen,1812,10,None
+Karl Ewald Hasse,data-systems,232366,Universität Leipzig,1833,10,None
+Julius  Plücker,data-systems,7402,Philipps-Universität Marburg,1823,10,29642
+Rudolf Otto Sigismund Lipschitz,data-systems,19964,Universität Berlin,1853,10,17946;47064;
+Andreas  von Ettingshausen,data-systems,113010,Universität Wien and Kaiserlich-königliche Technische Militärakademie,1817,10,128056
+Julius  Plücker,data-systems,7402,Philipps-Universität Marburg,1823,10,29642
+Rudolf Otto Sigismund Lipschitz,data-systems,19964,Universität Berlin,1853,10,17946;47064;
+Andreas  von Ettingshausen,data-systems,113010,Universität Wien and Kaiserlich-königliche Technische Militärakademie,1817,10,128056
+Franz Josef Ritter von Gerstner,data-systems,96327,Karl-Ferdinand-Universität Prag,1776,10,143091;143129;
+Bernard(us) Placidus Johann Nepomuk Bolzano,data-systems,96330,University of Prague,1805,10,96327
+Julius  Plücker,data-systems,7402,Philipps-Universität Marburg,1823,10,29642
+Rudolf Otto Sigismund Lipschitz,data-systems,19964,Universität Berlin,1853,10,17946;47064;
+Christian Ludwig Gerling,data-systems,29642,Georg-August-Universität Göttingen,1812,10,18231
+Gustav Peter Lejeune Dirichlet,data-systems,17946,Rheinische Friedrich-Wilhelms-Universität Bonn,1827,10,17865;17981;
+Martin  Ohm,data-systems,47064,Friedrich-Alexander-Universität Erlangen-Nürnberg,1811,10,47025
+Ignaz  Lindner,data-systems,128056,,,10,140909
+Jan  Tesánek,data-systems,143091,,1748,10,143129
+Joseph  Stepling,data-systems,143129,Universitas Carolina Prague,1743,10,143130
+Franz Josef Ritter von Gerstner,data-systems,96327,Karl-Ferdinand-Universität Prag,1776,10,143091;143129;
+Christian Ludwig Gerling,data-systems,29642,Georg-August-Universität Göttingen,1812,10,18231
+Gustav Peter Lejeune Dirichlet,data-systems,17946,Rheinische Friedrich-Wilhelms-Universität Bonn,1827,10,17865;17981;
+Martin  Ohm,data-systems,47064,Friedrich-Alexander-Universität Erlangen-Nürnberg,1811,10,47025
+Bernard(us) Placidus Johann Nepomuk Bolzano,data-systems,96330,University of Prague,1805,10,96327
+Friedrich Adolf Trendelenburg,data-systems,60803,Universität Berlin,1826,10,126894;35141;
+Franz Jakob Clemens,data-systems,28227,Universität Berlin,1839,10,None
+Andrei Andreyevich Markov,data-systems,12543,St. Petersburg State University,1884,10,12542
+Gaston  Darboux,data-systems,34254,École Normale Supérieure Paris,1866,10,26995
+C. Émile (Charles) Picard,data-systems,34266,École Normale Supérieure Paris,1877,10,34254
+Gaston  Darboux,data-systems,34254,École Normale Supérieure Paris,1866,10,26995

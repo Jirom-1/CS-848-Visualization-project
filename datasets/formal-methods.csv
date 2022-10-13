@@ -1,0 +1,45 @@
+Name,Specialization,ID,school,year,Generation,advisor_id
+Joanne Atlee,formal-methods,66892,['University of Maryland College Park'],['1992'],0,103306
+Nancy Day,formal-methods,72132,['University of British Columbia'],['1998'],0,72125
+Richard Trefler,formal-methods,69919,['University of Texas at Austin'],['1999'],0,69873
+Vijay Ganesh (Department of Electrical and Computer Engineering),formal-methods,121250,['Stanford University'],['2007'],0,50263
+Derek Rayside (Department of Electrical and Computer Engineering),formal-methods,252767,,,0,None
+"John Dennis Gannon, Jr.",formal-methods,103306,University of Toronto,1975,1,13815
+Jeffrey John Joyce,formal-methods,72125,University of Cambridge,1990,1,86294
+E. Allen (Ernest) Emerson,formal-methods,69873,Harvard University,1981,1,50063
+David L. Dill,formal-methods,50263,Carnegie Mellon University,1987,1,50063
+James Jay Horning,formal-methods,13815,Stanford University,1969,2,13120
+Michael J. C. Gordon,formal-methods,86294,The University of Edinburgh,1973,2,102542
+"Edmund Melson Clarke, Jr.",formal-methods,50063,Cornell University,1976,2,9041
+"Edmund Melson Clarke, Jr.",formal-methods,50063,Cornell University,1976,2,9041
+Jerome Arthur Feldman,formal-methods,13120,Carnegie Mellon University,1964,3,13112
+Rodney Martineau Burstall,formal-methods,102542,University of Birmingham,1966,3,133637;133638;
+Robert Lee Constable,formal-methods,9041,University of Wisconsin-Madison,1968,3,8012
+Robert Lee Constable,formal-methods,9041,University of Wisconsin-Madison,1968,3,8012
+Alan Jay Perlis,formal-methods,13112,Massachusetts Institute of Technology,1950,4,1488
+Norman Alfred Dudley,formal-methods,133637,University of Birmingham,1955,4,170791;170790;
+K. Brian Haley,formal-methods,133638,University of Birmingham,1962,4,None
+Stephen Cole Kleene,formal-methods,8012,Princeton University,1934,4,8011
+Stephen Cole Kleene,formal-methods,8012,Princeton University,1934,4,8011
+Philip  Franklin,formal-methods,1488,Princeton University,1921,5,805
+F.  Benson,formal-methods,170791,,ee,5,None
+Elsie Anna Grace Knowles,formal-methods,170790,Friedrich-Schiller-Universität Jena,1932,5,181026
+Alonzo  Church,formal-methods,8011,Princeton University,1927,5,805
+Alonzo  Church,formal-methods,8011,Princeton University,1927,5,805
+Oswald  Veblen,formal-methods,805,The University of Chicago,1903,6,806
+Mathilde Maria Johanna Themis Vaerting,formal-methods,181026,Rheinische Friedrich-Wilhelms-Universität Bonn,1911,6,51360
+Oswald  Veblen,formal-methods,805,The University of Chicago,1903,6,806
+Oswald  Veblen,formal-methods,805,The University of Chicago,1903,6,806
+E. H. (Eliakim Hastings) Moore,formal-methods,806,Yale University,1885,7,7865
+Adolf  Dyroff,formal-methods,51360,Bayerische Julius-Maximilians-Universität Würzburg,1892,7,None
+E. H. (Eliakim Hastings) Moore,formal-methods,806,Yale University,1885,7,7865
+E. H. (Eliakim Hastings) Moore,formal-methods,806,Yale University,1885,7,7865
+H. A. (Hubert Anson) Newton,formal-methods,7865,Yale University,1850,8,26995
+H. A. (Hubert Anson) Newton,formal-methods,7865,Yale University,1850,8,26995
+H. A. (Hubert Anson) Newton,formal-methods,7865,Yale University,1850,8,26995
+Michel  Chasles,formal-methods,26995,École Polytechnique,1814,9,17865
+Michel  Chasles,formal-methods,26995,École Polytechnique,1814,9,17865
+Michel  Chasles,formal-methods,26995,École Polytechnique,1814,9,17865
+Siméon Denis Poisson,formal-methods,17865,École Polytechnique,1800,10,108295;17864;
+Siméon Denis Poisson,formal-methods,17865,École Polytechnique,1800,10,108295;17864;
+Siméon Denis Poisson,formal-methods,17865,École Polytechnique,1800,10,108295;17864;

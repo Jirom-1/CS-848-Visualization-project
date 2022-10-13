@@ -1,0 +1,94 @@
+Name,Specialization,ID,school,year,Generation,advisor_id
+​Dan Brown,bioinformatics,45379,['Cornell University'],['2000'],0,36705
+Lila Kari,bioinformatics,20521,['Turun yliopisto'],['1991'],0,20493
+Ming Li,bioinformatics,94793,['Cornell University'],['1985'],0,10404
+Ian Munro,bioinformatics,65036,['University of Toronto'],['1971'],0,42043
+"Anita Layton (Department of Applied Mathematics, Faculty of Mathematics)",bioinformatics,65049,['University of Toronto'],['2001'],0,65023;59043;
+David Bernard Shmoys,bioinformatics,36705,"University of California, Berkeley",1984,1,25276
+Arto K. Salomaa,bioinformatics,20493,Turun yliopisto,1960,1,20538
+Juris  Hartmanis,bioinformatics,10404,California Institute of Technology,1955,1,10395
+Allan Bertram Borodin,bioinformatics,42043,Cornell University,1969,1,9041;10404;
+Christina  Christara,bioinformatics,65023,,D.,1,None
+Kenneth Ronald Jackson,bioinformatics,59043,University of Toronto,1978,1,17245
+Eugene Leighton Lawler,bioinformatics,25276,Harvard University,1963,2,13305
+Kustaa  Inkeri,bioinformatics,20538,Turun yliopisto,1946,2,19460
+Robert Palmer Dilworth,bioinformatics,10395,California Institute of Technology,1939,2,10385
+Robert Lee Constable,bioinformatics,9041,University of Wisconsin-Madison,1968,2,8012
+Juris  Hartmanis,bioinformatics,10404,California Institute of Technology,1955,2,10395
+Thomas E. Hull,bioinformatics,17245,University of Toronto,1949,2,16268
+Anthony Gervin Oettinger,bioinformatics,13305,Harvard University,1954,3,18953
+Kalle  Väisälä,bioinformatics,19460,Helsingin yliopisto,1916,3,782
+Morgan  Ward,bioinformatics,10385,California Institute of Technology,1928,3,7868
+Stephen Cole Kleene,bioinformatics,8012,Princeton University,1934,3,8011
+Robert Palmer Dilworth,bioinformatics,10395,California Institute of Technology,1939,3,10385
+Leopold  Infeld,bioinformatics,16268,Uniwersytet Jagielloński,1921,3,106278
+Howard Hathaway Aiken,bioinformatics,18953,Harvard University,1939,4,25248
+Ernst Leonard Lindelöf,bioinformatics,782,Helsingin yliopisto,1893,4,143865
+Eric Temple Bell,bioinformatics,7868,Columbia University,1912,4,7611;37346;
+Alonzo  Church,bioinformatics,8011,Princeton University,1927,4,805
+Morgan  Ward,bioinformatics,10385,California Institute of Technology,1928,4,7868
+Władysław  Natanson,bioinformatics,106278,University of Cambridge,dge,4,50701
+Emory Leon Chaffee,bioinformatics,25248,Harvard University,1911,5,141987
+Robert Hjalmar Mellin,bioinformatics,143865,Helsingin yliopisto,1882,5,19770
+Frank Nelson Cole,bioinformatics,7611,Harvard University,1886,5,7401
+Cassius Jackson Keyser,bioinformatics,37346,Columbia University,1902,5,None
+Oswald  Veblen,bioinformatics,805,The University of Chicago,1903,5,806
+Eric Temple Bell,bioinformatics,7868,Columbia University,1912,5,7611;37346;
+Joseph John Thomson,bioinformatics,50701,University of Cambridge,1883,5,101979
+George Washington Pierce,bioinformatics,141987,Harvard University,1900,6,67041
+Gösta Magnus Mittag-Leffler,bioinformatics,19770,Uppsala Universitet,1872,6,24894
+C. Felix (Christian) Klein,bioinformatics,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,6,7402;19964;
+E. H. (Eliakim Hastings) Moore,bioinformatics,806,Yale University,1885,6,7865
+Frank Nelson Cole,bioinformatics,7611,Harvard University,1886,6,7401
+Cassius Jackson Keyser,bioinformatics,37346,Columbia University,1902,6,None
+John William Strutt (Lord Rayleigh),bioinformatics,101979,University of Cambridge,1868,6,101929;102483;
+John  Trowbridge,bioinformatics,67041,Harvard University,1873,7,132487
+Göran  Dillner,bioinformatics,24894,Uppsala Universitet,1863,7,167682
+Julius  Plücker,bioinformatics,7402,Philipps-Universität Marburg,1823,7,29642
+Rudolf Otto Sigismund Lipschitz,bioinformatics,19964,Universität Berlin,1853,7,47064;17946;
+H. A. (Hubert Anson) Newton,bioinformatics,7865,Yale University,1850,7,26995
+C. Felix (Christian) Klein,bioinformatics,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,7,7402;19964;
+Edward John Routh,bioinformatics,101929,University of Cambridge,1857,7,129420;42016;
+George Gabriel Stokes,bioinformatics,102483,University of Cambridge,1841,7,42016
+Joseph  Lovering,bioinformatics,132487,Harvard University,1833,8,80886
+Carl Johan  Malmsten,bioinformatics,167682,Uppsala Universitet,1839,8,20543
+Christian Ludwig Gerling,bioinformatics,29642,Georg-August-Universität Göttingen,1812,8,18231
+Martin  Ohm,bioinformatics,47064,Friedrich-Alexander-Universität Erlangen-Nürnberg,1811,8,47025
+Gustav Peter Lejeune Dirichlet,bioinformatics,17946,Rheinische Friedrich-Wilhelms-Universität Bonn,1827,8,17865;17981;
+Michel  Chasles,bioinformatics,26995,École Polytechnique,1814,8,17865
+Julius  Plücker,bioinformatics,7402,Philipps-Universität Marburg,1823,8,29642
+Rudolf Otto Sigismund Lipschitz,bioinformatics,19964,Universität Berlin,1853,8,47064;17946;
+Isaac  Todhunter,bioinformatics,129420,University of Cambridge,1848,8,42016
+William  Hopkins,bioinformatics,42016,University of Cambridge,1830,8,102043
+William  Hopkins,bioinformatics,42016,University of Cambridge,1830,8,102043
+Benjamin  Peirce,bioinformatics,80886,Harvard University,1829,9,147797
+Jöns  Svanberg,bioinformatics,20543,Uppsala Universitet,1796,9,183360
+Carl Friedrich Gauß,bioinformatics,18231,Universität Helmstedt,1799,9,18230
+Karl Christian von Langsdorf,bioinformatics,47025,Georg-August-Universität Göttingen and Justus-Liebig-Universität Gießen and Universität Erfurt,1781,9,66476
+Siméon Denis Poisson,bioinformatics,17865,École Polytechnique,1800,9,108295;17864;
+Jean-Baptiste Joseph Fourier,bioinformatics,17981,École Normale Supérieure,ure,9,17864
+Siméon Denis Poisson,bioinformatics,17865,École Polytechnique,1800,9,108295;17864;
+Christian Ludwig Gerling,bioinformatics,29642,Georg-August-Universität Göttingen,1812,9,18231
+Martin  Ohm,bioinformatics,47064,Friedrich-Alexander-Universität Erlangen-Nürnberg,1811,9,47025
+Gustav Peter Lejeune Dirichlet,bioinformatics,17946,Rheinische Friedrich-Wilhelms-Universität Bonn,1827,9,17865;17981;
+William  Hopkins,bioinformatics,42016,University of Cambridge,1830,9,102043
+Adam  Sedgwick,bioinformatics,102043,University of Cambridge,1811,9,102036;102037;
+Adam  Sedgwick,bioinformatics,102043,University of Cambridge,1811,9,102036;102037;
+Nathaniel  Bowditch,bioinformatics,147797,,,10,None
+Frederick  Mallet,bioinformatics,183360,Uppsala Universitet,1752,10,145119
+Johann Friedrich Pfaff,bioinformatics,18230,Georg-August-Universität Göttingen,1786,10,127710;66476;
+Abraham Gotthelf Kästner,bioinformatics,66476,Universität Leipzig,1739,10,57670
+Pierre-Simon  Laplace,bioinformatics,108295,Université de Caen Normandie,1769,10,108266
+Joseph Louis Lagrange,bioinformatics,17864,,ee,10,38586;146036;
+Joseph Louis Lagrange,bioinformatics,17864,,ee,10,38586;146036;
+Pierre-Simon  Laplace,bioinformatics,108295,Université de Caen Normandie,1769,10,108266
+Joseph Louis Lagrange,bioinformatics,17864,,ee,10,38586;146036;
+Carl Friedrich Gauß,bioinformatics,18231,Universität Helmstedt,1799,10,18230
+Karl Christian von Langsdorf,bioinformatics,47025,Georg-August-Universität Göttingen and Justus-Liebig-Universität Gießen and Universität Erfurt,1781,10,66476
+Siméon Denis Poisson,bioinformatics,17865,École Polytechnique,1800,10,108295;17864;
+Jean-Baptiste Joseph Fourier,bioinformatics,17981,École Normale Supérieure,ure,10,17864
+Adam  Sedgwick,bioinformatics,102043,University of Cambridge,1811,10,102036;102037;
+Thomas  Jones,bioinformatics,102036,University of Cambridge,1782,10,103066;133301;
+John  Dawson,bioinformatics,102037,,,10,129421;129422;
+Thomas  Jones,bioinformatics,102036,University of Cambridge,1782,10,103066;133301;
+John  Dawson,bioinformatics,102037,,,10,129421;129422;
