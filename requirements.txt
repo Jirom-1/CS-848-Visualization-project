@@ -94,6 +94,7 @@ pydot==1.4.2
 pyflakes==2.5.0
 pygeohash==1.2.0
 Pygments==2.13.0
+pygraphviz==1.10.0
 PyJWT==2.5.0
 pyparsing==3.0.9
 pyperclip==1.8.2

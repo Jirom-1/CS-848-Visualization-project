@@ -88,4 +88,4 @@ def plotAcademicGeneologyTree(specialization, n):
     plot = plotTree(G, specialization, n)
     return plot
 
-plotAcademicGeneologyTree('data-systems', 10)
+# plotAcademicGeneologyTree('data-systems', 10)
