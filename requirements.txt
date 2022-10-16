@@ -33,8 +33,8 @@ matplotlib==3.6.1
 mock==4.0.3
 mtrand==0.1
 mypy==0.982
-nose==1.3.7
 numarray==1.5.1
+nose==1.3.7
 Numeric==24.2
 numexpr==2.8.3
 odfpy==1.4.1
