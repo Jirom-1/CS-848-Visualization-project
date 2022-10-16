@@ -1,4 +1,3 @@
-from turtle import title
 from bokeh.io import curdoc
 from bokeh.layouts import column,row, layout
 from bokeh.models.widgets import TextInput, Button, Paragraph, Select, Slider, Div
