@@ -1,0 +1,218 @@
+digraph "Academic Genealogy for bioinformatics" {
+	45379 [label="​Dan Brown
+['Cornell University']
+['2000']
+bioinformatics" color=blue fillcolor=lightblue2 style=filled]
+	20521 [label="Lila Kari
+['Turun yliopisto']
+['1991']
+bioinformatics" color=blue fillcolor=lightblue2 style=filled]
+	94793 [label="Ming Li
+['Cornell University']
+['1985']
+bioinformatics" color=blue fillcolor=lightblue2 style=filled]
+	65036 [label="Ian Munro
+['University of Toronto']
+['1971']
+bioinformatics" color=blue fillcolor=lightblue2 style=filled]
+	65049 [label="Anita Layton (Department of Applied Mathematics, Faculty of Mathematics)
+['University of Toronto']
+['2001']
+bioinformatics" color=blue fillcolor=lightblue2 style=filled]
+	36705 [label="David Bernard Shmoys
+University of California, Berkeley
+1984
+bioinformatics"]
+	20493 [label="Arto K. Salomaa
+Turun yliopisto
+1960
+bioinformatics"]
+	10404 [label="Juris  Hartmanis
+California Institute of Technology
+1955
+bioinformatics"]
+	42043 [label="Allan Bertram Borodin
+Cornell University
+1969
+bioinformatics"]
+	65023 [label="Christina  Christara
+nan
+D.
+bioinformatics"]
+	59043 [label="Kenneth Ronald Jackson
+University of Toronto
+1978
+bioinformatics"]
+	25276 [label="Eugene Leighton Lawler
+Harvard University
+1963
+bioinformatics"]
+	20538 [label="Kustaa  Inkeri
+Turun yliopisto
+1946
+bioinformatics"]
+	10395 [label="Robert Palmer Dilworth
+California Institute of Technology
+1939
+bioinformatics"]
+	9041 [label="Robert Lee Constable
+University of Wisconsin-Madison
+1968
+bioinformatics"]
+	17245 [label="Thomas E. Hull
+University of Toronto
+1949
+bioinformatics"]
+	13305 [label="Anthony Gervin Oettinger
+Harvard University
+1954
+bioinformatics"]
+	19460 [label="Kalle  Väisälä
+Helsingin yliopisto
+1916
+bioinformatics"]
+	10385 [label="Morgan  Ward
+California Institute of Technology
+1928
+bioinformatics"]
+	8012 [label="Stephen Cole Kleene
+Princeton University
+1934
+bioinformatics"]
+	16268 [label="Leopold  Infeld
+Uniwersytet Jagielloński
+1921
+bioinformatics"]
+	18953 [label="Howard Hathaway Aiken
+Harvard University
+1939
+bioinformatics"]
+	782 [label="Ernst Leonard Lindelöf
+Helsingin yliopisto
+1893
+bioinformatics"]
+	7868 [label="Eric Temple Bell
+Columbia University
+1912
+bioinformatics"]
+	8011 [label="Alonzo  Church
+Princeton University
+1927
+bioinformatics"]
+	106278 [label="Władysław  Natanson
+University of Cambridge
+dge
+bioinformatics"]
+	25248 [label="Emory Leon Chaffee
+Harvard University
+1911
+bioinformatics"]
+	143865 [label="Robert Hjalmar Mellin
+Helsingin yliopisto
+1882
+bioinformatics"]
+	7611 [label="Frank Nelson Cole
+Harvard University
+1886
+bioinformatics"]
+	37346 [label="Cassius Jackson Keyser
+Columbia University
+1902
+bioinformatics"]
+	805 [label="Oswald  Veblen
+The University of Chicago
+1903
+bioinformatics"]
+	50701 [label="Joseph John Thomson
+University of Cambridge
+1883
+bioinformatics"]
+	141987 [label="George Washington Pierce
+Harvard University
+1900
+bioinformatics"]
+	19770 [label="Gösta Magnus Mittag-Leffler
+Uppsala Universitet
+1872
+bioinformatics"]
+	7401 [label="C. Felix (Christian) Klein
+Rheinische Friedrich-Wilhelms-Universität Bonn
+1868
+bioinformatics"]
+	806 [label="E. H. (Eliakim Hastings) Moore
+Yale University
+1885
+bioinformatics"]
+	101979 [label="John William Strutt (Lord Rayleigh)
+University of Cambridge
+1868
+bioinformatics"]
+	67041 [label="John  Trowbridge
+Harvard University
+1873
+bioinformatics"]
+	24894 [label="Göran  Dillner
+Uppsala Universitet
+1863
+bioinformatics"]
+	7402 [label="Julius  Plücker
+Philipps-Universität Marburg
+1823
+bioinformatics"]
+	19964 [label="Rudolf Otto Sigismund Lipschitz
+Universität Berlin
+1853
+bioinformatics"]
+	7865 [label="H. A. (Hubert Anson) Newton
+Yale University
+1850
+bioinformatics"]
+	101929 [label="Edward John Routh
+University of Cambridge
+1857
+bioinformatics"]
+	102483 [label="George Gabriel Stokes
+University of Cambridge
+1841
+bioinformatics"]
+	36705 -> 45379
+	20493 -> 20521
+	10404 -> 94793
+	42043 -> 65036
+	65023 -> 65049
+	59043 -> 65049
+	25276 -> 36705
+	20538 -> 20493
+	10395 -> 10404
+	9041 -> 42043
+	10404 -> 42043
+	17245 -> 59043
+	13305 -> 25276
+	19460 -> 20538
+	10385 -> 10395
+	8012 -> 9041
+	16268 -> 17245
+	18953 -> 13305
+	782 -> 19460
+	7868 -> 10385
+	8011 -> 8012
+	106278 -> 16268
+	25248 -> 18953
+	143865 -> 782
+	7611 -> 7868
+	37346 -> 7868
+	805 -> 8011
+	50701 -> 106278
+	141987 -> 25248
+	19770 -> 143865
+	7401 -> 7611
+	806 -> 805
+	101979 -> 50701
+	67041 -> 141987
+	24894 -> 19770
+	7402 -> 7401
+	19964 -> 7401
+	7865 -> 806
+	101929 -> 101979
+	102483 -> 101979
+}

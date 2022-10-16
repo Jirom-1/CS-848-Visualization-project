@@ -1,0 +1,44 @@
+digraph "Academic Genealogy for Quantum computing" {
+	251553 [label="Shalev Ben-David
+['Massachusetts Institute of Technology']
+['2017']
+Quantum computing" color=blue fillcolor=lightblue2 style=filled]
+	81270 [label="Richard Cleve
+['University of Toronto']
+['1989']
+Quantum computing" color=blue fillcolor=lightblue2 style=filled]
+	75330 [label="John Watrous
+['University of Wisconsin-Madison']
+['1998']
+Quantum computing" color=blue fillcolor=lightblue2 style=filled]
+	109495 [label="Scott Joel Aaronson
+University of California, Berkeley
+2004
+Quantum computing"]
+	81229 [label="Charles Weill Rackoff
+Massachusetts Institute of Technology
+1974
+Quantum computing"]
+	11563 [label="C. Eric (Carl) Bach
+University of California, Berkeley
+1984
+Quantum computing"]
+	38686 [label="Umesh Virkumar Vazirani
+University of California, Berkeley
+1986
+Quantum computing"]
+	25184 [label="Albert Ronald da Silva Meyer
+Harvard University
+1972
+Quantum computing"]
+	13373 [label="Manuel  Blum
+Massachusetts Institute of Technology
+1964
+Quantum computing"]
+	109495 -> 251553
+	81229 -> 81270
+	11563 -> 75330
+	38686 -> 109495
+	25184 -> 81229
+	13373 -> 11563
+}

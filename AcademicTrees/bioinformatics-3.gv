@@ -1,0 +1,103 @@
+digraph "Academic Genealogy for bioinformatics" {
+	45379 [label="​Dan Brown
+['Cornell University']
+['2000']
+bioinformatics" color=blue fillcolor=lightblue2 style=filled]
+	20521 [label="Lila Kari
+['Turun yliopisto']
+['1991']
+bioinformatics" color=blue fillcolor=lightblue2 style=filled]
+	94793 [label="Ming Li
+['Cornell University']
+['1985']
+bioinformatics" color=blue fillcolor=lightblue2 style=filled]
+	65036 [label="Ian Munro
+['University of Toronto']
+['1971']
+bioinformatics" color=blue fillcolor=lightblue2 style=filled]
+	65049 [label="Anita Layton (Department of Applied Mathematics, Faculty of Mathematics)
+['University of Toronto']
+['2001']
+bioinformatics" color=blue fillcolor=lightblue2 style=filled]
+	36705 [label="David Bernard Shmoys
+University of California, Berkeley
+1984
+bioinformatics"]
+	20493 [label="Arto K. Salomaa
+Turun yliopisto
+1960
+bioinformatics"]
+	10404 [label="Juris  Hartmanis
+California Institute of Technology
+1955
+bioinformatics"]
+	42043 [label="Allan Bertram Borodin
+Cornell University
+1969
+bioinformatics"]
+	65023 [label="Christina  Christara
+nan
+D.
+bioinformatics"]
+	59043 [label="Kenneth Ronald Jackson
+University of Toronto
+1978
+bioinformatics"]
+	25276 [label="Eugene Leighton Lawler
+Harvard University
+1963
+bioinformatics"]
+	20538 [label="Kustaa  Inkeri
+Turun yliopisto
+1946
+bioinformatics"]
+	10395 [label="Robert Palmer Dilworth
+California Institute of Technology
+1939
+bioinformatics"]
+	9041 [label="Robert Lee Constable
+University of Wisconsin-Madison
+1968
+bioinformatics"]
+	17245 [label="Thomas E. Hull
+University of Toronto
+1949
+bioinformatics"]
+	13305 [label="Anthony Gervin Oettinger
+Harvard University
+1954
+bioinformatics"]
+	19460 [label="Kalle  Väisälä
+Helsingin yliopisto
+1916
+bioinformatics"]
+	10385 [label="Morgan  Ward
+California Institute of Technology
+1928
+bioinformatics"]
+	8012 [label="Stephen Cole Kleene
+Princeton University
+1934
+bioinformatics"]
+	16268 [label="Leopold  Infeld
+Uniwersytet Jagielloński
+1921
+bioinformatics"]
+	36705 -> 45379
+	20493 -> 20521
+	10404 -> 94793
+	42043 -> 65036
+	65023 -> 65049
+	59043 -> 65049
+	25276 -> 36705
+	20538 -> 20493
+	10395 -> 10404
+	9041 -> 42043
+	10404 -> 42043
+	17245 -> 59043
+	13305 -> 25276
+	19460 -> 20538
+	10385 -> 10395
+	8012 -> 9041
+	16268 -> 17245
+}

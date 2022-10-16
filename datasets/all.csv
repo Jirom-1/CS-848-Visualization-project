@@ -1,0 +1,657 @@
+Name,Specialization,ID,school,year,Generation,advisor_id
+Shalev Ben-David,algorithms-and-complexity,251553,['Massachusetts Institute of Technology'],['2017'],0,109495
+Therese Biedl,algorithms-and-complexity,96437,"['Rutgers University, New Brunswick']",['1997'],0,96436
+Eric Blais,algorithms-and-complexity,162538,['Carnegie Mellon University'],['2012'],0,76794
+Dan Brown,algorithms-and-complexity,45379,['Cornell University'],['2000'],0,36705
+Trevor Brown,algorithms-and-complexity,252543,['University of Toronto'],['2017'],0,67145
+Jonathan Buss,algorithms-and-complexity,65073,['Massachusetts Institute of Technology'],['1986'],0,64971
+Richard Cleve,algorithms-and-complexity,81270,['University of Toronto'],['1989'],0,81229
+Gautam Kamath,algorithms-and-complexity,264772,['Massachusetts Institute of Technology'],['2018'],0,139732
+Lila Kari,algorithms-and-complexity,20521,['Turun yliopisto'],['1991'],0,20493
+Lap Chi Lau,algorithms-and-complexity,141559,['University of Toronto'],['2006'],0,40420
+Ming Li,algorithms-and-complexity,94793,['Cornell University'],['1985'],0,10404
+Anna Lubiw,algorithms-and-complexity,65035,['University of Toronto'],['1985'],0,16108;14011
+Ian Munro,algorithms-and-complexity,65036,['University of Toronto'],['1971'],0,42043
+Naomi Nishimura,algorithms-and-complexity,66900,['University of Toronto'],['nto'],0,67145
+Prabhakar Ragde,algorithms-and-complexity,66895,"['University of California, Berkeley']",['1986'],0,82100;25275
+Jeffrey Shallit,algorithms-and-complexity,31748,"['University of California, Berkeley']",['1983'],0,13373;6595
+Doug Stinson,algorithms-and-complexity,33044,['University of Waterloo'],['1981'],0,33040
+John Watrous,algorithms-and-complexity,75330,['University of Wisconsin-Madison'],['1998'],0,11563
+Scott Joel Aaronson,algorithms-and-complexity,109495,"University of California, Berkeley",2004,1,38686
+Endre  Boros,algorithms-and-complexity,96436,Eötvös Loránd University,1985,1,34817
+Ryan William O'Donnell,algorithms-and-complexity,76794,Massachusetts Institute of Technology,2003,1,72850
+David Bernard Shmoys,algorithms-and-complexity,36705,"University of California, Berkeley",1984,1,25276
+Faith (Fich) Ellen,algorithms-and-complexity,67145,"University of California, Berkeley",1982,1,25275
+Michael Fredric Sipser,algorithms-and-complexity,64971,"University of California, Berkeley",1980,1,13373
+Charles Weill Rackoff,algorithms-and-complexity,81229,Massachusetts Institute of Technology,1974,1,25184
+Constantinos  Daskalakis,algorithms-and-complexity,139732,"University of California, Berkeley",2008,1,46289
+Arto K. Salomaa,algorithms-and-complexity,20493,Turun yliopisto,1960,1,20538
+Michael Sean O'Brien Molloy,algorithms-and-complexity,40420,Carnegie Mellon University,1994,1,40794
+Juris  Hartmanis,algorithms-and-complexity,10404,California Institute of Technology,1955,1,10395
+Rudolf Anton Mathon,algorithms-and-complexity,16108,University of Toronto,1972,1,44303
+Stephen Arthur Cook,algorithms-and-complexity,14011,Harvard University,1966,1,29869
+Allan Bertram Borodin,algorithms-and-complexity,42043,Cornell University,1969,1,9041;10404;
+Avi  Wigderson,algorithms-and-complexity,82100,Princeton University,1983,1,69524
+Richard Manning Karp,algorithms-and-complexity,25275,Harvard University,1959,1,13305
+Manuel  Blum,algorithms-and-complexity,13373,Massachusetts Institute of Technology,1964,1,6869
+David M. Goldschmidt,algorithms-and-complexity,6595,The University of Chicago,1969,1,6488
+Ronald C. Mullin,algorithms-and-complexity,33040,University of Waterloo,1964,1,15096
+C. Eric (Carl) Bach,algorithms-and-complexity,11563,"University of California, Berkeley",1984,1,13373
+Umesh Virkumar Vazirani,algorithms-and-complexity,38686,"University of California, Berkeley",1986,2,13373
+András  Prékopa,algorithms-and-complexity,34817,Hungarian Academy of Sciences,1956,2,51155
+Madhu  Sudan,algorithms-and-complexity,72850,"University of California, Berkeley",1992,2,38686
+Eugene Leighton Lawler,algorithms-and-complexity,25276,Harvard University,1963,2,13305
+Albert Ronald da Silva Meyer,algorithms-and-complexity,25184,Harvard University,1972,2,13297
+Christos H. Papadimitriou,algorithms-and-complexity,46289,Princeton University,1976,2,82018
+Kustaa  Inkeri,algorithms-and-complexity,20538,Turun yliopisto,1946,2,19460
+Alan M. Frieze,algorithms-and-complexity,40794,University of London,1975,2,76964
+Robert Palmer Dilworth,algorithms-and-complexity,10395,California Institute of Technology,1939,2,10385
+Robert Laurence Johnston,algorithms-and-complexity,44303,Case Western Reserve University,1965,2,2675
+Hao  Wang,algorithms-and-complexity,29869,Harvard University,1948,2,73831
+Robert Lee Constable,algorithms-and-complexity,9041,University of Wisconsin-Madison,1968,2,8012
+Richard Jay Lipton,algorithms-and-complexity,69524,Carnegie Mellon University,1973,2,86340
+Anthony Gervin Oettinger,algorithms-and-complexity,13305,Harvard University,1954,2,18953
+Marvin Lee Minsky,algorithms-and-complexity,6869,Princeton University,1954,2,8581
+John Griggs Thompson,algorithms-and-complexity,6488,The University of Chicago,1959,2,834
+William Thomas Tutte,algorithms-and-complexity,15096,University of Cambridge,1948,2,1406
+Alfréd  Rényi,algorithms-and-complexity,51155,University of Szeged,1945,3,44401;11321;
+Patrick Carl Fischer,algorithms-and-complexity,13297,Massachusetts Institute of Technology,1962,3,8021
+Kenneth  Steiglitz,algorithms-and-complexity,82018,New York University,1963,3,98916
+Kalle  Väisälä,algorithms-and-complexity,19460,Helsingin yliopisto,1916,3,782
+Keith  Wolfenden,algorithms-and-complexity,76964,University of Oxford,1949,3,None
+Morgan  Ward,algorithms-and-complexity,10385,California Institute of Technology,1928,3,7868
+Richard Steven Varga,algorithms-and-complexity,2675,Harvard University,1954,3,4929
+Willard Van Orman Quine,algorithms-and-complexity,73831,Harvard University,1932,3,78732
+Stephen Cole Kleene,algorithms-and-complexity,8012,Princeton University,1934,3,8011
+David Lorge Parnas,algorithms-and-complexity,86340,Carnegie Mellon University,1965,3,90571;13112;
+Howard Hathaway Aiken,algorithms-and-complexity,18953,Harvard University,1939,3,25248
+Albert William Tucker,algorithms-and-complexity,8581,Princeton University,1932,3,7461
+Saunders  Mac Lane,algorithms-and-complexity,834,Georg-August-Universität Göttingen,1934,3,7863;7373;
+Shaun  Wylie,algorithms-and-complexity,1406,Princeton University,1937,3,7461
+Yuri Vladimirovich Linnik,algorithms-and-complexity,44401,St. Petersburg State University,1940,4,83078
+Frigyes (Frédéric) Riesz,algorithms-and-complexity,11321,Eötvös Loránd University,1902,4,107016
+"Hartley  Rogers, Jr.",algorithms-and-complexity,8021,Princeton University,1952,4,8011
+Sheldon Shou-Lien Chang,algorithms-and-complexity,98916,Purdue University,1947,4,111345
+Ernst Leonard Lindelöf,algorithms-and-complexity,782,Helsingin yliopisto,1893,4,143865
+Eric Temple Bell,algorithms-and-complexity,7868,Columbia University,1912,4,37346;7611;
+Joseph Leonard Walsh,algorithms-and-complexity,4929,Harvard University,1920,4,7431;5879;
+Alfred North Whitehead,algorithms-and-complexity,78732,University of Cambridge,1884,4,101929
+Alonzo  Church,algorithms-and-complexity,8011,Princeton University,1927,4,805
+Everard Mott Williams,algorithms-and-complexity,90571,Yale University,1939,4,252402
+Alan Jay Perlis,algorithms-and-complexity,13112,Massachusetts Institute of Technology,1950,4,1488
+Emory Leon Chaffee,algorithms-and-complexity,25248,Harvard University,1911,4,141987
+Solomon  Lefschetz,algorithms-and-complexity,7461,Clark University,1911,4,7451
+I.  Paul (Isaak) Bernays,algorithms-and-complexity,7863,Georg-August-Universität Göttingen,1912,4,7862
+Hermann Claus Hugo Weyl,algorithms-and-complexity,7373,Georg-August-Universität Göttingen,1908,4,7298
+Vladimir Abramovich Tartakovski,algorithms-and-complexity,83078,St. Petersburg State University,1928,5,74408
+Gyula  Vályi,algorithms-and-complexity,107016,,1881,5,90711
+Robert Peer Siskind,algorithms-and-complexity,111345,Harvard University,1925,5,None
+Robert Hjalmar Mellin,algorithms-and-complexity,143865,Helsingin yliopisto,1882,5,19770
+Cassius Jackson Keyser,algorithms-and-complexity,37346,Columbia University,1902,5,None
+Frank Nelson Cole,algorithms-and-complexity,7611,Harvard University,1886,5,7401
+Maxime  Bôcher,algorithms-and-complexity,7431,Georg-August-Universität Göttingen,1891,5,7401
+George David Birkhoff,algorithms-and-complexity,5879,The University of Chicago,1907,5,806
+Edward John Routh,algorithms-and-complexity,101929,University of Cambridge,1857,5,42016;129420;
+Oswald  Veblen,algorithms-and-complexity,805,The University of Chicago,1903,5,806
+Francis Thomas McNamara,algorithms-and-complexity,252402,Yale University,1924,5,None
+Philip  Franklin,algorithms-and-complexity,1488,Princeton University,1921,5,805
+George Washington Pierce,algorithms-and-complexity,141987,Harvard University,1900,5,67041
+William Edward Story,algorithms-and-complexity,7451,Universität Leipzig,1875,5,32858;18589;
+Edmund  Landau,algorithms-and-complexity,7862,Universität Berlin,1899,5,4642;11370;
+David  Hilbert,algorithms-and-complexity,7298,Universität Königsberg,1885,5,7404
+Boris Nikolaevich Delone,algorithms-and-complexity,74408,Kiev State University,ity,6,12544;73323;
+Moritz  Réthy,algorithms-and-complexity,90711,Ruprecht-Karls-Universität Heidelberg,1874,6,18336
+Gösta Magnus Mittag-Leffler,algorithms-and-complexity,19770,Uppsala Universitet,1872,6,24894
+C. Felix (Christian) Klein,algorithms-and-complexity,7401,Rheinische Friedrich-Wilhelms-Universität Bonn,1868,6,7402;19964;
+E. H. (Eliakim Hastings) Moore,algorithms-and-complexity,806,Yale University,1885,6,7865
+William  Hopkins,algorithms-and-complexity,42016,University of Cambridge,1830,6,102043
+Isaac  Todhunter,algorithms-and-complexity,129420,University of Cambridge,1848,6,42016
+John  Trowbridge,algorithms-and-complexity,67041,Harvard University,1873,6,132487
+Carl Gottfried Neumann,algorithms-and-complexity,32858,Universität Königsberg,1856,6,46967;57706;
+Wilhelm  Scheibner,algorithms-and-complexity,18589,Martin-Luther-Universität Halle-Wittenberg,1848,6,15635
+Ferdinand Georg Frobenius,algorithms-and-complexity,4642,Humboldt-Universität zu Berlin,1870,6,18331;7486;
+Lazarus Immanuel Fuchs,algorithms-and-complexity,11370,Universität Berlin,1858,6,18331;7486;
+C. L. Ferdinand (Carl Louis) Lindemann,algorithms-and-complexity,7404,Friedrich-Alexander-Universität Erlangen-Nürnberg,1873,6,7401
+Georgy Fedoseevich Voronoy,algorithms-and-complexity,12544,St. Petersburg State University,1896,7,12543
+Dmitry Aleksandrovich Grave,algorithms-and-complexity,73323,St. Petersburg State University,1896,7,55611
+Leo  Königsberger,algorithms-and-complexity,18336,Universität Berlin,1860,7,18331;7486;
+Göran  Dillner,algorithms-and-complexity,24894,Uppsala Universitet,1863,7,167682
+Julius  Plücker,algorithms-and-complexity,7402,Philipps-Universität Marburg,1823,7,29642
+Rudolf Otto Sigismund Lipschitz,algorithms-and-complexity,19964,Universität Berlin,1853,7,17946;47064;
+H. A. (Hubert Anson) Newton,algorithms-and-complexity,7865,Yale University,1850,7,26995
+Adam  Sedgwick,algorithms-and-complexity,102043,University of Cambridge,1811,7,102037;102036;
+Joseph  Lovering,algorithms-and-complexity,132487,Harvard University,1833,7,80886
+Otto  Hesse,algorithms-and-complexity,46967,Universität Königsberg,1840,7,15635
+Friedrich Julius Richelot,algorithms-and-complexity,57706,Universität Königsberg,1831,7,15635
+Carl Gustav Jacob Jacobi,algorithms-and-complexity,15635,Humboldt-Universität zu Berlin,1825,7,41423
+Ernst Eduard Kummer,algorithms-and-complexity,18331,Martin-Luther-Universität Halle-Wittenberg,1831,7,25484
+Karl Theodor Wilhelm Weierstraß,algorithms-and-complexity,7486,Westfälische Wilhelms-Universität Münster,1841,7,29458
+Andrei Andreyevich Markov,algorithms-and-complexity,12543,St. Petersburg State University,1884,8,12542
+Alexander Nikolaevich Korkin,algorithms-and-complexity,55611,St. Petersburg State University,1860,8,519;12542;
+Carl Johan  Malmsten,algorithms-and-complexity,167682,Uppsala Universitet,1839,8,20543
+Christian Ludwig Gerling,algorithms-and-complexity,29642,Georg-August-Universität Göttingen,1812,8,18231
+Gustav Peter Lejeune Dirichlet,algorithms-and-complexity,17946,Rheinische Friedrich-Wilhelms-Universität Bonn,1827,8,17865;17981;
+Martin  Ohm,algorithms-and-complexity,47064,Friedrich-Alexander-Universität Erlangen-Nürnberg,1811,8,47025
+Michel  Chasles,algorithms-and-complexity,26995,École Polytechnique,1814,8,17865
+John  Dawson,algorithms-and-complexity,102037,,,8,129421;129422;
+Thomas  Jones,algorithms-and-complexity,102036,University of Cambridge,1782,8,103066;133301;
+Benjamin  Peirce,algorithms-and-complexity,80886,Harvard University,1829,8,147797
+Enno Heeren Dirksen,algorithms-and-complexity,41423,Georg-August-Universität Göttingen,1820,8,57667;57659;
+Heinrich Ferdinand Scherk,algorithms-and-complexity,25484,Universität Berlin,1823,8,18603;65162;
+Christoph  Gudermann,algorithms-and-complexity,29458,Georg-August-Universität Göttingen,1823,8,57667
+Pafnuty Lvovich Chebyshev,algorithms-and-complexity,12542,St. Petersburg State University,1849,9,12541
+Osip Ivanovich Somov,algorithms-and-complexity,519,St. Petersburg State University,ity,9,12541
+Jöns  Svanberg,algorithms-and-complexity,20543,Uppsala Universitet,1796,9,183360
+Carl Friedrich Gauß,algorithms-and-complexity,18231,Universität Helmstedt,1799,9,18230
+Siméon Denis Poisson,algorithms-and-complexity,17865,École Polytechnique,1800,9,17864;108295;
+Jean-Baptiste Joseph Fourier,algorithms-and-complexity,17981,École Normale Supérieure,ure,9,17864
+Karl Christian von Langsdorf,algorithms-and-complexity,47025,Georg-August-Universität Göttingen and Justus-Liebig-Universität Gießen and Universität Erfurt,1781,9,66476
+Edward  Waring,algorithms-and-complexity,129421,University of Cambridge,1760,9,None
+Henry  Bracken,algorithms-and-complexity,129422,Universiteit Leiden,den,9,101856
+John  Cranke,algorithms-and-complexity,103066,University of Cambridge,1774,9,None
+Thomas  Postlethwaite,algorithms-and-complexity,133301,University of Cambridge,1756,9,133367
+Nathaniel  Bowditch,algorithms-and-complexity,147797,,,9,None
+Bernhard Friedrich Thibaut,algorithms-and-complexity,57667,Georg-August-Universität Göttingen,1796,9,65161;66476;
+Johann Tobias Mayer,algorithms-and-complexity,57659,Georg-August-Universität Göttingen,1773,9,65161;66476;
+Friedrich Wilhelm Bessel,algorithms-and-complexity,18603,Georg-August-Universität Göttingen,1810,9,18231
+Heinrich Wilhelm Brandes,algorithms-and-complexity,65162,Georg-August-Universität Göttingen,1800,9,65161;66476;
+Nikolai Dmitrievich Brashman,algorithms-and-complexity,12541,Kazan State University and Lomonosov Moscow State University,1834,10,259973;12540;146776;
+Frederick  Mallet,algorithms-and-complexity,183360,Uppsala Universitet,1752,10,145119
+Johann Friedrich Pfaff,algorithms-and-complexity,18230,Georg-August-Universität Göttingen,1786,10,127710;66476;
+Joseph Louis Lagrange,algorithms-and-complexity,17864,,ee,10,146036;38586;
+Pierre-Simon  Laplace,algorithms-and-complexity,108295,Université de Caen Normandie,1769,10,108266
+Abraham Gotthelf Kästner,algorithms-and-complexity,66476,Universität Leipzig,1739,10,57670
+Herman  Boerhaave,algorithms-and-complexity,101856,Universiteit Leiden,1690,10,101858;115155;
+Stephen  Whisson,algorithms-and-complexity,133367,University of Cambridge,1742,10,133368
+Georg Christoph Lichtenberg,algorithms-and-complexity,65161,Georg-August-Universität Göttingen,1765,10,66476
+Yuri Boykov,artificial-intelligence-and-machine-learning,39437,['Cornell University'],['1996'],0,4759
+Wenhu Chen,artificial-intelligence-and-machine-learning,279263,"['University of California, Santa Barbara']",['2021'],0,279264;217154;
+Robin Cohen,artificial-intelligence-and-machine-learning,58650,['University of Toronto'],['1983'],0,8755
+Jesse Hoey,artificial-intelligence-and-machine-learning,167185,['University of British Columbia'],['2004'],0,72124
+Kate Larson,artificial-intelligence-and-machine-learning,119359,['Carnegie Mellon University'],['2004'],0,88145
+Jimmy Lin,artificial-intelligence-and-machine-learning,0,['Massachusetts Institute of Technology'],['2004'],0,176620
+Richard Mann,artificial-intelligence-and-machine-learning,131052,['University of Toronto'],['1997'],0,11836
+Pascal Poupart,artificial-intelligence-and-machine-learning,97099,['University of Toronto'],['2005'],0,72088
+Olga Veksler,artificial-intelligence-and-machine-learning,73583,['Cornell University'],['1999'],0,71514
+Hongyang Zhang,artificial-intelligence-and-machine-learning,254910,['Carnegie Mellon University'],['2019'],0,148432;132986;
+David Clay Heath,artificial-intelligence-and-machine-learning,4759,University of Illinois at Urbana-Champaign,1969,1,4758
+Xifeng  Yan,artificial-intelligence-and-machine-learning,279264,University of Illinois at Urbana-Champaign,2006,1,72247
+William Yang  Wang,artificial-intelligence-and-machine-learning,217154,Carnegie Mellon University,2016,1,70227
+(Charles) Raymond  Perrault,artificial-intelligence-and-machine-learning,8755,University of Michigan,1975,1,8658;44546;
+James J. Little,artificial-intelligence-and-machine-learning,72124,University of British Columbia,1985,1,72085
+Tuomas Wilhelm Sandholm,artificial-intelligence-and-machine-learning,88145,University of Massachusetts Amherst,1996,1,88112
+Boris  Katz,artificial-intelligence-and-machine-learning,176620,Lomonosov Moscow State University,1975,1,76951
+Allan D. Jepson,artificial-intelligence-and-machine-learning,11836,California Institute of Technology,1981,1,12037
+Craig Edgar Boutilier,artificial-intelligence-and-machine-learning,72088,University of Toronto,1992,1,5481
+Ramin  Zabih,artificial-intelligence-and-machine-learning,71514,Stanford University,1994,1,71100
+Maria-Florina Nina Balcan,artificial-intelligence-and-machine-learning,148432,Carnegie Mellon University,2008,1,33035
+David P. Woodruff,artificial-intelligence-and-machine-learning,132986,Massachusetts Institute of Technology,2007,1,71081
+Frank Bardsley Knight,artificial-intelligence-and-machine-learning,4758,Princeton University,1959,2,9629;33019;
+Jiawei  Han,artificial-intelligence-and-machine-learning,72247,University of Wisconsin-Madison,1985,2,82279
+William Weston Cohen,artificial-intelligence-and-machine-learning,70227,"Rutgers University, New Brunswick",1990,2,70186
+Joyce Barbara Friedman,artificial-intelligence-and-machine-learning,8658,Harvard University,1965,2,29869
+William Chesley Rounds,artificial-intelligence-and-machine-learning,44546,Stanford University,1968,2,8024
+Robert James Woodham,artificial-intelligence-and-machine-learning,72085,Massachusetts Institute of Technology,1977,2,61066
+Victor Richard Lesser,artificial-intelligence-and-machine-learning,88112,Stanford University,1973,2,88102
+Evgenii Mikhailovich Landis,artificial-intelligence-and-machine-learning,76951,,1953,2,76948;55146;
+Herbert Bishop Keller,artificial-intelligence-and-machine-learning,12037,New York University,1954,2,12042;13411;
+Raymond  Reiter,artificial-intelligence-and-machine-learning,5481,University of Michigan,1967,2,25275;13812;
+Oussama  Khatib,artificial-intelligence-and-machine-learning,71100,Institut supérieur de l'aéronautique et de l'espace,1980,2,61379
+Avrim Louis Blum,artificial-intelligence-and-machine-learning,33035,Massachusetts Institute of Technology,1991,2,50081
+Piotr  Indyk,artificial-intelligence-and-machine-learning,71081,Stanford University,2001,2,41471
+Hale Freeman Trotter,artificial-intelligence-and-machine-learning,9629,Princeton University,1956,3,33019
+William  Feller,artificial-intelligence-and-machine-learning,33019,Georg-August-Universität Göttingen,1926,3,7378
+Larry  Travis,artificial-intelligence-and-machine-learning,82279,"University of California, Los Angeles",1966,3,15886
+Alexander Tiberiu Borgida,artificial-intelligence-and-machine-learning,70186,University of Toronto,1977,3,8755
+Dana Stewart Scott,artificial-intelligence-and-machine-learning,8024,Princeton University,1958,3,8011
+Berthold Klaus Paul Horn,artificial-intelligence-and-machine-learning,61066,Massachusetts Institute of Technology,1970,3,6869
+William Frederick Miller,artificial-intelligence-and-machine-learning,88102,Purdue University,1956,3,128356
+Aleksandr Semenovich Kronrod,artificial-intelligence-and-machine-learning,76948,,1949,3,10479
+Ivan Georgievich Petrovsky,artificial-intelligence-and-machine-learning,55146,Lomonosov Moscow State University,ity,3,24109
+Wilhelm  Magnus,artificial-intelligence-and-machine-learning,12042,Johann Wolfgang Goethe-Universität Frankfurt am Main,1931,3,7339
+Joseph Bishop Keller,artificial-intelligence-and-machine-learning,13411,New York University,1948,3,7378
+Harvey  Garner,artificial-intelligence-and-machine-learning,13812,University of Michigan,1958,3,84481
+Jean-François  Maitre,artificial-intelligence-and-machine-learning,61379,Université Joseph Fourier Grenoble I,1974,3,58747
+Ronald Linn Rivest,artificial-intelligence-and-machine-learning,50081,Stanford University,1974,3,69223
+Rajeev  Motwani,artificial-intelligence-and-machine-learning,41471,"University of California, Berkeley",1988,3,25275
+Richard  Courant,artificial-intelligence-and-machine-learning,7378,Georg-August-Universität Göttingen,1910,4,7298
+Abraham  Robinson,artificial-intelligence-and-machine-learning,15886,University of London,1949,4,24557
+(Charles) Raymond  Perrault,artificial-intelligence-and-machine-learning,8755,University of Michigan,1975,4,44546;8658;
+Robert Leroy Platzman,artificial-intelligence-and-machine-learning,128356,The University of Chicago,1942,4,126428
+Nikolai Nikolayevich Luzin,artificial-intelligence-and-machine-learning,10479,Lomonosov Moscow State University,1915,4,24109
+Dimitri Fedorowitsch Egorov,artificial-intelligence-and-machine-learning,24109,Lomonosov Moscow State University,1901,4,24101
+Max Wilhelm Dehn,artificial-intelligence-and-machine-learning,7339,Georg-August-Universität Göttingen,1899,4,7298
+Norman Ross Scott,artificial-intelligence-and-machine-learning,84481,University of Illinois at Urbana-Champaign,1950,4,140183
+Noël  Gastinel,artificial-intelligence-and-machine-learning,58747,Université Joseph Fourier Grenoble I,1960,4,78519
+Robert W Floyd,artificial-intelligence-and-machine-learning,69223,The University of Chicago,1953,4,None
+Paul  Dienes,artificial-intelligence-and-machine-learning,24557,Eötvös Loránd University and Université Paris IV-Sorbonne,1907,5,39071
+James  Franck,artificial-intelligence-and-machine-learning,126428,Humboldt-Universität zu Berlin,1906,5,62397;124661;
+Nicolai Vasilievich Bugaev,artificial-intelligence-and-machine-learning,24101,Lomonosov Moscow State University,1866,5,18331;55185;7486;
+Lloyd Thomas Devore,artificial-intelligence-and-machine-learning,140183,The Pennsylvania State University,1933,5,147676;147677;
+Jean  Kuntzmann,artificial-intelligence-and-machine-learning,78519,Université de Paris,1940,5,73816
+Émile  Borel,artificial-intelligence-and-machine-learning,39071,École Normale Supérieure Paris,1893,6,34254
+Paul Karl Ludwig Drude,artificial-intelligence-and-machine-learning,62397,Georg-August-Universität Göttingen,1887,6,45011
+Emil Gabriel Warburg,artificial-intelligence-and-machine-learning,124661,Universität Berlin,1867,6,123973;123978;
+Joseph  Liouville,artificial-intelligence-and-machine-learning,55185,"Faculté des Sciences, Paris",1836,6,104652;17865;
+William Ross Ham,artificial-intelligence-and-machine-learning,147676,The University of Chicago,1909,6,72167
+David Christie Duncan,artificial-intelligence-and-machine-learning,147677,University of Michigan,1924,6,148190
+Georges  Valiron,artificial-intelligence-and-machine-learning,73816,Université de Paris,1914,6,39071
+Gaston  Darboux,artificial-intelligence-and-machine-learning,34254,École Normale Supérieure Paris,1866,7,26995
+William Edward Story,artificial-intelligence-and-machine-learning,7451,Universität Leipzig,1875,7,18589;32858;
+Woldemar  Voigt,artificial-intelligence-and-machine-learning,45011,Universität Königsberg,1874,7,18600
+August Adolph Eduard Eberhard Kundt,artificial-intelligence-and-machine-learning,123973,Universität Berlin,1864,7,123978
+Heinrich Gustav Magnus,artificial-intelligence-and-machine-learning,123978,Universität Berlin,1827,7,123999
+Louis Jacques Thenard,artificial-intelligence-and-machine-learning,104652,École Polytechnique,que,7,158571
+Robert Andrews Millikan,artificial-intelligence-and-machine-learning,72167,Columbia University,1895,7,72170;148580;
+Ora Stanley Duffendack,artificial-intelligence-and-machine-learning,148190,Princeton University,1922,7,147836
+Rudolf Otto Sigismund Lipschitz,artificial-intelligence-and-machine-learning,19964,Universität Berlin,1853,8,47064;17946;
+Adam  Sedgwick,artificial-intelligence-and-machine-learning,102043,University of Cambridge,1811,8,102036;102037;
+Carl Gottfried Neumann,artificial-intelligence-and-machine-learning,32858,Universität Königsberg,1856,8,57706;46967;
+Franz Ernst Neumann,artificial-intelligence-and-machine-learning,18600,Universität Berlin,1825,8,66319
+Eilhard  Mitscherlich,artificial-intelligence-and-machine-learning,123999,Georg-August-Universität Göttingen,1814,8,123979
+Nicolas Louis Vauquelin,artificial-intelligence-and-machine-learning,158571,,,8,158735
+Joseph Louis Lagrange,artificial-intelligence-and-machine-learning,17864,,ee,8,38586;146036;
+Albert Abraham Michelson,artificial-intelligence-and-machine-learning,72170,,D.,8,49057
+Ogden  Rood,artificial-intelligence-and-machine-learning,148580,,,8,None
+Karl Taylor Compton,artificial-intelligence-and-machine-learning,147836,Princeton University,1912,8,90415
+Gustav Peter Lejeune Dirichlet,artificial-intelligence-and-machine-learning,17946,Rheinische Friedrich-Wilhelms-Universität Bonn,1827,9,17981;17865;
+Thomas  Jones,artificial-intelligence-and-machine-learning,102036,University of Cambridge,1782,9,133301;103066;
+Christian Samuel Weiss,artificial-intelligence-and-machine-learning,66319,Universität Leipzig,1801,9,124285;124286;
+Friedrich  Stromeyer,artificial-intelligence-and-machine-learning,123979,Georg-August-Universität Göttingen,1800,9,158571;76485;
+Antoine Francois de Fourcroy,artificial-intelligence-and-machine-learning,158735,Université de Paris,ris,9,158900
+Leonhard  Euler,artificial-intelligence-and-machine-learning,38586,Universität Basel,1726,9,53410
+Giovanni Battista (Giambattista) Beccaria,artificial-intelligence-and-machine-learning,146036,,,9,None
+Jean Le Rond d'Alembert,artificial-intelligence-and-machine-learning,108266,Collège Mazarin,1735,9,None
+Hermann Ludwig Ferdinand von Helmholtz,artificial-intelligence-and-machine-learning,49057,Universität Berlin,1842,9,23194
+Owen W. Richardson,artificial-intelligence-and-machine-learning,90415,University of London,1904,9,50701
+Enno Heeren Dirksen,artificial-intelligence-and-machine-learning,41423,Georg-August-Universität Göttingen,1820,10,57659;57667;
+Abraham Gottlob Werner,artificial-intelligence-and-machine-learning,124285,Universität Leipzig,1774,10,124490
+René Just Haüy,artificial-intelligence-and-machine-learning,124286,,D.,10,None
+Johann Friedrich Gmelin,artificial-intelligence-and-machine-learning,76485,Eberhard-Karls-Universität Tübingen,1768,10,76484;123957;
+Johann Friedrich Pfaff,artificial-intelligence-and-machine-learning,18230,Georg-August-Universität Göttingen,1786,10,66476;127710;
+Christian August Hausen,artificial-intelligence-and-machine-learning,57670,Martin-Luther-Universität Halle-Wittenberg,1713,10,72669;128986;
+Jean Baptiste Michel Bucquet,artificial-intelligence-and-machine-learning,158900,Université de Paris,1768,10,159761
+Johann  Bernoulli,artificial-intelligence-and-machine-learning,53410,Universität Basel,1694,10,129628;54440;
+Johannes Peter Müller,artificial-intelligence-and-machine-learning,23194,Rheinische Friedrich-Wilhelms-Universität Bonn,1822,10,101865;104394;233065;
+Joseph John Thomson,artificial-intelligence-and-machine-learning,50701,University of Cambridge,1883,10,101979
+​Dan Brown,bioinformatics,45379,['Cornell University'],['2000'],0,36705
+Lila Kari,bioinformatics,20521,['Turun yliopisto'],['1991'],0,20493
+Ian Munro,bioinformatics,65036,['University of Toronto'],['1971'],0,42043
+"Anita Layton (Department of Applied Mathematics, Faculty of Mathematics)",bioinformatics,65049,['University of Toronto'],['2001'],0,65023;59043;
+Christina  Christara,bioinformatics,65023,,D.,1,None
+Kenneth Ronald Jackson,bioinformatics,59043,University of Toronto,1978,1,17245
+Thomas E. Hull,bioinformatics,17245,University of Toronto,1949,2,16268
+Leopold  Infeld,bioinformatics,16268,Uniwersytet Jagielloński,1921,3,106278
+Eric Temple Bell,bioinformatics,7868,Columbia University,1912,4,7611;37346;
+Władysław  Natanson,bioinformatics,106278,University of Cambridge,dge,4,50701
+John William Strutt (Lord Rayleigh),bioinformatics,101979,University of Cambridge,1868,6,101929;102483;
+Edward John Routh,bioinformatics,101929,University of Cambridge,1857,7,129420;42016;
+George Gabriel Stokes,bioinformatics,102483,University of Cambridge,1841,7,42016
+Siméon Denis Poisson,bioinformatics,17865,École Polytechnique,1800,9,108295;17864;
+Christopher Batty,computer-graphics,147355,['University of British Columbia'],['2010'],0,70795
+William Cowan,computer-graphics,66906,['McGill University'],['1976'],0,128095
+Craig Kaplan,computer-graphics,78067,['University of Washington'],['2002'],0,50412
+Stephen Mann,computer-graphics,71953,['University of Washington'],['1992'],0,33763
+Robert  Bridson,computer-graphics,70795,Stanford University,2003,1,36653
+Martin J. Zuckermann,computer-graphics,128095,University of Oxford,1963,1,None
+David Henry Salesin,computer-graphics,50412,Stanford University,1991,1,39940
+Anthony David DeRose,computer-graphics,33763,"University of California, Berkeley",1985,1,50070
+Ronald Paul Fedkiw,computer-graphics,36653,"University of California, Los Angeles",1996,2,11645
+Leonidas John (Ioannis) Guibas,computer-graphics,39940,Stanford University,1976,2,10416
+Brian Andrew Barsky,computer-graphics,50070,University of Utah,1981,2,16454
+Stanley Joel Osher,computer-graphics,11645,New York University,1966,3,13409
+Donald Ervin Knuth,computer-graphics,10416,California Institute of Technology,1963,3,6807
+Richard Franklin Riesenfeld,computer-graphics,16454,Syracuse University,1973,3,14382;96017;
+Jacob Theodore (Jack) Schwartz,computer-graphics,13409,Yale University,1951,4,4299
+"Marshall  Hall, Jr.",computer-graphics,6807,Yale University,1936,4,11890
+"William John Gordon, Jr.",computer-graphics,14382,Brown University,1965,4,13797
+Steven A. Coons,computer-graphics,96017,,D.,4,None
+Nelson  Dunford,computer-graphics,4299,Brown University,1936,5,4740
+Øystein  Ore,computer-graphics,11890,Universitetet i Oslo,1924,5,18237
+Gordon Frank Newell,computer-graphics,13797,University of Illinois at Urbana-Champaign,1950,5,None
+Jacob David Tamarkin,computer-graphics,4740,St. Petersburg State University,1917,6,12543
+Thoralf Albert Skolem,computer-graphics,18237,Universitetet i Oslo,1926,6,18236
+Axel  Thue,computer-graphics,18236,University of Christiania,1889,7,77898
+Elling  Holst,computer-graphics,77898,,D.,8,18235
+Nikolai Dmitrievich Brashman,computer-graphics,12541,Kazan State University and Lomonosov Moscow State University,1834,9,12540;259973;146776;
+M. Sophus (Marius) Lie,computer-graphics,18235,University of Christiania,1872,9,66101;66102;
+Joseph Johann von Littrow,computer-graphics,12540,Universität Wien,1838,10,None
+Mikhail Vasilyevich  Ostrogradsky,computer-graphics,259973,Université de Paris,1823,10,17865;55177;
+Nikolai Ivanovich Lobachevsky,computer-graphics,146776,Kazan State University,ity,10,151180;122737;
+Carl Anton Bjerknes,computer-graphics,66101,Universitetet i Oslo,1848,10,77899;17946;18232;
+Cato Maximilian Guldberg,computer-graphics,66102,,l.,10,None
+Yousra Aafer ,cryptography-security-and-privacy-crysp,218594,['Syracuse University'],['2016'],0,81699
+N. Asokan,cryptography-security-and-privacy-crysp,67046,['University of Waterloo'],['1998'],0,120682;66819;
+Ian Goldberg,cryptography-security-and-privacy-crysp,70144,"['University of California, Berkeley']",['2000'],0,67451
+Sergey Gorbunov,cryptography-security-and-privacy-crysp,203875,['Massachusetts Institute of Technology'],['2015'],0,133526
+Mohammad Hajiabadi,cryptography-security-and-privacy-crysp,206018,['University of Victoria'],['2016'],0,72032
+Urs Hengartner,cryptography-security-and-privacy-crysp,145850,['Carnegie Mellon University'],['2005'],0,50087
+Doug Stinson (retired),cryptography-security-and-privacy-crysp,33044,['University of Waterloo'],['1981'],0,33040
+Wenliang  Du,cryptography-security-and-privacy-crysp,81699,Purdue University,2001,1,47076;81691;
+Michael   Waidner,cryptography-security-and-privacy-crysp,120682,Karlsruher Institut für Technologie (KIT),1991,1,120676;58017;
+James P. Black,cryptography-security-and-privacy-crysp,66819,University of Waterloo,1982,1,66870;66871;
+Eric Allen Brewer,cryptography-security-and-privacy-crysp,67451,Massachusetts Institute of Technology,1994,1,67447
+Vinod  Vaikuntanathan,cryptography-security-and-privacy-crysp,133526,Massachusetts Institute of Technology,2008,1,35879
+Bruce M. Kapron,cryptography-security-and-privacy-crysp,72032,University of Toronto,1991,1,14011
+Peter Alfons Steenkiste,cryptography-security-and-privacy-crysp,50087,Stanford University,1987,1,40909
+Mikhail Jibrayil Atallah,cryptography-security-and-privacy-crysp,47076,The Johns Hopkins University,1982,2,50660
+Eugene Howard Spafford,cryptography-security-and-privacy-crysp,81691,Georgia Institute of Technology,1986,2,52892;106989;
+Winfried   Görke,cryptography-security-and-privacy-crysp,120676,Karlsruher Institut für Technologie (KIT),1965,2,None
+Rüdiger  Reischuk,cryptography-security-and-privacy-crysp,58017,Universität Bielefeld,1980,2,21130
+David J. Taylor,cryptography-security-and-privacy-crysp,66870,University of Waterloo,1977,2,66871
+David E. Morgan,cryptography-security-and-privacy-crysp,66871,University of Waterloo,1971,2,66872
+William Edward Weihl,cryptography-security-and-privacy-crysp,67447,Massachusetts Institute of Technology,1984,2,61932
+Shafrira  Goldwasser,cryptography-security-and-privacy-crysp,35879,"University of California, Berkeley",1984,2,13373
+John Leroy Hennessy,cryptography-security-and-privacy-crysp,40909,State University of New York at Stony Brook,1977,2,94545
+Sambasiva Rao Kosaraju,cryptography-security-and-privacy-crysp,50660,University of Pennsylvania,1969,3,129486;53467;
+Partha  Dasgupta,cryptography-security-and-privacy-crysp,52892,State University of New York at Stony Brook,1984,3,11624
+Martin Stewart McKendry,cryptography-security-and-privacy-crysp,106989,University of Illinois at Urbana-Champaign,1982,3,94846
+Wolfgang Jakob  Paul,cryptography-security-and-privacy-crysp,21130,Universität des Saarlandes,1973,3,21668
+Eric G. Manning,cryptography-security-and-privacy-crysp,66872,University of Illinois at Urbana-Champaign,1965,3,92718
+Barbara Jane Huberman Liskov,cryptography-security-and-privacy-crysp,61932,Stanford University,1968,3,22145
+Richard Bruce Kieburtz,cryptography-security-and-privacy-crysp,94545,University of Washington,1961,3,21212
+Aravind Krishna Joshi,cryptography-security-and-privacy-crysp,129486,University of Pennsylvania,1960,4,76341
+Hisao M. Yamada,cryptography-security-and-privacy-crysp,53467,University of Pennsylvania,1960,4,74578
+Zvi Meir Kedem,cryptography-security-and-privacy-crysp,11624,Technion-Israel Institute of Technology,1974,4,74435;8737;
+Roy Harold Campbell,cryptography-security-and-privacy-crysp,94846,University of Newcastle upon Tyne,1977,4,149829;185791;
+Günter  Hotz,cryptography-security-and-privacy-crysp,21668,Georg-August-Universität Göttingen,1958,4,15252
+Sundaram  Seshu,cryptography-security-and-privacy-crysp,92718,University of Illinois at Urbana-Champaign,1955,4,92644
+John  McCarthy,cryptography-security-and-privacy-crysp,22145,Princeton University,1951,4,10290
+Akira  Ishimaru,cryptography-security-and-privacy-crysp,21212,University of Washington,1958,4,35108
+Zellig Sabbetai Harris,cryptography-security-and-privacy-crysp,76341,University of Pennsylvania,1934,5,129621
+"Robert Forbes McNaughton, Jr.",cryptography-security-and-privacy-crysp,74578,Harvard University,1951,5,73831
+Azaria  Paz,cryptography-security-and-privacy-crysp,74435,Hebrew University of Jerusalem,lem,5,8023
+Shmuel  Winograd,cryptography-security-and-privacy-crysp,8737,New York University,1968,5,13409
+Brian  Randell,cryptography-security-and-privacy-crysp,149829,Imperial College London,1989,5,None
+Hugh C. Lauer,cryptography-security-and-privacy-crysp,185791,Carnegie Mellon University,1972,5,50067;50092;
+Kurt  Reidemeister,cryptography-security-and-privacy-crysp,15252,Universität Hamburg,1921,5,7379
+Willis Laurens Emery,cryptography-security-and-privacy-crysp,92644,Iowa State University,1947,5,92761
+Donald Clayton Spencer,cryptography-security-and-privacy-crysp,10290,University of Cambridge,1939,5,10463;17806;
+Gedaliahu  Held,cryptography-security-and-privacy-crysp,35108,"University of California, Berkeley",1954,5,144842
+James Alan Montgomery,cryptography-security-and-privacy-crysp,129621,University of Pennsylvania,1904,6,145782
+Michael Oser Rabin,cryptography-security-and-privacy-crysp,8023,Princeton University,1957,6,8011
+Arie Nicolaas Habermann,cryptography-security-and-privacy-crysp,50067,Technische Universiteit Eindhoven,1967,6,45747
+William Allan Wulf,cryptography-security-and-privacy-crysp,50092,University of Virginia,1968,6,63904
+Erich  Hecke,cryptography-security-and-privacy-crysp,7379,Georg-August-Universität Göttingen,1910,6,7298
+John Douglas Ryder,cryptography-security-and-privacy-crysp,92761,Iowa State University,1944,6,131580
+John Edensor Littlewood,cryptography-security-and-privacy-crysp,10463,University of Cambridge,1910,6,12099
+G. H. (Godfrey Harold) Hardy,cryptography-security-and-privacy-crysp,17806,University of Cambridge,1903,6,31354;18571;
+Samuel  Silver,cryptography-security-and-privacy-crysp,144842,Massachusetts Institute of Technology,1940,6,64503
+Hermann Vollrat Hilprecht,cryptography-security-and-privacy-crysp,145782,Universität Leipzig,1883,7,145781;156004;
+Edsger Wybe Dijkstra,cryptography-security-and-privacy-crysp,45747,Universiteit van Amsterdam,1959,7,59162
+Alan P. Batson,cryptography-security-and-privacy-crysp,63904,University of Birmingham,ham,7,None
+Wallace L. Cassell,cryptography-security-and-privacy-crysp,131580,University of Colorado at Boulder,1928,7,None
+Ernest William Barnes,cryptography-security-and-privacy-crysp,12099,University of Cambridge,1907,7,27230
+Augustus Edward Hough Love,cryptography-security-and-privacy-crysp,31354,ETH Zürich,ich,7,None
+Edmund Taylor Whittaker,cryptography-security-and-privacy-crysp,18571,University of Cambridge,1895,7,17829;17467;
+John Clarke Slater,cryptography-security-and-privacy-crysp,64503,Harvard University,1923,7,79749
+Friedrich  Delitzsch,cryptography-security-and-privacy-crysp,145781,Universität Leipzig,1873,8,145779
+Heinrich Leberecht Fleischer,cryptography-security-and-privacy-crysp,156004,Universität Leipzig,1824,8,None
+Adriaan  van Wijngaarden,cryptography-security-and-privacy-crysp,59162,Technische Universiteit Delft,1945,8,58909
+Walter William Rouse Ball,cryptography-security-and-privacy-crysp,27230,University of Cambridge,1874,8,None
+Andrew Russell Forsyth,cryptography-security-and-privacy-crysp,17829,University of Cambridge,1881,8,7824
+George Howard Darwin,cryptography-security-and-privacy-crysp,17467,University of Cambridge,1871,8,101929
+Percy Williams Bridgman,cryptography-security-and-privacy-crysp,79749,Harvard University,1908,8,35094
+Franz Julius Delitzsch,cryptography-security-and-privacy-crysp,145779,Universität Leipzig,1836,9,None
+Cornelis Benjamin Biezeno,cryptography-security-and-privacy-crysp,58909,Universiteit van Amsterdam,1933,9,None
+Arthur  Cayley,cryptography-security-and-privacy-crysp,7824,Universiteit Leiden and University College Dublin and University of Oxford,1875,9,42016
+Wallace Clement Sabine,cryptography-security-and-privacy-crysp,35094,Harvard University,1888,9,67041
+Johann Tobias Mayer,cryptography-security-and-privacy-crysp,57659,Georg-August-Universität Göttingen,1773,9,66476;65161;
+Bernhard Friedrich Thibaut,cryptography-security-and-privacy-crysp,57667,Georg-August-Universität Göttingen,1796,9,66476;65161;
+Charles Clarke,data-systems,66869,['University of Waterloo'],['1996'],0,66818
+Gordon Cormack,data-systems,66818,['University of Manitoba'],['1981'],0,80823
+Lukasz Golab (Dept. of Management Sciences),data-systems,102378,['University of Waterloo'],['2006'],0,72390
+Ihab Ilyas,data-systems,125917,['Purdue University'],['2004'],0,117312;96256;
+Kenneth Salem,data-systems,66887,['Princeton University'],['1989'],0,70978
+Semih Salihoglu,data-systems,286451,['Stanford University'],['2015'],0,70979
+David Toman,data-systems,70807,['Kansas State University'],['1996'],0,70371
+Frank Tompa,data-systems,66879,['University of Toronto'],['1974'],0,24934
+Grant Weddell,data-systems,66877,['University of Toronto'],['1987'],0,79993
+Gordon Villy Cormack,data-systems,66818,University of Manitoba,1981,1,80823
+Peter R. King,data-systems,80823,,D.,1,None
+M. Tamer (Mehmet) Ozsu,data-systems,72390,The Ohio State University,1983,1,79360
+Walid G. Aref,data-systems,117312,University of Maryland College Park,1993,1,41489
+Ahmed Khalifa Elmagarmid,data-systems,96256,The Ohio State University,1985,1,None
+Hector  Garcia-Molina,data-systems,70978,Stanford University,1979,1,70996
+Jennifer  Widom,data-systems,70979,Cornell University,1987,1,22781
+Jan Oskar Chomicki,data-systems,70371,"Rutgers University, New Brunswick",1990,1,70225
+Calvin Carl Gotlieb,data-systems,24934,University of Toronto,1947,1,16275
+Stavros C. Christodoulakis,data-systems,79993,University of Toronto,1981,1,66903
+Bruce Warren Weide,data-systems,79360,Carnegie Mellon University,1979,2,102419
+Hanan  Samet,data-systems,41489,Stanford University,1975,2,23037
+Evgenii Mikhailovich Landis,data-systems,76951,,1953,2,55146;76948;
+Gio(vanni) Corrado Melchiore Wiederhold,data-systems,70996,"University of California, San Francisco",1976,2,5709
+David  Gries,data-systems,22781,Technische Universität München,1966,2,21622;21232;
+Tomasz  Imielinski,data-systems,70225,Polska Akademia Nauk,1981,2,70822
+Eli Franklin Burton,data-systems,16275,University of Toronto,1910,2,265395
+Kenneth Clem Sevcik,data-systems,66903,The University of Chicago,1972,2,79967
+Michael Ian Shamos,data-systems,102419,Yale University,1978,3,69526
+Vinton Gray Cerf,data-systems,23037,"University of California, Los Angeles",1972,3,69930
+John Amsden Starkweather,data-systems,5709,Northwestern University,1955,3,16963
+Josef  Stoer,data-systems,21622,Johannes Gutenberg-Universität Mainz,1961,3,24762;21232;
+Friedrich Ludwig Bauer,data-systems,21232,Ludwig-Maximilians-Universität München,1951,3,25129;36548;
+"Witold  Lipski, Jr.",data-systems,70822,Polska Akademia Nauk,1974,3,22583
+John Cunningham McLennan,data-systems,265395,University of Toronto,1900,3,None
+Linus Edward Schrage,data-systems,79967,Cornell University,1966,3,79965
+David Paul Dobkin,data-systems,69526,Harvard University,1973,4,18746
+Gerald  Estrin,data-systems,69930,University of Wisconsin-Madison,1951,4,29801
+Carl Porter Duncan,data-systems,16963,Brown University,1947,4,93076
+Klaus  Samelson,data-systems,24762,Ludwig-Maximilians-Universität München,1951,4,25129
+Fritz  Bopp,data-systems,25129,Georg-August-Universität Göttingen,1937,4,106421;57661;
+Georg  Aumann,data-systems,36548,Ludwig-Maximilians-Universität München,1931,4,57471;7517;
+Wiktor  Marek,data-systems,22583,Uniwersytet Warszawski,1968,4,489
+William Laughlin Maxwell,data-systems,79965,Cornell University,1961,4,79968
+Roger Ware Brockett,data-systems,18746,Case Western Reserve University,1964,5,92461
+Vincent C. Rideout,data-systems,29801,California Institute of Technology,1940,5,222430
+Harold  Schlosberg,data-systems,93076,Princeton University,1928,5,95237;95238;
+Erwin Richard Fues,data-systems,106421,Ludwig-Maximilians-Universität München,1919,5,31357
+Fritz  Sauter,data-systems,57661,Universität Innsbruck,1928,5,138330
+Heinrich Franz Friedrich Tietze,data-systems,57471,Universität Wien,1904,5,27259
+Constantin  Carathéodory,data-systems,7517,Georg-August-Universität Göttingen,1904,5,29675
+Andrzej  Mostowski,data-systems,489,Uniwersytet Warszawski,1938,5,13347;24546;
+Richard Walter Conway,data-systems,79968,Cornell University,1958,5,79969
+Mihajlo D. Mesarović,data-systems,92461,University of Belgrade,1955,6,None
+Royal Wasson Sorensen,data-systems,222430,California Institute of Technology,1938,6,None
+Joseph  Liouville,data-systems,55185,"Faculté des Sciences, Paris",1836,6,17865;104652;
+Edwin Bissell Holt,data-systems,95237,Harvard University,1901,6,29244
+Leonard  Carmichael,data-systems,95238,Harvard University,1924,6,29189
+Arnold Johannes Wilhelm Sommerfeld,data-systems,31357,Universität Königsberg,1891,6,7404
+Arthur  March,data-systems,138330,Universität Innsbruck,1913,6,138329
+Gustav  Ritter von Escherich,data-systems,27259,Technische Universität Graz,1873,6,27258;49523;
+Hermann  Minkowski,data-systems,29675,Universität Königsberg,1885,6,7404
+Alfred  Tarski,data-systems,13347,Uniwersytet Warszawski,1924,6,13345
+Kazimierz  Kuratowski,data-systems,24546,Uniwersytet Warszawski,1921,6,12547;86692;
+"Andrew Schultz Schultz, Jr.",data-systems,79969,Cornell University,1941,6,80136
+Heinrich Ferdinand Scherk,data-systems,25484,Universität Berlin,1823,7,65162;18603;
+William  James,data-systems,29244,Harvard University,1869,7,99605;49057;
+Walter Fenno Dearborn,data-systems,29189,Columbia University,1905,7,72614
+Ottokar  Tumlirz,data-systems,138329,Charles University,1879,7,113011
+Johannes  Frischauf,data-systems,27258,Universität Wien,1861,7,96350;96357;
+Karl  Friesach,data-systems,49523,Universität Wien,1846,7,None
+Stanislaw  Lesniewski,data-systems,13345,University of Lwów,1912,7,13344
+Stefan  Mazurkiewicz,data-systems,12547,University of Lwów,1913,7,12545
+Zygmunt  Janiszewski,data-systems,86692,,1911,7,86693
+John Robert Bangs Jr.,data-systems,80136,Cornell University,1921,7,None
+Heinrich Wilhelm Brandes,data-systems,65162,Georg-August-Universität Göttingen,1800,8,66476;65161;
+Pierre  Janet,data-systems,99605,Université de Paris,1889,8,None
+James McKeen Cattell,data-systems,72614,Universität Leipzig,1886,8,46065
+Ernst  Mach,data-systems,113011,Universität Wien,1860,8,113010
+Franz Xaver Moth,data-systems,96350,University of Prague,1822,8,96327;96330;
+Józef Maximilian Petzval,data-systems,96357,Eötvös Loránd University,1832,8,None
+Kazimierz  Twardowski,data-systems,13344,Universität Wien,1891,8,141831;15176;
+Wacław  Sierpiński,data-systems,12545,Uniwersytet Jagielloński,1906,8,12544;12546;
+Henri Léon Lebesgue,data-systems,86693,"Faculté des Sciences, Paris",1902,8,39071
+Johannes Peter Müller,data-systems,23194,Rheinische Friedrich-Wilhelms-Universität Bonn,1822,9,104394;101865;233065;
+Wilhelm Max Wundt,data-systems,46065,Ruprecht-Karls-Universität Heidelberg,1856,9,232366
+Andreas  von Ettingshausen,data-systems,113010,Universität Wien and Kaiserlich-königliche Technische Militärakademie,1817,9,128056
+Franz Josef Ritter von Gerstner,data-systems,96327,Karl-Ferdinand-Universität Prag,1776,9,143091;143129;
+Bernard(us) Placidus Johann Nepomuk Bolzano,data-systems,96330,University of Prague,1805,9,96327
+Robert  Zimmermann,data-systems,141831,Universität Wien,1846,9,96330
+Franz Clemens Brentano,data-systems,15176,Eberhard-Karls-Universität Tübingen,1862,9,60803;28227;
+Stanislaw  Zaremba,data-systems,12546,Université Paris IV-Sorbonne,1889,9,34254;34266;
+Johann  Bernoulli,data-systems,53410,Universität Basel,1694,10,54440;129628;
+Karl Asmund Rudolphi,data-systems,104394,Ernst-Moritz-Arndt-Universität Greifswald,1795,10,106530
+Philipp Franz von Walther,data-systems,101865,Ludwig-Maximilians-Universität Landshut,1803,10,101852;101851;
+Karl August Franz Josef Mayer,data-systems,233065,Eberhard-Karls-Universität Tübingen,1812,10,None
+Karl Ewald Hasse,data-systems,232366,Universität Leipzig,1833,10,None
+Ignaz  Lindner,data-systems,128056,,,10,140909
+Jan  Tesánek,data-systems,143091,,1748,10,143129
+Joseph  Stepling,data-systems,143129,Universitas Carolina Prague,1743,10,143130
+Friedrich Adolf Trendelenburg,data-systems,60803,Universität Berlin,1826,10,126894;35141;
+Franz Jakob Clemens,data-systems,28227,Universität Berlin,1839,10,None
+C. Émile (Charles) Picard,data-systems,34266,École Normale Supérieure Paris,1877,10,34254
+Joanne Atlee,formal-methods,66892,['University of Maryland College Park'],['1992'],0,103306
+Nancy Day,formal-methods,72132,['University of British Columbia'],['1998'],0,72125
+Richard Trefler,formal-methods,69919,['University of Texas at Austin'],['1999'],0,69873
+Vijay Ganesh (Department of Electrical and Computer Engineering),formal-methods,121250,['Stanford University'],['2007'],0,50263
+Derek Rayside (Department of Electrical and Computer Engineering),formal-methods,252767,,,0,None
+"John Dennis Gannon, Jr.",formal-methods,103306,University of Toronto,1975,1,13815
+Jeffrey John Joyce,formal-methods,72125,University of Cambridge,1990,1,86294
+E. Allen (Ernest) Emerson,formal-methods,69873,Harvard University,1981,1,50063
+David L. Dill,formal-methods,50263,Carnegie Mellon University,1987,1,50063
+James Jay Horning,formal-methods,13815,Stanford University,1969,2,13120
+Michael J. C. Gordon,formal-methods,86294,The University of Edinburgh,1973,2,102542
+"Edmund Melson Clarke, Jr.",formal-methods,50063,Cornell University,1976,2,9041
+Jerome Arthur Feldman,formal-methods,13120,Carnegie Mellon University,1964,3,13112
+Rodney Martineau Burstall,formal-methods,102542,University of Birmingham,1966,3,133637;133638;
+Norman Alfred Dudley,formal-methods,133637,University of Birmingham,1955,4,170791;170790;
+K. Brian Haley,formal-methods,133638,University of Birmingham,1962,4,None
+F.  Benson,formal-methods,170791,,ee,5,None
+Elsie Anna Grace Knowles,formal-methods,170790,Friedrich-Schiller-Universität Jena,1932,5,181026
+Mathilde Maria Johanna Themis Vaerting,formal-methods,181026,Rheinische Friedrich-Wilhelms-Universität Bonn,1911,6,51360
+Adolf  Dyroff,formal-methods,51360,Bayerische Julius-Maximilians-Universität Würzburg,1892,7,None
+Johnny Wong,health-informatics,66882,"['University of California, Los Angeles']",['1975'],0,70476
+Richard Robert Muntz,health-informatics,70476,Princeton University,1969,1,82027
+Raymond  Reiter,health-informatics,5481,University of Michigan,1967,2,13812;25275;
+"Edward Grady Coffman, Jr.",health-informatics,82027,"University of California, Los Angeles",1966,2,24334
+Leonard  Kleinrock,health-informatics,24334,Massachusetts Institute of Technology,1963,3,65315
+Edward  Arthurs,health-informatics,65315,Massachusetts Institute of Technology,1955,4,10801
+William Kirby Linvill,health-informatics,10801,Massachusetts Institute of Technology,1949,5,63061
+Ernst Adolph Guillemin,health-informatics,63061,Ludwig-Maximilians-Universität München,1926,6,31357
+Prabhakar Ragde,programming-languages,66895,"['University of California, Berkeley']",['1986'],0,82100;25275;
+Yizhou Zhang,programming-languages,273183,['Cornell University'],['2019'],0,61959
+Brad Lushman,programming-languages,111760,['University of Waterloo'],['2007'],0,66818
+"Werner Dietl (Department of Electrical and Computer Engineering, Faculty of Engineering)",programming-languages,142874,['ETH Zürich'],['2009'],0,97971;71839;142873;
+"Patrick Lam (Department of Electrical and Computer Engineering, Faculty of Engineering)",programming-languages,103216,['Massachusetts Institute of Technology'],['2007'],0,71513
+Andrew Clifford Myers,programming-languages,61959,Massachusetts Institute of Technology,1999,1,61932
+Peter  Müller,programming-languages,97971,Fernuniversität Hagen,2001,1,97956;93863;
+Michael Dean Ernst,programming-languages,71839,University of Washington,2000,1,50230
+Martin  Odersky,programming-languages,142873,ETH Zürich,1989,1,61847
+Martin C. Rinard,programming-languages,71513,Stanford University,1994,1,50307
+Arnd  Poetzsch-Heffter,programming-languages,97956,Technische Universität München,1991,2,22779;21194;
+Gary Todd Leavens,programming-languages,93863,Massachusetts Institute of Technology,1989,2,67447
+David Samuel Notkin,programming-languages,50230,Carnegie Mellon University,1984,2,50067
+Niklaus Emil Wirth,programming-languages,61847,"University of California, Berkeley",1963,2,10185;61956;
+Monica Sin-Ling Lam,programming-languages,50307,Carnegie Mellon University,1987,2,47159
+David Lorge Parnas,programming-languages,86340,Carnegie Mellon University,1965,3,13112;90571;
+Manfred  Broy,programming-languages,22779,Technische Universität München,1980,3,21232
+Jürgen  Eickel,programming-languages,21194,Westfälische Wilhelms-Universität Münster,1961,3,15253
+Harry Douglas Huskey,programming-languages,10185,The Ohio State University,1943,3,10323
+Edward Albert Feigenbaum,programming-languages,61956,Carnegie Mellon University,1960,3,87903
+Hsiang-Tsung  Kung,programming-languages,47159,Carnegie Mellon University,1974,3,18492
+Heinrich Adolph Behnke,programming-languages,15253,Universität Hamburg,1923,4,7379
+Tibor  Radó,programming-languages,10323,University of Szeged,1922,4,11321;7488;
+Herbert Alexander Simon,programming-languages,87903,The University of Chicago,1943,4,122119;122490;
+Joseph Frederick Traub,programming-languages,18492,Columbia University,1959,4,30091
+Leopold (Lipót) Fejér,programming-languages,7488,Eötvös Loránd University,1902,5,7487
+Harold Dwight Lasswell,programming-languages,122119,The University of Chicago,1926,5,122120
+Henry  Schultz,programming-languages,122490,Columbia University,1925,5,122450
+Henry Michael Foley,programming-languages,30091,University of Michigan,1943,5,92249
+Hermann Amandus Schwarz,programming-languages,7487,Universität Berlin,1864,6,18331;7486;
+Charles Edward Merriam,programming-languages,122120,Columbia University,1900,6,127845
+Henry Ludwell Moore,programming-languages,122450,The Johns Hopkins University,1892,6,122449;122448;
+David Mathias Dennison,programming-languages,92249,University of Michigan,1924,6,115036;115037;
+William Archibald Dunning,programming-languages,127845,Columbia University,1885,7,201548
+Simon  Newcomb,programming-languages,122449,,1858,7,80886
+John Bates Clark,programming-languages,122448,Ruprecht-Karls-Universität Heidelberg,1877,7,194422
+Walter Francis Colby,programming-languages,115036,University of Michigan,1909,7,179033
+Oskar  Klein,programming-languages,115037,Stockholm University,1921,7,200502
+John William Burgess,programming-languages,201548,,,8,None
+Karl  Knies,programming-languages,194422,Philipps-Universität Marburg,1846,8,177156
+Harrison McAllister Randall,programming-languages,179033,University of Michigan,1902,8,None
+Svante  Arrhenius,programming-languages,200502,,,8,None
+Bruno  Hildebrand,programming-languages,177156,Universität Breslau,1836,9,199699
+Maximilian Wolfgang Duncker,programming-languages,199699,Humboldt-Universität zu Berlin,1834,10,229407;229406;
+Peter Forsyth,scientific-computation,66894,['University of Western Ontario'],['1979'],0,68238
+Alan George,scientific-computation,50835,['Stanford University'],['1971'],0,4319
+George Labahn,scientific-computation,87911,['University of Alberta'],['1988'],0,72398
+Anita Layton (Cross appointed from the Department of Applied Mathematics),scientific-computation,65049,['University of Toronto'],['2001'],0,59043;65023;
+Yuying Li,scientific-computation,66915,['University of Waterloo'],['1988'],0,42579
+Henning  Rasmussen,scientific-computation,68238,University of Queensland,1968,1,14740
+George Elmer Forsythe,scientific-computation,4319,Brown University,1941,1,4740;33019;
+Stanley  Cabay,scientific-computation,72398,University of Toronto,1971,1,33269
+Andrew Roger Conn,scientific-computation,42579,University of Waterloo,1971,1,66902
+A. Fenton Pillow,scientific-computation,14740,University of Cambridge,1950,2,30467
+Anthony  Zeppetella,scientific-computation,33269,New York University,1976,2,33017
+Tomasz  Pietrzykowski,scientific-computation,66902,Polska Akademia Nauk,1960,2,None
+George Keith Batchelor,scientific-computation,30467,University of Cambridge,1948,3,18588
+"Henry P. McKean, Jr.",scientific-computation,33017,Princeton University,1955,3,33019
+Geoffrey Ingram Taylor,scientific-computation,18588,University of Cambridge,dge,4,50701
+Mikhail Vasilyevich  Ostrogradsky,scientific-computation,259973,Université de Paris,1823,6,55177;17865;
+Nikolai Ivanovich Lobachevsky,scientific-computation,146776,Kazan State University,ity,6,122737;151180;
+Augustin Louis Cauchy,scientific-computation,55177,École Nationale des Ponts et Chaussées,ées,7,None
+Stepan  Rumovsky,scientific-computation,122737,Königliche Akademie der Wissenschaften zu Berlin,lin,7,260114;38586;
+Johann Martin Christian Bartels,scientific-computation,151180,Friedrich-Schiller-Universität Jena,1799,7,18230;66476;65161;
+Mikhail Vasilyevich  Lomonosov,scientific-computation,260114,Philipps-Universität Marburg,1739,8,47793
+Christian M. von Wolff,scientific-computation,47793,Universität Leipzig,1703,9,113719;60985;157308;
+Johann Elert Bode,scientific-computation,127710,Handelsakademie Hamburg,urg,9,127668
+Ehrenfried Walter von Tschirnhaus,scientific-computation,113719,Universiteit Leiden,1674,10,132725;101860;119293;
+Gottfried Wilhelm Leibniz,scientific-computation,60985,Universität Leipzig,1666,10,137705;143859;125561;60984;
+Christoph  Pfautz,scientific-computation,157308,Universität Leipzig,1663,10,157307
+Jacob  Bernoulli,scientific-computation,54440,Universität Basel,1676,10,143011;143084;
+Nikolaus  Eglinger,scientific-computation,129628,Universität Basel,1661,10,129708;125125;
+Johann Georg Büsch,scientific-computation,127668,Georg-August-Universität Göttingen,1752,10,208259;60782;
+Johann Christoph Wichmannshausen,scientific-computation,72669,Universität Leipzig,1685,10,21235
+Johann Andreas Planer,scientific-computation,128986,Martin-Luther-Universität Halle-Wittenberg,1686,10,128046;128938;
+Paulo Alencar,software-engineering,227840,[''],[''],0,None
+Joanne Atlee,software-engineering,66892,['University of Maryland College Park'],['1992'],0,103306
+Daniel Berry,software-engineering,14473,['Brown University'],['1974'],0,15166;13683;
+Donald Cowan,software-engineering,66817,['University of Waterloo'],['1965'],0,15914
+Nancy Day,software-engineering,72132,['University of British Columbia'],['1998'],0,72125
+Michael Godfrey,software-engineering,90655,['University of Toronto'],['1997'],0,67141
+Shane McIntosh,software-engineering,220043,"[""Queen's University at Kingston""]",['2015'],0,90657
+Chengnian Sun,software-engineering,185328,['National University of Singapore'],['2013'],0,4794;72059;
+Richard Trefler,software-engineering,69919,['University of Texas at Austin'],['1999'],0,69873
+Peter  Wegner,software-engineering,15166,University of London,1968,1,143090
+"Clement Leo McGowan, III",software-engineering,13683,Cornell University,1971,1,15166;10404;
+Gerald  Berman,software-engineering,15914,University of Toronto,1950,1,12555
+Richard Craig Holt,software-engineering,67141,Cornell University,1971,1,88103
+Ahmed  Hassan,software-engineering,90657,University of Waterloo,2005,1,67141
+Yeneng  Sun,software-engineering,4794,University of Illinois at Urbana-Champaign,1989,1,4787
+Xiao  Luo,software-engineering,72059,University of Victoria,1993,1,72031
+Maurice Vincent Wilkes,software-engineering,143090,University of Cambridge,1937,2,147661
+H. S. M. (Harold Scott MacDonald) Coxeter,software-engineering,12555,University of Cambridge,1931,2,13135
+Alan Cary Shaw,software-engineering,88103,Stanford University,1968,2,88102
+Peter Albert Loeb,software-engineering,4787,Stanford University,1965,2,8310
+Jon C. Muzio,software-engineering,72031,,D.,2,None
+John Ashworth Ratcliffe,software-engineering,147661,University of Cambridge,1924,3,112651
+Henry Frederick Baker,software-engineering,13135,University of Cambridge,dge,3,7824
+"Halsey Lawrence Royden, Jr.",software-engineering,8310,Harvard University,1951,3,1430
+Edward Victor Appleton,software-engineering,112651,University of Cambridge,1913,4,50699;50701;
+Lars Valerian Ahlfors,software-engineering,1430,Helsingin yliopisto,1932,4,18689;782;
+Ernest  Rutherford,software-engineering,50699,University of Cambridge,dge,5,50701
+James  Franck,software-engineering,126428,Humboldt-Universität zu Berlin,1906,5,124661;62397;
+Rolf Herman Nevanlinna,software-engineering,18689,Helsingin yliopisto,1919,5,782
+Emil Gabriel Warburg,software-engineering,124661,Universität Berlin,1867,6,123978;123973;
+Herman  Boerhaave,software-engineering,101856,Universiteit Leiden,1690,9,115155;101858;
+Friedrich  Stromeyer,software-engineering,123979,Georg-August-Universität Göttingen,1800,9,76485;158571;
+Walter  Taylor,software-engineering,133368,University of Cambridge,1723,10,103068
+Wolferd  Senguerdius,software-engineering,115155,Athenaeum Illustre Amsterdam,1666,10,115471
+Burchard  de Volder,software-engineering,101858,Universiteit Utrecht,1660,10,101860;114945;
+Raouf Boutaba,systems-and-networking,73170,[''],['D.'],0,None
+Tim Brecht,systems-and-networking,91384,['University of Toronto'],['1994'],0,67136
+Srinivasan Keshav,systems-and-networking,73556,"['University of California, Berkeley']",['1991'],0,32850
+Ali Mashtizadeh,systems-and-networking,233022,['Stanford University'],['2017'],0,61965
+David Taylor,systems-and-networking,66870,['University of Waterloo'],['1977'],0,66871
+Paul Ward,systems-and-networking,66942,['University of Waterloo'],['2002'],0,66870
+Johnny Wong,systems-and-networking,66882,"['University of California, Los Angeles']",['1975'],0,70476
+Songnian  Zhou,systems-and-networking,67136,"University of California, Berkeley",1987,1,32850
+Domenico  Ferrari,systems-and-networking,32850,Politecnico di Milano,1963,1,158121
+David Folkman Mazières,systems-and-networking,61965,Massachusetts Institute of Technology,2000,1,61950
+Luigi  Dadda,systems-and-networking,158121,Politecnico di Milano,1947,2,158188
+M. Frans (Marinus) Kaashoek,systems-and-networking,61950,Vrije Universiteit Amsterdam,1992,2,69777
+Ercole  Bottani,systems-and-networking,158188,Politecnico di Milano,1922,3,None
+Andrew Stuart Tanenbaum,systems-and-networking,69777,"University of California, Berkeley",1971,3,104776
+John Marsh Wilcox,systems-and-networking,104776,"University of California, Berkeley",1954,4,194780
+Burton Jones Moyer,systems-and-networking,194780,University of Washington,1939,5,200824
+Donald Holt Loughridge,systems-and-networking,200824,California Institute of Technology,1927,6,72167

@@ -1,0 +1,288 @@
+digraph "Academic Genealogy for programming-languages" {
+	252543 [label="Trevor Brown
+['University of Toronto']
+['2017']
+programming-languages" color=blue fillcolor=lightblue2 style=filled]
+	66895 [label="Prabhakar Ragde
+['University of California, Berkeley']
+['1986']
+programming-languages" color=blue fillcolor=lightblue2 style=filled]
+	273183 [label="Yizhou Zhang
+['Cornell University']
+['2019']
+programming-languages" color=blue fillcolor=lightblue2 style=filled]
+	111760 [label="Brad Lushman
+['University of Waterloo']
+['2007']
+programming-languages" color=blue fillcolor=lightblue2 style=filled]
+	142874 [label="Werner Dietl (Department of Electrical and Computer Engineering, Faculty of Engineering)
+['ETH Zürich']
+['2009']
+programming-languages" color=blue fillcolor=lightblue2 style=filled]
+	103216 [label="Patrick Lam (Department of Electrical and Computer Engineering, Faculty of Engineering)
+['Massachusetts Institute of Technology']
+['2007']
+programming-languages" color=blue fillcolor=lightblue2 style=filled]
+	67145 [label="Faith (Fich) Ellen
+University of California, Berkeley
+1982
+programming-languages"]
+	82100 [label="Avi  Wigderson
+Princeton University
+1983
+programming-languages"]
+	25275 [label="Richard Manning Karp
+Harvard University
+1959
+programming-languages"]
+	61959 [label="Andrew Clifford Myers
+Massachusetts Institute of Technology
+1999
+programming-languages"]
+	66818 [label="Gordon Villy Cormack
+University of Manitoba
+1981
+programming-languages"]
+	97971 [label="Peter  Müller
+Fernuniversität Hagen
+2001
+programming-languages"]
+	71839 [label="Michael Dean Ernst
+University of Washington
+2000
+programming-languages"]
+	142873 [label="Martin  Odersky
+ETH Zürich
+1989
+programming-languages"]
+	71513 [label="Martin C. Rinard
+Stanford University
+1994
+programming-languages"]
+	69524 [label="Richard Jay Lipton
+Carnegie Mellon University
+1973
+programming-languages"]
+	13305 [label="Anthony Gervin Oettinger
+Harvard University
+1954
+programming-languages"]
+	61932 [label="Barbara Jane Huberman Liskov
+Stanford University
+1968
+programming-languages"]
+	80823 [label="Peter R. King
+nan
+D.
+programming-languages"]
+	97956 [label="Arnd  Poetzsch-Heffter
+Technische Universität München
+1991
+programming-languages"]
+	93863 [label="Gary Todd Leavens
+Massachusetts Institute of Technology
+1989
+programming-languages"]
+	50230 [label="David Samuel Notkin
+Carnegie Mellon University
+1984
+programming-languages"]
+	61847 [label="Niklaus Emil Wirth
+University of California, Berkeley
+1963
+programming-languages"]
+	50307 [label="Monica Sin-Ling Lam
+Carnegie Mellon University
+1987
+programming-languages"]
+	86340 [label="David Lorge Parnas
+Carnegie Mellon University
+1965
+programming-languages"]
+	18953 [label="Howard Hathaway Aiken
+Harvard University
+1939
+programming-languages"]
+	22145 [label="John  McCarthy
+Princeton University
+1951
+programming-languages"]
+	22779 [label="Manfred  Broy
+Technische Universität München
+1980
+programming-languages"]
+	21194 [label="Jürgen  Eickel
+Westfälische Wilhelms-Universität Münster
+1961
+programming-languages"]
+	67447 [label="William Edward Weihl
+Massachusetts Institute of Technology
+1984
+programming-languages"]
+	50067 [label="Arie Nicolaas Habermann
+Technische Universiteit Eindhoven
+1967
+programming-languages"]
+	10185 [label="Harry Douglas Huskey
+The Ohio State University
+1943
+programming-languages"]
+	61956 [label="Edward Albert Feigenbaum
+Carnegie Mellon University
+1960
+programming-languages"]
+	47159 [label="Hsiang-Tsung  Kung
+Carnegie Mellon University
+1974
+programming-languages"]
+	13112 [label="Alan Jay Perlis
+Massachusetts Institute of Technology
+1950
+programming-languages"]
+	90571 [label="Everard Mott Williams
+Yale University
+1939
+programming-languages"]
+	25248 [label="Emory Leon Chaffee
+Harvard University
+1911
+programming-languages"]
+	10290 [label="Donald Clayton Spencer
+University of Cambridge
+1939
+programming-languages"]
+	21232 [label="Friedrich Ludwig Bauer
+Ludwig-Maximilians-Universität München
+1951
+programming-languages"]
+	15253 [label="Heinrich Adolph Behnke
+Universität Hamburg
+1923
+programming-languages"]
+	45747 [label="Edsger Wybe Dijkstra
+Universiteit van Amsterdam
+1959
+programming-languages"]
+	10323 [label="Tibor  Radó
+University of Szeged
+1922
+programming-languages"]
+	87903 [label="Herbert Alexander Simon
+The University of Chicago
+1943
+programming-languages"]
+	18492 [label="Joseph Frederick Traub
+Columbia University
+1959
+programming-languages"]
+	1488 [label="Philip  Franklin
+Princeton University
+1921
+programming-languages"]
+	252402 [label="Francis Thomas McNamara
+Yale University
+1924
+programming-languages"]
+	141987 [label="George Washington Pierce
+Harvard University
+1900
+programming-languages"]
+	10463 [label="John Edensor Littlewood
+University of Cambridge
+1910
+programming-languages"]
+	17806 [label="G. H. (Godfrey Harold) Hardy
+University of Cambridge
+1903
+programming-languages"]
+	25129 [label="Fritz  Bopp
+Georg-August-Universität Göttingen
+1937
+programming-languages"]
+	36548 [label="Georg  Aumann
+Ludwig-Maximilians-Universität München
+1931
+programming-languages"]
+	7379 [label="Erich  Hecke
+Georg-August-Universität Göttingen
+1910
+programming-languages"]
+	59162 [label="Adriaan  van Wijngaarden
+Technische Universiteit Delft
+1945
+programming-languages"]
+	11321 [label="Frigyes (Frédéric) Riesz
+Eötvös Loránd University
+1902
+programming-languages"]
+	7488 [label="Leopold (Lipót) Fejér
+Eötvös Loránd University
+1902
+programming-languages"]
+	122119 [label="Harold Dwight Lasswell
+The University of Chicago
+1926
+programming-languages"]
+	122490 [label="Henry  Schultz
+Columbia University
+1925
+programming-languages"]
+	30091 [label="Henry Michael Foley
+University of Michigan
+1943
+programming-languages"]
+	67145 -> 252543
+	82100 -> 66895
+	25275 -> 66895
+	61959 -> 273183
+	66818 -> 111760
+	97971 -> 142874
+	71839 -> 142874
+	142873 -> 142874
+	71513 -> 103216
+	25275 -> 67145
+	69524 -> 82100
+	13305 -> 25275
+	61932 -> 61959
+	80823 -> 66818
+	97956 -> 97971
+	93863 -> 97971
+	50230 -> 71839
+	61847 -> 142873
+	50307 -> 71513
+	86340 -> 69524
+	18953 -> 13305
+	22145 -> 61932
+	22779 -> 97956
+	21194 -> 97956
+	67447 -> 93863
+	50067 -> 50230
+	10185 -> 61847
+	61956 -> 61847
+	47159 -> 50307
+	13112 -> 86340
+	90571 -> 86340
+	25248 -> 18953
+	10290 -> 22145
+	21232 -> 22779
+	15253 -> 21194
+	61932 -> 67447
+	45747 -> 50067
+	10323 -> 10185
+	87903 -> 61956
+	18492 -> 47159
+	1488 -> 13112
+	252402 -> 90571
+	141987 -> 25248
+	10463 -> 10290
+	17806 -> 10290
+	25129 -> 21232
+	36548 -> 21232
+	7379 -> 15253
+	59162 -> 45747
+	11321 -> 10323
+	7488 -> 10323
+	122119 -> 87903
+	122490 -> 87903
+	30091 -> 18492
+}

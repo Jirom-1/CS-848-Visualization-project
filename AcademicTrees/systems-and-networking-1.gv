@@ -1,0 +1,96 @@
+digraph "Academic Genealogy for systems-and-networking" {
+	73170 [label="Raouf Boutaba
+['']
+['D.']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	91384 [label="Tim Brecht
+['University of Toronto']
+['1994']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	70144 [label="Ian Goldberg
+['University of California, Berkeley']
+['2000']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	203875 [label="Sergey Gorbunov
+['Massachusetts Institute of Technology']
+['2015']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	145850 [label="Urs Hengartner
+['Carnegie Mellon University']
+['2005']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	73556 [label="Srinivasan Keshav
+['University of California, Berkeley']
+['1991']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	233022 [label="Ali Mashtizadeh
+['Stanford University']
+['2017']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	66870 [label="David Taylor
+['University of Waterloo']
+['1977']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	69919 [label="Richard Trefler
+['University of Texas at Austin']
+['1999']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	66942 [label="Paul Ward
+['University of Waterloo']
+['2002']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	66882 [label="Johnny Wong
+['University of California, Los Angeles']
+['1975']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	67136 [label="Songnian  Zhou
+University of California, Berkeley
+1987
+systems-and-networking"]
+	67451 [label="Eric Allen Brewer
+Massachusetts Institute of Technology
+1994
+systems-and-networking"]
+	133526 [label="Vinod  Vaikuntanathan
+Massachusetts Institute of Technology
+2008
+systems-and-networking"]
+	50087 [label="Peter Alfons Steenkiste
+Stanford University
+1987
+systems-and-networking"]
+	32850 [label="Domenico  Ferrari
+Politecnico di Milano
+1963
+systems-and-networking"]
+	61965 [label="David Folkman Mazières
+Massachusetts Institute of Technology
+2000
+systems-and-networking"]
+	66871 [label="David E. Morgan
+University of Waterloo
+1971
+systems-and-networking"]
+	69873 [label="E. Allen (Ernest) Emerson
+Harvard University
+1981
+systems-and-networking"]
+	66870 [label="David J. Taylor
+University of Waterloo
+1977
+systems-and-networking"]
+	70476 [label="Richard Robert Muntz
+Princeton University
+1969
+systems-and-networking"]
+	67136 -> 91384
+	67451 -> 70144
+	133526 -> 203875
+	50087 -> 145850
+	32850 -> 73556
+	61965 -> 233022
+	66871 -> 66870
+	69873 -> 69919
+	66870 -> 66942
+	70476 -> 66882
+}

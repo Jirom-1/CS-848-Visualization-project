@@ -1,0 +1,253 @@
+digraph "Academic Genealogy for health-informatics" {
+	167185 [label="Jesse Hoey
+['University of British Columbia']
+['2004']
+health-informatics" color=blue fillcolor=lightblue2 style=filled]
+	94793 [label="Ming Li
+['Cornell University']
+['1985']
+health-informatics" color=blue fillcolor=lightblue2 style=filled]
+	97099 [label="Pascal Poupart
+['University of Toronto']
+['2005']
+health-informatics" color=blue fillcolor=lightblue2 style=filled]
+	66882 [label="Johnny Wong
+['University of California, Los Angeles']
+['1975']
+health-informatics" color=blue fillcolor=lightblue2 style=filled]
+	72124 [label="James J. Little
+University of British Columbia
+1985
+health-informatics"]
+	10404 [label="Juris  Hartmanis
+California Institute of Technology
+1955
+health-informatics"]
+	72088 [label="Craig Edgar Boutilier
+University of Toronto
+1992
+health-informatics"]
+	70476 [label="Richard Robert Muntz
+Princeton University
+1969
+health-informatics"]
+	72085 [label="Robert James Woodham
+Massachusetts Institute of Technology
+1977
+health-informatics"]
+	10395 [label="Robert Palmer Dilworth
+California Institute of Technology
+1939
+health-informatics"]
+	5481 [label="Raymond  Reiter
+University of Michigan
+1967
+health-informatics"]
+	82027 [label="Edward Grady Coffman, Jr.
+University of California, Los Angeles
+1966
+health-informatics"]
+	61066 [label="Berthold Klaus Paul Horn
+Massachusetts Institute of Technology
+1970
+health-informatics"]
+	10385 [label="Morgan  Ward
+California Institute of Technology
+1928
+health-informatics"]
+	13812 [label="Harvey  Garner
+University of Michigan
+1958
+health-informatics"]
+	25275 [label="Richard Manning Karp
+Harvard University
+1959
+health-informatics"]
+	24334 [label="Leonard  Kleinrock
+Massachusetts Institute of Technology
+1963
+health-informatics"]
+	6869 [label="Marvin Lee Minsky
+Princeton University
+1954
+health-informatics"]
+	7868 [label="Eric Temple Bell
+Columbia University
+1912
+health-informatics"]
+	84481 [label="Norman Ross Scott
+University of Illinois at Urbana-Champaign
+1950
+health-informatics"]
+	13305 [label="Anthony Gervin Oettinger
+Harvard University
+1954
+health-informatics"]
+	65315 [label="Edward  Arthurs
+Massachusetts Institute of Technology
+1955
+health-informatics"]
+	8581 [label="Albert William Tucker
+Princeton University
+1932
+health-informatics"]
+	7611 [label="Frank Nelson Cole
+Harvard University
+1886
+health-informatics"]
+	37346 [label="Cassius Jackson Keyser
+Columbia University
+1902
+health-informatics"]
+	140183 [label="Lloyd Thomas Devore
+The Pennsylvania State University
+1933
+health-informatics"]
+	18953 [label="Howard Hathaway Aiken
+Harvard University
+1939
+health-informatics"]
+	10801 [label="William Kirby Linvill
+Massachusetts Institute of Technology
+1949
+health-informatics"]
+	7461 [label="Solomon  Lefschetz
+Clark University
+1911
+health-informatics"]
+	7401 [label="C. Felix (Christian) Klein
+Rheinische Friedrich-Wilhelms-Universität Bonn
+1868
+health-informatics"]
+	147676 [label="William Ross Ham
+The University of Chicago
+1909
+health-informatics"]
+	147677 [label="David Christie Duncan
+University of Michigan
+1924
+health-informatics"]
+	25248 [label="Emory Leon Chaffee
+Harvard University
+1911
+health-informatics"]
+	63061 [label="Ernst Adolph Guillemin
+Ludwig-Maximilians-Universität München
+1926
+health-informatics"]
+	7451 [label="William Edward Story
+Universität Leipzig
+1875
+health-informatics"]
+	7402 [label="Julius  Plücker
+Philipps-Universität Marburg
+1823
+health-informatics"]
+	19964 [label="Rudolf Otto Sigismund Lipschitz
+Universität Berlin
+1853
+health-informatics"]
+	72167 [label="Robert Andrews Millikan
+Columbia University
+1895
+health-informatics"]
+	148190 [label="Ora Stanley Duffendack
+Princeton University
+1922
+health-informatics"]
+	141987 [label="George Washington Pierce
+Harvard University
+1900
+health-informatics"]
+	31357 [label="Arnold Johannes Wilhelm Sommerfeld
+Universität Königsberg
+1891
+health-informatics"]
+	32858 [label="Carl Gottfried Neumann
+Universität Königsberg
+1856
+health-informatics"]
+	18589 [label="Wilhelm  Scheibner
+Martin-Luther-Universität Halle-Wittenberg
+1848
+health-informatics"]
+	29642 [label="Christian Ludwig Gerling
+Georg-August-Universität Göttingen
+1812
+health-informatics"]
+	17946 [label="Gustav Peter Lejeune Dirichlet
+Rheinische Friedrich-Wilhelms-Universität Bonn
+1827
+health-informatics"]
+	47064 [label="Martin  Ohm
+Friedrich-Alexander-Universität Erlangen-Nürnberg
+1811
+health-informatics"]
+	72170 [label="Albert Abraham Michelson
+nan
+D.
+health-informatics"]
+	148580 [label="Ogden  Rood
+nan
+nan
+health-informatics"]
+	147836 [label="Karl Taylor Compton
+Princeton University
+1912
+health-informatics"]
+	67041 [label="John  Trowbridge
+Harvard University
+1873
+health-informatics"]
+	7404 [label="C. L. Ferdinand (Carl Louis) Lindemann
+Friedrich-Alexander-Universität Erlangen-Nürnberg
+1873
+health-informatics"]
+	72124 -> 167185
+	10404 -> 94793
+	72088 -> 97099
+	70476 -> 66882
+	72085 -> 72124
+	10395 -> 10404
+	5481 -> 72088
+	82027 -> 70476
+	61066 -> 72085
+	10385 -> 10395
+	13812 -> 5481
+	25275 -> 5481
+	24334 -> 82027
+	6869 -> 61066
+	7868 -> 10385
+	84481 -> 13812
+	13305 -> 25275
+	65315 -> 24334
+	8581 -> 6869
+	7611 -> 7868
+	37346 -> 7868
+	140183 -> 84481
+	18953 -> 13305
+	10801 -> 65315
+	7461 -> 8581
+	7401 -> 7611
+	147676 -> 140183
+	147677 -> 140183
+	25248 -> 18953
+	63061 -> 10801
+	7451 -> 7461
+	7402 -> 7401
+	19964 -> 7401
+	72167 -> 147676
+	148190 -> 147677
+	141987 -> 25248
+	31357 -> 63061
+	32858 -> 7451
+	18589 -> 7451
+	29642 -> 7402
+	17946 -> 19964
+	47064 -> 19964
+	72170 -> 72167
+	148580 -> 72167
+	147836 -> 148190
+	67041 -> 141987
+	7404 -> 31357
+}

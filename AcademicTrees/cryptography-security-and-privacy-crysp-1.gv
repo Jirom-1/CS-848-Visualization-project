@@ -1,0 +1,70 @@
+digraph "Academic Genealogy for cryptography-security-and-privacy-crysp" {
+	218594 [label="Yousra Aafer 
+['Syracuse University']
+['2016']
+cryptography-security-and-privacy-crysp" color=blue fillcolor=lightblue2 style=filled]
+	67046 [label="N. Asokan
+['University of Waterloo']
+['1998']
+cryptography-security-and-privacy-crysp" color=blue fillcolor=lightblue2 style=filled]
+	70144 [label="Ian Goldberg
+['University of California, Berkeley']
+['2000']
+cryptography-security-and-privacy-crysp" color=blue fillcolor=lightblue2 style=filled]
+	203875 [label="Sergey Gorbunov
+['Massachusetts Institute of Technology']
+['2015']
+cryptography-security-and-privacy-crysp" color=blue fillcolor=lightblue2 style=filled]
+	206018 [label="Mohammad Hajiabadi
+['University of Victoria']
+['2016']
+cryptography-security-and-privacy-crysp" color=blue fillcolor=lightblue2 style=filled]
+	145850 [label="Urs Hengartner
+['Carnegie Mellon University']
+['2005']
+cryptography-security-and-privacy-crysp" color=blue fillcolor=lightblue2 style=filled]
+	33044 [label="Doug Stinson (retired)
+['University of Waterloo']
+['1981']
+cryptography-security-and-privacy-crysp" color=blue fillcolor=lightblue2 style=filled]
+	81699 [label="Wenliang  Du
+Purdue University
+2001
+cryptography-security-and-privacy-crysp"]
+	120682 [label="Michael   Waidner
+Karlsruher Institut für Technologie (KIT)
+1991
+cryptography-security-and-privacy-crysp"]
+	66819 [label="James P. Black
+University of Waterloo
+1982
+cryptography-security-and-privacy-crysp"]
+	67451 [label="Eric Allen Brewer
+Massachusetts Institute of Technology
+1994
+cryptography-security-and-privacy-crysp"]
+	133526 [label="Vinod  Vaikuntanathan
+Massachusetts Institute of Technology
+2008
+cryptography-security-and-privacy-crysp"]
+	72032 [label="Bruce M. Kapron
+University of Toronto
+1991
+cryptography-security-and-privacy-crysp"]
+	50087 [label="Peter Alfons Steenkiste
+Stanford University
+1987
+cryptography-security-and-privacy-crysp"]
+	33040 [label="Ronald C. Mullin
+University of Waterloo
+1964
+cryptography-security-and-privacy-crysp"]
+	81699 -> 218594
+	120682 -> 67046
+	66819 -> 67046
+	67451 -> 70144
+	133526 -> 203875
+	72032 -> 206018
+	50087 -> 145850
+	33040 -> 33044
+}

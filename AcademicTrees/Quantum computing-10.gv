@@ -1,0 +1,147 @@
+digraph "Academic Genealogy for Quantum computing" {
+	251553 [label="Shalev Ben-David
+['Massachusetts Institute of Technology']
+['2017']
+Quantum computing" color=blue fillcolor=lightblue2 style=filled]
+	81270 [label="Richard Cleve
+['University of Toronto']
+['1989']
+Quantum computing" color=blue fillcolor=lightblue2 style=filled]
+	75330 [label="John Watrous
+['University of Wisconsin-Madison']
+['1998']
+Quantum computing" color=blue fillcolor=lightblue2 style=filled]
+	109495 [label="Scott Joel Aaronson
+University of California, Berkeley
+2004
+Quantum computing"]
+	81229 [label="Charles Weill Rackoff
+Massachusetts Institute of Technology
+1974
+Quantum computing"]
+	11563 [label="C. Eric (Carl) Bach
+University of California, Berkeley
+1984
+Quantum computing"]
+	38686 [label="Umesh Virkumar Vazirani
+University of California, Berkeley
+1986
+Quantum computing"]
+	25184 [label="Albert Ronald da Silva Meyer
+Harvard University
+1972
+Quantum computing"]
+	13373 [label="Manuel  Blum
+Massachusetts Institute of Technology
+1964
+Quantum computing"]
+	13297 [label="Patrick Carl Fischer
+Massachusetts Institute of Technology
+1962
+Quantum computing"]
+	6869 [label="Marvin Lee Minsky
+Princeton University
+1954
+Quantum computing"]
+	8021 [label="Hartley  Rogers, Jr.
+Princeton University
+1952
+Quantum computing"]
+	8581 [label="Albert William Tucker
+Princeton University
+1932
+Quantum computing"]
+	8011 [label="Alonzo  Church
+Princeton University
+1927
+Quantum computing"]
+	7461 [label="Solomon  Lefschetz
+Clark University
+1911
+Quantum computing"]
+	805 [label="Oswald  Veblen
+The University of Chicago
+1903
+Quantum computing"]
+	7451 [label="William Edward Story
+Universität Leipzig
+1875
+Quantum computing"]
+	806 [label="E. H. (Eliakim Hastings) Moore
+Yale University
+1885
+Quantum computing"]
+	32858 [label="Carl Gottfried Neumann
+Universität Königsberg
+1856
+Quantum computing"]
+	18589 [label="Wilhelm  Scheibner
+Martin-Luther-Universität Halle-Wittenberg
+1848
+Quantum computing"]
+	7865 [label="H. A. (Hubert Anson) Newton
+Yale University
+1850
+Quantum computing"]
+	46967 [label="Otto  Hesse
+Universität Königsberg
+1840
+Quantum computing"]
+	57706 [label="Friedrich Julius Richelot
+Universität Königsberg
+1831
+Quantum computing"]
+	15635 [label="Carl Gustav Jacob Jacobi
+Humboldt-Universität zu Berlin
+1825
+Quantum computing"]
+	26995 [label="Michel  Chasles
+École Polytechnique
+1814
+Quantum computing"]
+	41423 [label="Enno Heeren Dirksen
+Georg-August-Universität Göttingen
+1820
+Quantum computing"]
+	17865 [label="Siméon Denis Poisson
+École Polytechnique
+1800
+Quantum computing"]
+	57659 [label="Johann Tobias Mayer
+Georg-August-Universität Göttingen
+1773
+Quantum computing"]
+	57667 [label="Bernhard Friedrich Thibaut
+Georg-August-Universität Göttingen
+1796
+Quantum computing"]
+	109495 -> 251553
+	81229 -> 81270
+	11563 -> 75330
+	38686 -> 109495
+	25184 -> 81229
+	13373 -> 11563
+	13373 -> 38686
+	13297 -> 25184
+	6869 -> 13373
+	8021 -> 13297
+	8581 -> 6869
+	8011 -> 8021
+	7461 -> 8581
+	805 -> 8011
+	7451 -> 7461
+	806 -> 805
+	32858 -> 7451
+	18589 -> 7451
+	7865 -> 806
+	46967 -> 32858
+	57706 -> 32858
+	15635 -> 18589
+	26995 -> 7865
+	15635 -> 46967
+	15635 -> 57706
+	41423 -> 15635
+	17865 -> 26995
+	57659 -> 41423
+	57667 -> 41423
+}

@@ -1,0 +1,175 @@
+digraph "Academic Genealogy for algorithms-and-complexity" {
+	251553 [label="Shalev Ben-David
+['Massachusetts Institute of Technology']
+['2017']
+algorithms-and-complexity" color=blue fillcolor=lightblue2 style=filled]
+	96437 [label="Therese Biedl
+['Rutgers University, New Brunswick']
+['1997']
+algorithms-and-complexity" color=blue fillcolor=lightblue2 style=filled]
+	162538 [label="Eric Blais
+['Carnegie Mellon University']
+['2012']
+algorithms-and-complexity" color=blue fillcolor=lightblue2 style=filled]
+	45379 [label="Dan Brown
+['Cornell University']
+['2000']
+algorithms-and-complexity" color=blue fillcolor=lightblue2 style=filled]
+	252543 [label="Trevor Brown
+['University of Toronto']
+['2017']
+algorithms-and-complexity" color=blue fillcolor=lightblue2 style=filled]
+	65073 [label="Jonathan Buss
+['Massachusetts Institute of Technology']
+['1986']
+algorithms-and-complexity" color=blue fillcolor=lightblue2 style=filled]
+	81270 [label="Richard Cleve
+['University of Toronto']
+['1989']
+algorithms-and-complexity" color=blue fillcolor=lightblue2 style=filled]
+	264772 [label="Gautam Kamath
+['Massachusetts Institute of Technology']
+['2018']
+algorithms-and-complexity" color=blue fillcolor=lightblue2 style=filled]
+	20521 [label="Lila Kari
+['Turun yliopisto']
+['1991']
+algorithms-and-complexity" color=blue fillcolor=lightblue2 style=filled]
+	141559 [label="Lap Chi Lau
+['University of Toronto']
+['2006']
+algorithms-and-complexity" color=blue fillcolor=lightblue2 style=filled]
+	94793 [label="Ming Li
+['Cornell University']
+['1985']
+algorithms-and-complexity" color=blue fillcolor=lightblue2 style=filled]
+	65035 [label="Anna Lubiw
+['University of Toronto']
+['1985']
+algorithms-and-complexity" color=blue fillcolor=lightblue2 style=filled]
+	65036 [label="Ian Munro
+['University of Toronto']
+['1971']
+algorithms-and-complexity" color=blue fillcolor=lightblue2 style=filled]
+	66900 [label="Naomi Nishimura
+['University of Toronto']
+['nto']
+algorithms-and-complexity" color=blue fillcolor=lightblue2 style=filled]
+	66895 [label="Prabhakar Ragde
+['University of California, Berkeley']
+['1986']
+algorithms-and-complexity" color=blue fillcolor=lightblue2 style=filled]
+	31748 [label="Jeffrey Shallit
+['University of California, Berkeley']
+['1983']
+algorithms-and-complexity" color=blue fillcolor=lightblue2 style=filled]
+	33044 [label="Doug Stinson
+['University of Waterloo']
+['1981']
+algorithms-and-complexity" color=blue fillcolor=lightblue2 style=filled]
+	75330 [label="John Watrous
+['University of Wisconsin-Madison']
+['1998']
+algorithms-and-complexity" color=blue fillcolor=lightblue2 style=filled]
+	109495 [label="Scott Joel Aaronson
+University of California, Berkeley
+2004
+algorithms-and-complexity"]
+	96436 [label="Endre  Boros
+Eötvös Loránd University
+1985
+algorithms-and-complexity"]
+	76794 [label="Ryan William O'Donnell
+Massachusetts Institute of Technology
+2003
+algorithms-and-complexity"]
+	36705 [label="David Bernard Shmoys
+University of California, Berkeley
+1984
+algorithms-and-complexity"]
+	67145 [label="Faith (Fich) Ellen
+University of California, Berkeley
+1982
+algorithms-and-complexity"]
+	64971 [label="Michael Fredric Sipser
+University of California, Berkeley
+1980
+algorithms-and-complexity"]
+	81229 [label="Charles Weill Rackoff
+Massachusetts Institute of Technology
+1974
+algorithms-and-complexity"]
+	139732 [label="Constantinos  Daskalakis
+University of California, Berkeley
+2008
+algorithms-and-complexity"]
+	20493 [label="Arto K. Salomaa
+Turun yliopisto
+1960
+algorithms-and-complexity"]
+	40420 [label="Michael Sean O'Brien Molloy
+Carnegie Mellon University
+1994
+algorithms-and-complexity"]
+	10404 [label="Juris  Hartmanis
+California Institute of Technology
+1955
+algorithms-and-complexity"]
+	16108 [label="Rudolf Anton Mathon
+University of Toronto
+1972
+algorithms-and-complexity"]
+	14011 [label="Stephen Arthur Cook
+Harvard University
+1966
+algorithms-and-complexity"]
+	42043 [label="Allan Bertram Borodin
+Cornell University
+1969
+algorithms-and-complexity"]
+	82100 [label="Avi  Wigderson
+Princeton University
+1983
+algorithms-and-complexity"]
+	25275 [label="Richard Manning Karp
+Harvard University
+1959
+algorithms-and-complexity"]
+	13373 [label="Manuel  Blum
+Massachusetts Institute of Technology
+1964
+algorithms-and-complexity"]
+	6595 [label="David M. Goldschmidt
+The University of Chicago
+1969
+algorithms-and-complexity"]
+	33040 [label="Ronald C. Mullin
+University of Waterloo
+1964
+algorithms-and-complexity"]
+	11563 [label="C. Eric (Carl) Bach
+University of California, Berkeley
+1984
+algorithms-and-complexity"]
+	109495 -> 251553
+	96436 -> 96437
+	76794 -> 162538
+	36705 -> 45379
+	67145 -> 252543
+	64971 -> 65073
+	81229 -> 81270
+	139732 -> 264772
+	20493 -> 20521
+	40420 -> 141559
+	10404 -> 94793
+	16108 -> 65035
+	14011 -> 65035
+	42043 -> 65036
+	67145 -> 66900
+	82100 -> 66895
+	25275 -> 66895
+	13373 -> 31748
+	6595 -> 31748
+	33040 -> 33044
+	11563 -> 75330
+}

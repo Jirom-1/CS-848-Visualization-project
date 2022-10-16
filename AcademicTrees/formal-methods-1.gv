@@ -1,0 +1,42 @@
+digraph "Academic Genealogy for formal-methods" {
+	66892 [label="Joanne Atlee
+['University of Maryland College Park']
+['1992']
+formal-methods" color=blue fillcolor=lightblue2 style=filled]
+	72132 [label="Nancy Day
+['University of British Columbia']
+['1998']
+formal-methods" color=blue fillcolor=lightblue2 style=filled]
+	69919 [label="Richard Trefler
+['University of Texas at Austin']
+['1999']
+formal-methods" color=blue fillcolor=lightblue2 style=filled]
+	121250 [label="Vijay Ganesh (Department of Electrical and Computer Engineering)
+['Stanford University']
+['2007']
+formal-methods" color=blue fillcolor=lightblue2 style=filled]
+	252767 [label="Derek Rayside (Department of Electrical and Computer Engineering)
+nan
+nan
+formal-methods" color=blue fillcolor=lightblue2 style=filled]
+	103306 [label="John Dennis Gannon, Jr.
+University of Toronto
+1975
+formal-methods"]
+	72125 [label="Jeffrey John Joyce
+University of Cambridge
+1990
+formal-methods"]
+	69873 [label="E. Allen (Ernest) Emerson
+Harvard University
+1981
+formal-methods"]
+	50263 [label="David L. Dill
+Carnegie Mellon University
+1987
+formal-methods"]
+	103306 -> 66892
+	72125 -> 72132
+	69873 -> 69919
+	50263 -> 121250
+}

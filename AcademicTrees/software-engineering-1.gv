@@ -1,0 +1,88 @@
+digraph "Academic Genealogy for software-engineering" {
+	227840 [label="Paulo Alencar
+['']
+['']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	66892 [label="Joanne Atlee
+['University of Maryland College Park']
+['1992']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	14473 [label="Daniel Berry
+['Brown University']
+['1974']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	66817 [label="Donald Cowan
+['University of Waterloo']
+['1965']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	72132 [label="Nancy Day
+['University of British Columbia']
+['1998']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	90655 [label="Michael Godfrey
+['University of Toronto']
+['1997']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	220043 [label="Shane McIntosh
+[\"Queen's University at Kingston\"]
+['2015']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	185328 [label="Chengnian Sun
+['National University of Singapore']
+['2013']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	69919 [label="Richard Trefler
+['University of Texas at Austin']
+['1999']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	103306 [label="John Dennis Gannon, Jr.
+University of Toronto
+1975
+software-engineering"]
+	15166 [label="Peter  Wegner
+University of London
+1968
+software-engineering"]
+	13683 [label="Clement Leo McGowan, III
+Cornell University
+1971
+software-engineering"]
+	15914 [label="Gerald  Berman
+University of Toronto
+1950
+software-engineering"]
+	72125 [label="Jeffrey John Joyce
+University of Cambridge
+1990
+software-engineering"]
+	67141 [label="Richard Craig Holt
+Cornell University
+1971
+software-engineering"]
+	90657 [label="Ahmed  Hassan
+University of Waterloo
+2005
+software-engineering"]
+	4794 [label="Yeneng  Sun
+University of Illinois at Urbana-Champaign
+1989
+software-engineering"]
+	72059 [label="Xiao  Luo
+University of Victoria
+1993
+software-engineering"]
+	69873 [label="E. Allen (Ernest) Emerson
+Harvard University
+1981
+software-engineering"]
+	103306 -> 66892
+	15166 -> 14473
+	13683 -> 14473
+	15914 -> 66817
+	72125 -> 72132
+	67141 -> 90655
+	90657 -> 220043
+	4794 -> 185328
+	72059 -> 185328
+	69873 -> 69919
+}

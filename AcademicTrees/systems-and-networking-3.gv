@@ -1,0 +1,178 @@
+digraph "Academic Genealogy for systems-and-networking" {
+	73170 [label="Raouf Boutaba
+['']
+['D.']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	91384 [label="Tim Brecht
+['University of Toronto']
+['1994']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	70144 [label="Ian Goldberg
+['University of California, Berkeley']
+['2000']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	203875 [label="Sergey Gorbunov
+['Massachusetts Institute of Technology']
+['2015']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	145850 [label="Urs Hengartner
+['Carnegie Mellon University']
+['2005']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	73556 [label="Srinivasan Keshav
+['University of California, Berkeley']
+['1991']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	233022 [label="Ali Mashtizadeh
+['Stanford University']
+['2017']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	66870 [label="David Taylor
+['University of Waterloo']
+['1977']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	69919 [label="Richard Trefler
+['University of Texas at Austin']
+['1999']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	66942 [label="Paul Ward
+['University of Waterloo']
+['2002']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	66882 [label="Johnny Wong
+['University of California, Los Angeles']
+['1975']
+systems-and-networking" color=blue fillcolor=lightblue2 style=filled]
+	67136 [label="Songnian  Zhou
+University of California, Berkeley
+1987
+systems-and-networking"]
+	67451 [label="Eric Allen Brewer
+Massachusetts Institute of Technology
+1994
+systems-and-networking"]
+	133526 [label="Vinod  Vaikuntanathan
+Massachusetts Institute of Technology
+2008
+systems-and-networking"]
+	50087 [label="Peter Alfons Steenkiste
+Stanford University
+1987
+systems-and-networking"]
+	32850 [label="Domenico  Ferrari
+Politecnico di Milano
+1963
+systems-and-networking"]
+	61965 [label="David Folkman Mazières
+Massachusetts Institute of Technology
+2000
+systems-and-networking"]
+	66871 [label="David E. Morgan
+University of Waterloo
+1971
+systems-and-networking"]
+	69873 [label="E. Allen (Ernest) Emerson
+Harvard University
+1981
+systems-and-networking"]
+	66870 [label="David J. Taylor
+University of Waterloo
+1977
+systems-and-networking"]
+	70476 [label="Richard Robert Muntz
+Princeton University
+1969
+systems-and-networking"]
+	67447 [label="William Edward Weihl
+Massachusetts Institute of Technology
+1984
+systems-and-networking"]
+	35879 [label="Shafrira  Goldwasser
+University of California, Berkeley
+1984
+systems-and-networking"]
+	40909 [label="John Leroy Hennessy
+State University of New York at Stony Brook
+1977
+systems-and-networking"]
+	158121 [label="Luigi  Dadda
+Politecnico di Milano
+1947
+systems-and-networking"]
+	61950 [label="M. Frans (Marinus) Kaashoek
+Vrije Universiteit Amsterdam
+1992
+systems-and-networking"]
+	66872 [label="Eric G. Manning
+University of Illinois at Urbana-Champaign
+1965
+systems-and-networking"]
+	50063 [label="Edmund Melson Clarke, Jr.
+Cornell University
+1976
+systems-and-networking"]
+	82027 [label="Edward Grady Coffman, Jr.
+University of California, Los Angeles
+1966
+systems-and-networking"]
+	61932 [label="Barbara Jane Huberman Liskov
+Stanford University
+1968
+systems-and-networking"]
+	13373 [label="Manuel  Blum
+Massachusetts Institute of Technology
+1964
+systems-and-networking"]
+	94545 [label="Richard Bruce Kieburtz
+University of Washington
+1961
+systems-and-networking"]
+	158188 [label="Ercole  Bottani
+Politecnico di Milano
+1922
+systems-and-networking"]
+	69777 [label="Andrew Stuart Tanenbaum
+University of California, Berkeley
+1971
+systems-and-networking"]
+	92718 [label="Sundaram  Seshu
+University of Illinois at Urbana-Champaign
+1955
+systems-and-networking"]
+	9041 [label="Robert Lee Constable
+University of Wisconsin-Madison
+1968
+systems-and-networking"]
+	24334 [label="Leonard  Kleinrock
+Massachusetts Institute of Technology
+1963
+systems-and-networking"]
+	67136 -> 91384
+	67451 -> 70144
+	133526 -> 203875
+	50087 -> 145850
+	32850 -> 73556
+	61965 -> 233022
+	66871 -> 66870
+	69873 -> 69919
+	66870 -> 66942
+	70476 -> 66882
+	32850 -> 67136
+	67447 -> 67451
+	35879 -> 133526
+	40909 -> 50087
+	158121 -> 32850
+	61950 -> 61965
+	66872 -> 66871
+	50063 -> 69873
+	66871 -> 66870
+	82027 -> 70476
+	61932 -> 67447
+	13373 -> 35879
+	94545 -> 40909
+	158188 -> 158121
+	69777 -> 61950
+	92718 -> 66872
+	9041 -> 50063
+	24334 -> 82027
+}

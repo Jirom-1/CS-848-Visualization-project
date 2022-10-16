@@ -1,0 +1,239 @@
+digraph "Academic Genealogy for data-systems" {
+	66869 [label="Charles Clarke
+['University of Waterloo']
+['1996']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	66818 [label="Gordon Cormack
+['University of Manitoba']
+['1981']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	102378 [label="Lukasz Golab (Dept. of Management Sciences)
+['University of Waterloo']
+['2006']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	125917 [label="Ihab Ilyas
+['Purdue University']
+['2004']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	0 [label="Jimmy Lin
+['Massachusetts Institute of Technology']
+['2004']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	66887 [label="Kenneth Salem
+['Princeton University']
+['1989']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	286451 [label="Semih Salihoglu
+['Stanford University']
+['2015']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	70807 [label="David Toman
+['Kansas State University']
+['1996']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	66879 [label="Frank Tompa
+['University of Toronto']
+['1974']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	66877 [label="Grant Weddell
+['University of Toronto']
+['1987']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	66818 [label="Gordon Villy Cormack
+University of Manitoba
+1981
+data-systems"]
+	80823 [label="Peter R. King
+nan
+D.
+data-systems"]
+	72390 [label="M. Tamer (Mehmet) Ozsu
+The Ohio State University
+1983
+data-systems"]
+	117312 [label="Walid G. Aref
+University of Maryland College Park
+1993
+data-systems"]
+	96256 [label="Ahmed Khalifa Elmagarmid
+The Ohio State University
+1985
+data-systems"]
+	176620 [label="Boris  Katz
+Lomonosov Moscow State University
+1975
+data-systems"]
+	70978 [label="Hector  Garcia-Molina
+Stanford University
+1979
+data-systems"]
+	70979 [label="Jennifer  Widom
+Cornell University
+1987
+data-systems"]
+	70371 [label="Jan Oskar Chomicki
+Rutgers University, New Brunswick
+1990
+data-systems"]
+	24934 [label="Calvin Carl Gotlieb
+University of Toronto
+1947
+data-systems"]
+	79993 [label="Stavros C. Christodoulakis
+University of Toronto
+1981
+data-systems"]
+	79360 [label="Bruce Warren Weide
+Carnegie Mellon University
+1979
+data-systems"]
+	41489 [label="Hanan  Samet
+Stanford University
+1975
+data-systems"]
+	76951 [label="Evgenii Mikhailovich Landis
+nan
+1953
+data-systems"]
+	70996 [label="Gio(vanni) Corrado Melchiore Wiederhold
+University of California, San Francisco
+1976
+data-systems"]
+	22781 [label="David  Gries
+Technische Universität München
+1966
+data-systems"]
+	70225 [label="Tomasz  Imielinski
+Polska Akademia Nauk
+1981
+data-systems"]
+	16275 [label="Eli Franklin Burton
+University of Toronto
+1910
+data-systems"]
+	66903 [label="Kenneth Clem Sevcik
+The University of Chicago
+1972
+data-systems"]
+	102419 [label="Michael Ian Shamos
+Yale University
+1978
+data-systems"]
+	23037 [label="Vinton Gray Cerf
+University of California, Los Angeles
+1972
+data-systems"]
+	55146 [label="Ivan Georgievich Petrovsky
+Lomonosov Moscow State University
+ity
+data-systems"]
+	76948 [label="Aleksandr Semenovich Kronrod
+nan
+1949
+data-systems"]
+	5709 [label="John Amsden Starkweather
+Northwestern University
+1955
+data-systems"]
+	21622 [label="Josef  Stoer
+Johannes Gutenberg-Universität Mainz
+1961
+data-systems"]
+	21232 [label="Friedrich Ludwig Bauer
+Ludwig-Maximilians-Universität München
+1951
+data-systems"]
+	70822 [label="Witold  Lipski, Jr.
+Polska Akademia Nauk
+1974
+data-systems"]
+	265395 [label="John Cunningham McLennan
+University of Toronto
+1900
+data-systems"]
+	79967 [label="Linus Edward Schrage
+Cornell University
+1966
+data-systems"]
+	69526 [label="David Paul Dobkin
+Harvard University
+1973
+data-systems"]
+	69930 [label="Gerald  Estrin
+University of Wisconsin-Madison
+1951
+data-systems"]
+	24109 [label="Dimitri Fedorowitsch Egorov
+Lomonosov Moscow State University
+1901
+data-systems"]
+	10479 [label="Nikolai Nikolayevich Luzin
+Lomonosov Moscow State University
+1915
+data-systems"]
+	16963 [label="Carl Porter Duncan
+Brown University
+1947
+data-systems"]
+	24762 [label="Klaus  Samelson
+Ludwig-Maximilians-Universität München
+1951
+data-systems"]
+	25129 [label="Fritz  Bopp
+Georg-August-Universität Göttingen
+1937
+data-systems"]
+	36548 [label="Georg  Aumann
+Ludwig-Maximilians-Universität München
+1931
+data-systems"]
+	22583 [label="Wiktor  Marek
+Uniwersytet Warszawski
+1968
+data-systems"]
+	79965 [label="William Laughlin Maxwell
+Cornell University
+1961
+data-systems"]
+	66818 -> 66869
+	80823 -> 66818
+	72390 -> 102378
+	117312 -> 125917
+	96256 -> 125917
+	176620 -> 0
+	70978 -> 66887
+	70979 -> 286451
+	70371 -> 70807
+	24934 -> 66879
+	79993 -> 66877
+	80823 -> 66818
+	79360 -> 72390
+	41489 -> 117312
+	76951 -> 176620
+	70996 -> 70978
+	22781 -> 70979
+	70225 -> 70371
+	16275 -> 24934
+	66903 -> 79993
+	102419 -> 79360
+	23037 -> 41489
+	55146 -> 76951
+	76948 -> 76951
+	5709 -> 70996
+	21622 -> 22781
+	21232 -> 22781
+	70822 -> 70225
+	265395 -> 16275
+	79967 -> 66903
+	69526 -> 102419
+	69930 -> 23037
+	24109 -> 55146
+	10479 -> 76948
+	16963 -> 5709
+	24762 -> 21622
+	21232 -> 21622
+	25129 -> 21232
+	36548 -> 21232
+	22583 -> 70822
+	79965 -> 79967
+}

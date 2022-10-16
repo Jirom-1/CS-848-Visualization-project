@@ -1,0 +1,58 @@
+digraph "Academic Genealogy for health-informatics" {
+	167185 [label="Jesse Hoey
+['University of British Columbia']
+['2004']
+health-informatics" color=blue fillcolor=lightblue2 style=filled]
+	94793 [label="Ming Li
+['Cornell University']
+['1985']
+health-informatics" color=blue fillcolor=lightblue2 style=filled]
+	97099 [label="Pascal Poupart
+['University of Toronto']
+['2005']
+health-informatics" color=blue fillcolor=lightblue2 style=filled]
+	66882 [label="Johnny Wong
+['University of California, Los Angeles']
+['1975']
+health-informatics" color=blue fillcolor=lightblue2 style=filled]
+	72124 [label="James J. Little
+University of British Columbia
+1985
+health-informatics"]
+	10404 [label="Juris  Hartmanis
+California Institute of Technology
+1955
+health-informatics"]
+	72088 [label="Craig Edgar Boutilier
+University of Toronto
+1992
+health-informatics"]
+	70476 [label="Richard Robert Muntz
+Princeton University
+1969
+health-informatics"]
+	72085 [label="Robert James Woodham
+Massachusetts Institute of Technology
+1977
+health-informatics"]
+	10395 [label="Robert Palmer Dilworth
+California Institute of Technology
+1939
+health-informatics"]
+	5481 [label="Raymond  Reiter
+University of Michigan
+1967
+health-informatics"]
+	82027 [label="Edward Grady Coffman, Jr.
+University of California, Los Angeles
+1966
+health-informatics"]
+	72124 -> 167185
+	10404 -> 94793
+	72088 -> 97099
+	70476 -> 66882
+	72085 -> 72124
+	10395 -> 10404
+	5481 -> 72088
+	82027 -> 70476
+}

@@ -1,0 +1,175 @@
+digraph "Academic Genealogy for software-engineering" {
+	227840 [label="Paulo Alencar
+['']
+['']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	66892 [label="Joanne Atlee
+['University of Maryland College Park']
+['1992']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	14473 [label="Daniel Berry
+['Brown University']
+['1974']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	66817 [label="Donald Cowan
+['University of Waterloo']
+['1965']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	72132 [label="Nancy Day
+['University of British Columbia']
+['1998']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	90655 [label="Michael Godfrey
+['University of Toronto']
+['1997']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	220043 [label="Shane McIntosh
+[\"Queen's University at Kingston\"]
+['2015']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	185328 [label="Chengnian Sun
+['National University of Singapore']
+['2013']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	69919 [label="Richard Trefler
+['University of Texas at Austin']
+['1999']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	103306 [label="John Dennis Gannon, Jr.
+University of Toronto
+1975
+software-engineering"]
+	15166 [label="Peter  Wegner
+University of London
+1968
+software-engineering"]
+	13683 [label="Clement Leo McGowan, III
+Cornell University
+1971
+software-engineering"]
+	15914 [label="Gerald  Berman
+University of Toronto
+1950
+software-engineering"]
+	72125 [label="Jeffrey John Joyce
+University of Cambridge
+1990
+software-engineering"]
+	67141 [label="Richard Craig Holt
+Cornell University
+1971
+software-engineering"]
+	90657 [label="Ahmed  Hassan
+University of Waterloo
+2005
+software-engineering"]
+	4794 [label="Yeneng  Sun
+University of Illinois at Urbana-Champaign
+1989
+software-engineering"]
+	72059 [label="Xiao  Luo
+University of Victoria
+1993
+software-engineering"]
+	69873 [label="E. Allen (Ernest) Emerson
+Harvard University
+1981
+software-engineering"]
+	13815 [label="James Jay Horning
+Stanford University
+1969
+software-engineering"]
+	143090 [label="Maurice Vincent Wilkes
+University of Cambridge
+1937
+software-engineering"]
+	10404 [label="Juris  Hartmanis
+California Institute of Technology
+1955
+software-engineering"]
+	12555 [label="H. S. M. (Harold Scott MacDonald) Coxeter
+University of Cambridge
+1931
+software-engineering"]
+	86294 [label="Michael J. C. Gordon
+The University of Edinburgh
+1973
+software-engineering"]
+	88103 [label="Alan Cary Shaw
+Stanford University
+1968
+software-engineering"]
+	4787 [label="Peter Albert Loeb
+Stanford University
+1965
+software-engineering"]
+	72031 [label="Jon C. Muzio
+nan
+D.
+software-engineering"]
+	50063 [label="Edmund Melson Clarke, Jr.
+Cornell University
+1976
+software-engineering"]
+	13120 [label="Jerome Arthur Feldman
+Carnegie Mellon University
+1964
+software-engineering"]
+	147661 [label="John Ashworth Ratcliffe
+University of Cambridge
+1924
+software-engineering"]
+	10395 [label="Robert Palmer Dilworth
+California Institute of Technology
+1939
+software-engineering"]
+	13135 [label="Henry Frederick Baker
+University of Cambridge
+dge
+software-engineering"]
+	102542 [label="Rodney Martineau Burstall
+University of Birmingham
+1966
+software-engineering"]
+	88102 [label="William Frederick Miller
+Purdue University
+1956
+software-engineering"]
+	8310 [label="Halsey Lawrence Royden, Jr.
+Harvard University
+1951
+software-engineering"]
+	9041 [label="Robert Lee Constable
+University of Wisconsin-Madison
+1968
+software-engineering"]
+	103306 -> 66892
+	15166 -> 14473
+	13683 -> 14473
+	15914 -> 66817
+	72125 -> 72132
+	67141 -> 90655
+	90657 -> 220043
+	4794 -> 185328
+	72059 -> 185328
+	69873 -> 69919
+	13815 -> 103306
+	143090 -> 15166
+	15166 -> 13683
+	10404 -> 13683
+	12555 -> 15914
+	86294 -> 72125
+	88103 -> 67141
+	67141 -> 90657
+	4787 -> 4794
+	72031 -> 72059
+	50063 -> 69873
+	13120 -> 13815
+	147661 -> 143090
+	10395 -> 10404
+	13135 -> 12555
+	102542 -> 86294
+	88102 -> 88103
+	8310 -> 4787
+	9041 -> 50063
+}

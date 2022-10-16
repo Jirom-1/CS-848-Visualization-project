@@ -1,0 +1,97 @@
+digraph "Academic Genealogy for data-systems" {
+	66869 [label="Charles Clarke
+['University of Waterloo']
+['1996']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	66818 [label="Gordon Cormack
+['University of Manitoba']
+['1981']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	102378 [label="Lukasz Golab (Dept. of Management Sciences)
+['University of Waterloo']
+['2006']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	125917 [label="Ihab Ilyas
+['Purdue University']
+['2004']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	0 [label="Jimmy Lin
+['Massachusetts Institute of Technology']
+['2004']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	66887 [label="Kenneth Salem
+['Princeton University']
+['1989']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	286451 [label="Semih Salihoglu
+['Stanford University']
+['2015']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	70807 [label="David Toman
+['Kansas State University']
+['1996']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	66879 [label="Frank Tompa
+['University of Toronto']
+['1974']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	66877 [label="Grant Weddell
+['University of Toronto']
+['1987']
+data-systems" color=blue fillcolor=lightblue2 style=filled]
+	66818 [label="Gordon Villy Cormack
+University of Manitoba
+1981
+data-systems"]
+	80823 [label="Peter R. King
+nan
+D.
+data-systems"]
+	72390 [label="M. Tamer (Mehmet) Ozsu
+The Ohio State University
+1983
+data-systems"]
+	117312 [label="Walid G. Aref
+University of Maryland College Park
+1993
+data-systems"]
+	96256 [label="Ahmed Khalifa Elmagarmid
+The Ohio State University
+1985
+data-systems"]
+	176620 [label="Boris  Katz
+Lomonosov Moscow State University
+1975
+data-systems"]
+	70978 [label="Hector  Garcia-Molina
+Stanford University
+1979
+data-systems"]
+	70979 [label="Jennifer  Widom
+Cornell University
+1987
+data-systems"]
+	70371 [label="Jan Oskar Chomicki
+Rutgers University, New Brunswick
+1990
+data-systems"]
+	24934 [label="Calvin Carl Gotlieb
+University of Toronto
+1947
+data-systems"]
+	79993 [label="Stavros C. Christodoulakis
+University of Toronto
+1981
+data-systems"]
+	66818 -> 66869
+	80823 -> 66818
+	72390 -> 102378
+	117312 -> 125917
+	96256 -> 125917
+	176620 -> 0
+	70978 -> 66887
+	70979 -> 286451
+	70371 -> 70807
+	24934 -> 66879
+	79993 -> 66877
+}

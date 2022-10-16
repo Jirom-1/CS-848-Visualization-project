@@ -1,0 +1,482 @@
+digraph "Academic Genealogy for software-engineering" {
+	227840 [label="Paulo Alencar
+['']
+['']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	66892 [label="Joanne Atlee
+['University of Maryland College Park']
+['1992']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	14473 [label="Daniel Berry
+['Brown University']
+['1974']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	66817 [label="Donald Cowan
+['University of Waterloo']
+['1965']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	72132 [label="Nancy Day
+['University of British Columbia']
+['1998']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	90655 [label="Michael Godfrey
+['University of Toronto']
+['1997']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	220043 [label="Shane McIntosh
+[\"Queen's University at Kingston\"]
+['2015']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	185328 [label="Chengnian Sun
+['National University of Singapore']
+['2013']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	69919 [label="Richard Trefler
+['University of Texas at Austin']
+['1999']
+software-engineering" color=blue fillcolor=lightblue2 style=filled]
+	103306 [label="John Dennis Gannon, Jr.
+University of Toronto
+1975
+software-engineering"]
+	15166 [label="Peter  Wegner
+University of London
+1968
+software-engineering"]
+	13683 [label="Clement Leo McGowan, III
+Cornell University
+1971
+software-engineering"]
+	15914 [label="Gerald  Berman
+University of Toronto
+1950
+software-engineering"]
+	72125 [label="Jeffrey John Joyce
+University of Cambridge
+1990
+software-engineering"]
+	67141 [label="Richard Craig Holt
+Cornell University
+1971
+software-engineering"]
+	90657 [label="Ahmed  Hassan
+University of Waterloo
+2005
+software-engineering"]
+	4794 [label="Yeneng  Sun
+University of Illinois at Urbana-Champaign
+1989
+software-engineering"]
+	72059 [label="Xiao  Luo
+University of Victoria
+1993
+software-engineering"]
+	69873 [label="E. Allen (Ernest) Emerson
+Harvard University
+1981
+software-engineering"]
+	13815 [label="James Jay Horning
+Stanford University
+1969
+software-engineering"]
+	143090 [label="Maurice Vincent Wilkes
+University of Cambridge
+1937
+software-engineering"]
+	10404 [label="Juris  Hartmanis
+California Institute of Technology
+1955
+software-engineering"]
+	12555 [label="H. S. M. (Harold Scott MacDonald) Coxeter
+University of Cambridge
+1931
+software-engineering"]
+	86294 [label="Michael J. C. Gordon
+The University of Edinburgh
+1973
+software-engineering"]
+	88103 [label="Alan Cary Shaw
+Stanford University
+1968
+software-engineering"]
+	4787 [label="Peter Albert Loeb
+Stanford University
+1965
+software-engineering"]
+	72031 [label="Jon C. Muzio
+nan
+D.
+software-engineering"]
+	50063 [label="Edmund Melson Clarke, Jr.
+Cornell University
+1976
+software-engineering"]
+	13120 [label="Jerome Arthur Feldman
+Carnegie Mellon University
+1964
+software-engineering"]
+	147661 [label="John Ashworth Ratcliffe
+University of Cambridge
+1924
+software-engineering"]
+	10395 [label="Robert Palmer Dilworth
+California Institute of Technology
+1939
+software-engineering"]
+	13135 [label="Henry Frederick Baker
+University of Cambridge
+dge
+software-engineering"]
+	102542 [label="Rodney Martineau Burstall
+University of Birmingham
+1966
+software-engineering"]
+	88102 [label="William Frederick Miller
+Purdue University
+1956
+software-engineering"]
+	8310 [label="Halsey Lawrence Royden, Jr.
+Harvard University
+1951
+software-engineering"]
+	9041 [label="Robert Lee Constable
+University of Wisconsin-Madison
+1968
+software-engineering"]
+	13112 [label="Alan Jay Perlis
+Massachusetts Institute of Technology
+1950
+software-engineering"]
+	112651 [label="Edward Victor Appleton
+University of Cambridge
+1913
+software-engineering"]
+	10385 [label="Morgan  Ward
+California Institute of Technology
+1928
+software-engineering"]
+	7824 [label="Arthur  Cayley
+Universiteit Leiden and University College Dublin and University of Oxford
+1875
+software-engineering"]
+	133637 [label="Norman Alfred Dudley
+University of Birmingham
+1955
+software-engineering"]
+	133638 [label="K. Brian Haley
+University of Birmingham
+1962
+software-engineering"]
+	128356 [label="Robert Leroy Platzman
+The University of Chicago
+1942
+software-engineering"]
+	1430 [label="Lars Valerian Ahlfors
+Helsingin yliopisto
+1932
+software-engineering"]
+	8012 [label="Stephen Cole Kleene
+Princeton University
+1934
+software-engineering"]
+	1488 [label="Philip  Franklin
+Princeton University
+1921
+software-engineering"]
+	50699 [label="Ernest  Rutherford
+University of Cambridge
+dge
+software-engineering"]
+	50701 [label="Joseph John Thomson
+University of Cambridge
+1883
+software-engineering"]
+	7868 [label="Eric Temple Bell
+Columbia University
+1912
+software-engineering"]
+	42016 [label="William  Hopkins
+University of Cambridge
+1830
+software-engineering"]
+	170791 [label="F.  Benson
+nan
+ee
+software-engineering"]
+	170790 [label="Elsie Anna Grace Knowles
+Friedrich-Schiller-Universität Jena
+1932
+software-engineering"]
+	126428 [label="James  Franck
+Humboldt-Universität zu Berlin
+1906
+software-engineering"]
+	18689 [label="Rolf Herman Nevanlinna
+Helsingin yliopisto
+1919
+software-engineering"]
+	782 [label="Ernst Leonard Lindelöf
+Helsingin yliopisto
+1893
+software-engineering"]
+	8011 [label="Alonzo  Church
+Princeton University
+1927
+software-engineering"]
+	805 [label="Oswald  Veblen
+The University of Chicago
+1903
+software-engineering"]
+	101979 [label="John William Strutt (Lord Rayleigh)
+University of Cambridge
+1868
+software-engineering"]
+	7611 [label="Frank Nelson Cole
+Harvard University
+1886
+software-engineering"]
+	37346 [label="Cassius Jackson Keyser
+Columbia University
+1902
+software-engineering"]
+	102043 [label="Adam  Sedgwick
+University of Cambridge
+1811
+software-engineering"]
+	181026 [label="Mathilde Maria Johanna Themis Vaerting
+Rheinische Friedrich-Wilhelms-Universität Bonn
+1911
+software-engineering"]
+	124661 [label="Emil Gabriel Warburg
+Universität Berlin
+1867
+software-engineering"]
+	62397 [label="Paul Karl Ludwig Drude
+Georg-August-Universität Göttingen
+1887
+software-engineering"]
+	143865 [label="Robert Hjalmar Mellin
+Helsingin yliopisto
+1882
+software-engineering"]
+	806 [label="E. H. (Eliakim Hastings) Moore
+Yale University
+1885
+software-engineering"]
+	101929 [label="Edward John Routh
+University of Cambridge
+1857
+software-engineering"]
+	102483 [label="George Gabriel Stokes
+University of Cambridge
+1841
+software-engineering"]
+	7401 [label="C. Felix (Christian) Klein
+Rheinische Friedrich-Wilhelms-Universität Bonn
+1868
+software-engineering"]
+	102036 [label="Thomas  Jones
+University of Cambridge
+1782
+software-engineering"]
+	102037 [label="John  Dawson
+nan
+nan
+software-engineering"]
+	51360 [label="Adolf  Dyroff
+Bayerische Julius-Maximilians-Universität Würzburg
+1892
+software-engineering"]
+	123978 [label="Heinrich Gustav Magnus
+Universität Berlin
+1827
+software-engineering"]
+	123973 [label="August Adolph Eduard Eberhard Kundt
+Universität Berlin
+1864
+software-engineering"]
+	45011 [label="Woldemar  Voigt
+Universität Königsberg
+1874
+software-engineering"]
+	19770 [label="Gösta Magnus Mittag-Leffler
+Uppsala Universitet
+1872
+software-engineering"]
+	7865 [label="H. A. (Hubert Anson) Newton
+Yale University
+1850
+software-engineering"]
+	129420 [label="Isaac  Todhunter
+University of Cambridge
+1848
+software-engineering"]
+	7402 [label="Julius  Plücker
+Philipps-Universität Marburg
+1823
+software-engineering"]
+	19964 [label="Rudolf Otto Sigismund Lipschitz
+Universität Berlin
+1853
+software-engineering"]
+	133301 [label="Thomas  Postlethwaite
+University of Cambridge
+1756
+software-engineering"]
+	103066 [label="John  Cranke
+University of Cambridge
+1774
+software-engineering"]
+	129421 [label="Edward  Waring
+University of Cambridge
+1760
+software-engineering"]
+	129422 [label="Henry  Bracken
+Universiteit Leiden
+den
+software-engineering"]
+	123999 [label="Eilhard  Mitscherlich
+Georg-August-Universität Göttingen
+1814
+software-engineering"]
+	18600 [label="Franz Ernst Neumann
+Universität Berlin
+1825
+software-engineering"]
+	24894 [label="Göran  Dillner
+Uppsala Universitet
+1863
+software-engineering"]
+	26995 [label="Michel  Chasles
+École Polytechnique
+1814
+software-engineering"]
+	29642 [label="Christian Ludwig Gerling
+Georg-August-Universität Göttingen
+1812
+software-engineering"]
+	17946 [label="Gustav Peter Lejeune Dirichlet
+Rheinische Friedrich-Wilhelms-Universität Bonn
+1827
+software-engineering"]
+	47064 [label="Martin  Ohm
+Friedrich-Alexander-Universität Erlangen-Nürnberg
+1811
+software-engineering"]
+	133367 [label="Stephen  Whisson
+University of Cambridge
+1742
+software-engineering"]
+	101856 [label="Herman  Boerhaave
+Universiteit Leiden
+1690
+software-engineering"]
+	123979 [label="Friedrich  Stromeyer
+Georg-August-Universität Göttingen
+1800
+software-engineering"]
+	66319 [label="Christian Samuel Weiss
+Universität Leipzig
+1801
+software-engineering"]
+	167682 [label="Carl Johan  Malmsten
+Uppsala Universitet
+1839
+software-engineering"]
+	103306 -> 66892
+	15166 -> 14473
+	13683 -> 14473
+	15914 -> 66817
+	72125 -> 72132
+	67141 -> 90655
+	90657 -> 220043
+	4794 -> 185328
+	72059 -> 185328
+	69873 -> 69919
+	13815 -> 103306
+	143090 -> 15166
+	15166 -> 13683
+	10404 -> 13683
+	12555 -> 15914
+	86294 -> 72125
+	88103 -> 67141
+	67141 -> 90657
+	4787 -> 4794
+	72031 -> 72059
+	50063 -> 69873
+	13120 -> 13815
+	147661 -> 143090
+	10395 -> 10404
+	13135 -> 12555
+	102542 -> 86294
+	88102 -> 88103
+	8310 -> 4787
+	9041 -> 50063
+	13112 -> 13120
+	112651 -> 147661
+	10385 -> 10395
+	7824 -> 13135
+	133637 -> 102542
+	133638 -> 102542
+	128356 -> 88102
+	1430 -> 8310
+	8012 -> 9041
+	1488 -> 13112
+	50699 -> 112651
+	50701 -> 112651
+	7868 -> 10385
+	42016 -> 7824
+	170791 -> 133637
+	170790 -> 133637
+	126428 -> 128356
+	18689 -> 1430
+	782 -> 1430
+	8011 -> 8012
+	805 -> 1488
+	50701 -> 50699
+	101979 -> 50701
+	7611 -> 7868
+	37346 -> 7868
+	102043 -> 42016
+	181026 -> 170790
+	124661 -> 126428
+	62397 -> 126428
+	782 -> 18689
+	143865 -> 782
+	805 -> 8011
+	806 -> 805
+	101929 -> 101979
+	102483 -> 101979
+	7401 -> 7611
+	102036 -> 102043
+	102037 -> 102043
+	51360 -> 181026
+	123978 -> 124661
+	123973 -> 124661
+	45011 -> 62397
+	19770 -> 143865
+	7865 -> 806
+	42016 -> 101929
+	129420 -> 101929
+	42016 -> 102483
+	7402 -> 7401
+	19964 -> 7401
+	133301 -> 102036
+	103066 -> 102036
+	129421 -> 102037
+	129422 -> 102037
+	123999 -> 123978
+	123978 -> 123973
+	18600 -> 45011
+	24894 -> 19770
+	26995 -> 7865
+	42016 -> 129420
+	29642 -> 7402
+	17946 -> 19964
+	47064 -> 19964
+	133367 -> 133301
+	101856 -> 129422
+	123979 -> 123999
+	66319 -> 18600
+	167682 -> 24894
+}

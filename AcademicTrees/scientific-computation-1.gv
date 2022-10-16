@@ -1,0 +1,61 @@
+digraph "Academic Genealogy for scientific-computation" {
+	147355 [label="Christopher Batty
+['University of British Columbia']
+['2010']
+scientific-computation" color=blue fillcolor=lightblue2 style=filled]
+	66894 [label="Peter Forsyth
+['University of Western Ontario']
+['1979']
+scientific-computation" color=blue fillcolor=lightblue2 style=filled]
+	50835 [label="Alan George
+['Stanford University']
+['1971']
+scientific-computation" color=blue fillcolor=lightblue2 style=filled]
+	87911 [label="George Labahn
+['University of Alberta']
+['1988']
+scientific-computation" color=blue fillcolor=lightblue2 style=filled]
+	65049 [label="Anita Layton (Cross appointed from the Department of Applied Mathematics)
+['University of Toronto']
+['2001']
+scientific-computation" color=blue fillcolor=lightblue2 style=filled]
+	66915 [label="Yuying Li
+['University of Waterloo']
+['1988']
+scientific-computation" color=blue fillcolor=lightblue2 style=filled]
+	70795 [label="Robert  Bridson
+Stanford University
+2003
+scientific-computation"]
+	68238 [label="Henning  Rasmussen
+University of Queensland
+1968
+scientific-computation"]
+	4319 [label="George Elmer Forsythe
+Brown University
+1941
+scientific-computation"]
+	72398 [label="Stanley  Cabay
+University of Toronto
+1971
+scientific-computation"]
+	59043 [label="Kenneth Ronald Jackson
+University of Toronto
+1978
+scientific-computation"]
+	65023 [label="Christina  Christara
+nan
+D.
+scientific-computation"]
+	42579 [label="Andrew Roger Conn
+University of Waterloo
+1971
+scientific-computation"]
+	70795 -> 147355
+	68238 -> 66894
+	4319 -> 50835
+	72398 -> 87911
+	59043 -> 65049
+	65023 -> 65049
+	42579 -> 66915
+}

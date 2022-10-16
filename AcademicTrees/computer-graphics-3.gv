@@ -1,0 +1,68 @@
+digraph "Academic Genealogy for computer-graphics" {
+	147355 [label="Christopher Batty
+['University of British Columbia']
+['2010']
+computer-graphics" color=blue fillcolor=lightblue2 style=filled]
+	66906 [label="William Cowan
+['McGill University']
+['1976']
+computer-graphics" color=blue fillcolor=lightblue2 style=filled]
+	78067 [label="Craig Kaplan
+['University of Washington']
+['2002']
+computer-graphics" color=blue fillcolor=lightblue2 style=filled]
+	71953 [label="Stephen Mann
+['University of Washington']
+['1992']
+computer-graphics" color=blue fillcolor=lightblue2 style=filled]
+	70795 [label="Robert  Bridson
+Stanford University
+2003
+computer-graphics"]
+	128095 [label="Martin J. Zuckermann
+University of Oxford
+1963
+computer-graphics"]
+	50412 [label="David Henry Salesin
+Stanford University
+1991
+computer-graphics"]
+	33763 [label="Anthony David DeRose
+University of California, Berkeley
+1985
+computer-graphics"]
+	36653 [label="Ronald Paul Fedkiw
+University of California, Los Angeles
+1996
+computer-graphics"]
+	39940 [label="Leonidas John (Ioannis) Guibas
+Stanford University
+1976
+computer-graphics"]
+	50070 [label="Brian Andrew Barsky
+University of Utah
+1981
+computer-graphics"]
+	11645 [label="Stanley Joel Osher
+New York University
+1966
+computer-graphics"]
+	10416 [label="Donald Ervin Knuth
+California Institute of Technology
+1963
+computer-graphics"]
+	16454 [label="Richard Franklin Riesenfeld
+Syracuse University
+1973
+computer-graphics"]
+	70795 -> 147355
+	128095 -> 66906
+	50412 -> 78067
+	33763 -> 71953
+	36653 -> 70795
+	39940 -> 50412
+	50070 -> 33763
+	11645 -> 36653
+	10416 -> 39940
+	16454 -> 50070
+}

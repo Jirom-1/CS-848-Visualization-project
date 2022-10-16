@@ -1,0 +1,866 @@
+digraph "Academic Genealogy for artificial-intelligence-and-machine-learning" {
+	39437 [label="Yuri Boykov
+['Cornell University']
+['1996']
+artificial-intelligence-and-machine-learning" color=blue fillcolor=lightblue2 style=filled]
+	45379 [label="Dan Brown
+['Cornell University']
+['2000']
+artificial-intelligence-and-machine-learning" color=blue fillcolor=lightblue2 style=filled]
+	279263 [label="Wenhu Chen
+['University of California, Santa Barbara']
+['2021']
+artificial-intelligence-and-machine-learning" color=blue fillcolor=lightblue2 style=filled]
+	58650 [label="Robin Cohen
+['University of Toronto']
+['1983']
+artificial-intelligence-and-machine-learning" color=blue fillcolor=lightblue2 style=filled]
+	167185 [label="Jesse Hoey
+['University of British Columbia']
+['2004']
+artificial-intelligence-and-machine-learning" color=blue fillcolor=lightblue2 style=filled]
+	264772 [label="Gautam Kamath
+['Massachusetts Institute of Technology']
+['2018']
+artificial-intelligence-and-machine-learning" color=blue fillcolor=lightblue2 style=filled]
+	119359 [label="Kate Larson
+['Carnegie Mellon University']
+['2004']
+artificial-intelligence-and-machine-learning" color=blue fillcolor=lightblue2 style=filled]
+	0 [label="Jimmy Lin
+['Massachusetts Institute of Technology']
+['2004']
+artificial-intelligence-and-machine-learning" color=blue fillcolor=lightblue2 style=filled]
+	131052 [label="Richard Mann
+['University of Toronto']
+['1997']
+artificial-intelligence-and-machine-learning" color=blue fillcolor=lightblue2 style=filled]
+	97099 [label="Pascal Poupart
+['University of Toronto']
+['2005']
+artificial-intelligence-and-machine-learning" color=blue fillcolor=lightblue2 style=filled]
+	73583 [label="Olga Veksler
+['Cornell University']
+['1999']
+artificial-intelligence-and-machine-learning" color=blue fillcolor=lightblue2 style=filled]
+	254910 [label="Hongyang Zhang
+['Carnegie Mellon University']
+['2019']
+artificial-intelligence-and-machine-learning" color=blue fillcolor=lightblue2 style=filled]
+	4759 [label="David Clay Heath
+University of Illinois at Urbana-Champaign
+1969
+artificial-intelligence-and-machine-learning"]
+	36705 [label="David Bernard Shmoys
+University of California, Berkeley
+1984
+artificial-intelligence-and-machine-learning"]
+	279264 [label="Xifeng  Yan
+University of Illinois at Urbana-Champaign
+2006
+artificial-intelligence-and-machine-learning"]
+	217154 [label="William Yang  Wang
+Carnegie Mellon University
+2016
+artificial-intelligence-and-machine-learning"]
+	8755 [label="(Charles) Raymond  Perrault
+University of Michigan
+1975
+artificial-intelligence-and-machine-learning"]
+	72124 [label="James J. Little
+University of British Columbia
+1985
+artificial-intelligence-and-machine-learning"]
+	139732 [label="Constantinos  Daskalakis
+University of California, Berkeley
+2008
+artificial-intelligence-and-machine-learning"]
+	88145 [label="Tuomas Wilhelm Sandholm
+University of Massachusetts Amherst
+1996
+artificial-intelligence-and-machine-learning"]
+	176620 [label="Boris  Katz
+Lomonosov Moscow State University
+1975
+artificial-intelligence-and-machine-learning"]
+	11836 [label="Allan D. Jepson
+California Institute of Technology
+1981
+artificial-intelligence-and-machine-learning"]
+	72088 [label="Craig Edgar Boutilier
+University of Toronto
+1992
+artificial-intelligence-and-machine-learning"]
+	71514 [label="Ramin  Zabih
+Stanford University
+1994
+artificial-intelligence-and-machine-learning"]
+	148432 [label="Maria-Florina Nina Balcan
+Carnegie Mellon University
+2008
+artificial-intelligence-and-machine-learning"]
+	132986 [label="David P. Woodruff
+Massachusetts Institute of Technology
+2007
+artificial-intelligence-and-machine-learning"]
+	4758 [label="Frank Bardsley Knight
+Princeton University
+1959
+artificial-intelligence-and-machine-learning"]
+	25276 [label="Eugene Leighton Lawler
+Harvard University
+1963
+artificial-intelligence-and-machine-learning"]
+	72247 [label="Jiawei  Han
+University of Wisconsin-Madison
+1985
+artificial-intelligence-and-machine-learning"]
+	70227 [label="William Weston Cohen
+Rutgers University, New Brunswick
+1990
+artificial-intelligence-and-machine-learning"]
+	8658 [label="Joyce Barbara Friedman
+Harvard University
+1965
+artificial-intelligence-and-machine-learning"]
+	44546 [label="William Chesley Rounds
+Stanford University
+1968
+artificial-intelligence-and-machine-learning"]
+	72085 [label="Robert James Woodham
+Massachusetts Institute of Technology
+1977
+artificial-intelligence-and-machine-learning"]
+	46289 [label="Christos H. Papadimitriou
+Princeton University
+1976
+artificial-intelligence-and-machine-learning"]
+	88112 [label="Victor Richard Lesser
+Stanford University
+1973
+artificial-intelligence-and-machine-learning"]
+	76951 [label="Evgenii Mikhailovich Landis
+nan
+1953
+artificial-intelligence-and-machine-learning"]
+	12037 [label="Herbert Bishop Keller
+New York University
+1954
+artificial-intelligence-and-machine-learning"]
+	5481 [label="Raymond  Reiter
+University of Michigan
+1967
+artificial-intelligence-and-machine-learning"]
+	71100 [label="Oussama  Khatib
+Institut supérieur de l'aéronautique et de l'espace
+1980
+artificial-intelligence-and-machine-learning"]
+	33035 [label="Avrim Louis Blum
+Massachusetts Institute of Technology
+1991
+artificial-intelligence-and-machine-learning"]
+	71081 [label="Piotr  Indyk
+Stanford University
+2001
+artificial-intelligence-and-machine-learning"]
+	9629 [label="Hale Freeman Trotter
+Princeton University
+1956
+artificial-intelligence-and-machine-learning"]
+	33019 [label="William  Feller
+Georg-August-Universität Göttingen
+1926
+artificial-intelligence-and-machine-learning"]
+	13305 [label="Anthony Gervin Oettinger
+Harvard University
+1954
+artificial-intelligence-and-machine-learning"]
+	82279 [label="Larry  Travis
+University of California, Los Angeles
+1966
+artificial-intelligence-and-machine-learning"]
+	70186 [label="Alexander Tiberiu Borgida
+University of Toronto
+1977
+artificial-intelligence-and-machine-learning"]
+	29869 [label="Hao  Wang
+Harvard University
+1948
+artificial-intelligence-and-machine-learning"]
+	8024 [label="Dana Stewart Scott
+Princeton University
+1958
+artificial-intelligence-and-machine-learning"]
+	61066 [label="Berthold Klaus Paul Horn
+Massachusetts Institute of Technology
+1970
+artificial-intelligence-and-machine-learning"]
+	82018 [label="Kenneth  Steiglitz
+New York University
+1963
+artificial-intelligence-and-machine-learning"]
+	88102 [label="William Frederick Miller
+Purdue University
+1956
+artificial-intelligence-and-machine-learning"]
+	76948 [label="Aleksandr Semenovich Kronrod
+nan
+1949
+artificial-intelligence-and-machine-learning"]
+	55146 [label="Ivan Georgievich Petrovsky
+Lomonosov Moscow State University
+ity
+artificial-intelligence-and-machine-learning"]
+	12042 [label="Wilhelm  Magnus
+Johann Wolfgang Goethe-Universität Frankfurt am Main
+1931
+artificial-intelligence-and-machine-learning"]
+	13411 [label="Joseph Bishop Keller
+New York University
+1948
+artificial-intelligence-and-machine-learning"]
+	25275 [label="Richard Manning Karp
+Harvard University
+1959
+artificial-intelligence-and-machine-learning"]
+	13812 [label="Harvey  Garner
+University of Michigan
+1958
+artificial-intelligence-and-machine-learning"]
+	61379 [label="Jean-François  Maitre
+Université Joseph Fourier Grenoble I
+1974
+artificial-intelligence-and-machine-learning"]
+	50081 [label="Ronald Linn Rivest
+Stanford University
+1974
+artificial-intelligence-and-machine-learning"]
+	41471 [label="Rajeev  Motwani
+University of California, Berkeley
+1988
+artificial-intelligence-and-machine-learning"]
+	7378 [label="Richard  Courant
+Georg-August-Universität Göttingen
+1910
+artificial-intelligence-and-machine-learning"]
+	18953 [label="Howard Hathaway Aiken
+Harvard University
+1939
+artificial-intelligence-and-machine-learning"]
+	15886 [label="Abraham  Robinson
+University of London
+1949
+artificial-intelligence-and-machine-learning"]
+	8755 [label="(Charles) Raymond  Perrault
+University of Michigan
+1975
+artificial-intelligence-and-machine-learning"]
+	73831 [label="Willard Van Orman Quine
+Harvard University
+1932
+artificial-intelligence-and-machine-learning"]
+	8011 [label="Alonzo  Church
+Princeton University
+1927
+artificial-intelligence-and-machine-learning"]
+	6869 [label="Marvin Lee Minsky
+Princeton University
+1954
+artificial-intelligence-and-machine-learning"]
+	98916 [label="Sheldon Shou-Lien Chang
+Purdue University
+1947
+artificial-intelligence-and-machine-learning"]
+	128356 [label="Robert Leroy Platzman
+The University of Chicago
+1942
+artificial-intelligence-and-machine-learning"]
+	10479 [label="Nikolai Nikolayevich Luzin
+Lomonosov Moscow State University
+1915
+artificial-intelligence-and-machine-learning"]
+	24109 [label="Dimitri Fedorowitsch Egorov
+Lomonosov Moscow State University
+1901
+artificial-intelligence-and-machine-learning"]
+	7339 [label="Max Wilhelm Dehn
+Georg-August-Universität Göttingen
+1899
+artificial-intelligence-and-machine-learning"]
+	84481 [label="Norman Ross Scott
+University of Illinois at Urbana-Champaign
+1950
+artificial-intelligence-and-machine-learning"]
+	58747 [label="Noël  Gastinel
+Université Joseph Fourier Grenoble I
+1960
+artificial-intelligence-and-machine-learning"]
+	69223 [label="Robert W Floyd
+The University of Chicago
+1953
+artificial-intelligence-and-machine-learning"]
+	7298 [label="David  Hilbert
+Universität Königsberg
+1885
+artificial-intelligence-and-machine-learning"]
+	25248 [label="Emory Leon Chaffee
+Harvard University
+1911
+artificial-intelligence-and-machine-learning"]
+	24557 [label="Paul  Dienes
+Eötvös Loránd University and Université Paris IV-Sorbonne
+1907
+artificial-intelligence-and-machine-learning"]
+	78732 [label="Alfred North Whitehead
+University of Cambridge
+1884
+artificial-intelligence-and-machine-learning"]
+	805 [label="Oswald  Veblen
+The University of Chicago
+1903
+artificial-intelligence-and-machine-learning"]
+	8581 [label="Albert William Tucker
+Princeton University
+1932
+artificial-intelligence-and-machine-learning"]
+	111345 [label="Robert Peer Siskind
+Harvard University
+1925
+artificial-intelligence-and-machine-learning"]
+	126428 [label="James  Franck
+Humboldt-Universität zu Berlin
+1906
+artificial-intelligence-and-machine-learning"]
+	24101 [label="Nicolai Vasilievich Bugaev
+Lomonosov Moscow State University
+1866
+artificial-intelligence-and-machine-learning"]
+	140183 [label="Lloyd Thomas Devore
+The Pennsylvania State University
+1933
+artificial-intelligence-and-machine-learning"]
+	78519 [label="Jean  Kuntzmann
+Université de Paris
+1940
+artificial-intelligence-and-machine-learning"]
+	7404 [label="C. L. Ferdinand (Carl Louis) Lindemann
+Friedrich-Alexander-Universität Erlangen-Nürnberg
+1873
+artificial-intelligence-and-machine-learning"]
+	141987 [label="George Washington Pierce
+Harvard University
+1900
+artificial-intelligence-and-machine-learning"]
+	39071 [label="Émile  Borel
+École Normale Supérieure Paris
+1893
+artificial-intelligence-and-machine-learning"]
+	101929 [label="Edward John Routh
+University of Cambridge
+1857
+artificial-intelligence-and-machine-learning"]
+	806 [label="E. H. (Eliakim Hastings) Moore
+Yale University
+1885
+artificial-intelligence-and-machine-learning"]
+	7461 [label="Solomon  Lefschetz
+Clark University
+1911
+artificial-intelligence-and-machine-learning"]
+	62397 [label="Paul Karl Ludwig Drude
+Georg-August-Universität Göttingen
+1887
+artificial-intelligence-and-machine-learning"]
+	124661 [label="Emil Gabriel Warburg
+Universität Berlin
+1867
+artificial-intelligence-and-machine-learning"]
+	18331 [label="Ernst Eduard Kummer
+Martin-Luther-Universität Halle-Wittenberg
+1831
+artificial-intelligence-and-machine-learning"]
+	55185 [label="Joseph  Liouville
+Faculté des Sciences, Paris
+1836
+artificial-intelligence-and-machine-learning"]
+	7486 [label="Karl Theodor Wilhelm Weierstraß
+Westfälische Wilhelms-Universität Münster
+1841
+artificial-intelligence-and-machine-learning"]
+	147676 [label="William Ross Ham
+The University of Chicago
+1909
+artificial-intelligence-and-machine-learning"]
+	147677 [label="David Christie Duncan
+University of Michigan
+1924
+artificial-intelligence-and-machine-learning"]
+	73816 [label="Georges  Valiron
+Université de Paris
+1914
+artificial-intelligence-and-machine-learning"]
+	7401 [label="C. Felix (Christian) Klein
+Rheinische Friedrich-Wilhelms-Universität Bonn
+1868
+artificial-intelligence-and-machine-learning"]
+	67041 [label="John  Trowbridge
+Harvard University
+1873
+artificial-intelligence-and-machine-learning"]
+	34254 [label="Gaston  Darboux
+École Normale Supérieure Paris
+1866
+artificial-intelligence-and-machine-learning"]
+	42016 [label="William  Hopkins
+University of Cambridge
+1830
+artificial-intelligence-and-machine-learning"]
+	129420 [label="Isaac  Todhunter
+University of Cambridge
+1848
+artificial-intelligence-and-machine-learning"]
+	7865 [label="H. A. (Hubert Anson) Newton
+Yale University
+1850
+artificial-intelligence-and-machine-learning"]
+	7451 [label="William Edward Story
+Universität Leipzig
+1875
+artificial-intelligence-and-machine-learning"]
+	45011 [label="Woldemar  Voigt
+Universität Königsberg
+1874
+artificial-intelligence-and-machine-learning"]
+	123973 [label="August Adolph Eduard Eberhard Kundt
+Universität Berlin
+1864
+artificial-intelligence-and-machine-learning"]
+	123978 [label="Heinrich Gustav Magnus
+Universität Berlin
+1827
+artificial-intelligence-and-machine-learning"]
+	25484 [label="Heinrich Ferdinand Scherk
+Universität Berlin
+1823
+artificial-intelligence-and-machine-learning"]
+	104652 [label="Louis Jacques Thenard
+École Polytechnique
+que
+artificial-intelligence-and-machine-learning"]
+	17865 [label="Siméon Denis Poisson
+École Polytechnique
+1800
+artificial-intelligence-and-machine-learning"]
+	29458 [label="Christoph  Gudermann
+Georg-August-Universität Göttingen
+1823
+artificial-intelligence-and-machine-learning"]
+	72167 [label="Robert Andrews Millikan
+Columbia University
+1895
+artificial-intelligence-and-machine-learning"]
+	148190 [label="Ora Stanley Duffendack
+Princeton University
+1922
+artificial-intelligence-and-machine-learning"]
+	7402 [label="Julius  Plücker
+Philipps-Universität Marburg
+1823
+artificial-intelligence-and-machine-learning"]
+	19964 [label="Rudolf Otto Sigismund Lipschitz
+Universität Berlin
+1853
+artificial-intelligence-and-machine-learning"]
+	132487 [label="Joseph  Lovering
+Harvard University
+1833
+artificial-intelligence-and-machine-learning"]
+	26995 [label="Michel  Chasles
+École Polytechnique
+1814
+artificial-intelligence-and-machine-learning"]
+	102043 [label="Adam  Sedgwick
+University of Cambridge
+1811
+artificial-intelligence-and-machine-learning"]
+	18589 [label="Wilhelm  Scheibner
+Martin-Luther-Universität Halle-Wittenberg
+1848
+artificial-intelligence-and-machine-learning"]
+	32858 [label="Carl Gottfried Neumann
+Universität Königsberg
+1856
+artificial-intelligence-and-machine-learning"]
+	18600 [label="Franz Ernst Neumann
+Universität Berlin
+1825
+artificial-intelligence-and-machine-learning"]
+	123999 [label="Eilhard  Mitscherlich
+Georg-August-Universität Göttingen
+1814
+artificial-intelligence-and-machine-learning"]
+	18603 [label="Friedrich Wilhelm Bessel
+Georg-August-Universität Göttingen
+1810
+artificial-intelligence-and-machine-learning"]
+	65162 [label="Heinrich Wilhelm Brandes
+Georg-August-Universität Göttingen
+1800
+artificial-intelligence-and-machine-learning"]
+	158571 [label="Nicolas Louis Vauquelin
+nan
+nan
+artificial-intelligence-and-machine-learning"]
+	17864 [label="Joseph Louis Lagrange
+nan
+ee
+artificial-intelligence-and-machine-learning"]
+	108295 [label="Pierre-Simon  Laplace
+Université de Caen Normandie
+1769
+artificial-intelligence-and-machine-learning"]
+	57667 [label="Bernhard Friedrich Thibaut
+Georg-August-Universität Göttingen
+1796
+artificial-intelligence-and-machine-learning"]
+	72170 [label="Albert Abraham Michelson
+nan
+D.
+artificial-intelligence-and-machine-learning"]
+	148580 [label="Ogden  Rood
+nan
+nan
+artificial-intelligence-and-machine-learning"]
+	147836 [label="Karl Taylor Compton
+Princeton University
+1912
+artificial-intelligence-and-machine-learning"]
+	29642 [label="Christian Ludwig Gerling
+Georg-August-Universität Göttingen
+1812
+artificial-intelligence-and-machine-learning"]
+	47064 [label="Martin  Ohm
+Friedrich-Alexander-Universität Erlangen-Nürnberg
+1811
+artificial-intelligence-and-machine-learning"]
+	17946 [label="Gustav Peter Lejeune Dirichlet
+Rheinische Friedrich-Wilhelms-Universität Bonn
+1827
+artificial-intelligence-and-machine-learning"]
+	80886 [label="Benjamin  Peirce
+Harvard University
+1829
+artificial-intelligence-and-machine-learning"]
+	102036 [label="Thomas  Jones
+University of Cambridge
+1782
+artificial-intelligence-and-machine-learning"]
+	102037 [label="John  Dawson
+nan
+nan
+artificial-intelligence-and-machine-learning"]
+	15635 [label="Carl Gustav Jacob Jacobi
+Humboldt-Universität zu Berlin
+1825
+artificial-intelligence-and-machine-learning"]
+	57706 [label="Friedrich Julius Richelot
+Universität Königsberg
+1831
+artificial-intelligence-and-machine-learning"]
+	46967 [label="Otto  Hesse
+Universität Königsberg
+1840
+artificial-intelligence-and-machine-learning"]
+	66319 [label="Christian Samuel Weiss
+Universität Leipzig
+1801
+artificial-intelligence-and-machine-learning"]
+	123979 [label="Friedrich  Stromeyer
+Georg-August-Universität Göttingen
+1800
+artificial-intelligence-and-machine-learning"]
+	18231 [label="Carl Friedrich Gauß
+Universität Helmstedt
+1799
+artificial-intelligence-and-machine-learning"]
+	65161 [label="Georg Christoph Lichtenberg
+Georg-August-Universität Göttingen
+1765
+artificial-intelligence-and-machine-learning"]
+	66476 [label="Abraham Gotthelf Kästner
+Universität Leipzig
+1739
+artificial-intelligence-and-machine-learning"]
+	158735 [label="Antoine Francois de Fourcroy
+Université de Paris
+ris
+artificial-intelligence-and-machine-learning"]
+	38586 [label="Leonhard  Euler
+Universität Basel
+1726
+artificial-intelligence-and-machine-learning"]
+	146036 [label="Giovanni Battista (Giambattista) Beccaria
+nan
+nan
+artificial-intelligence-and-machine-learning"]
+	108266 [label="Jean Le Rond d'Alembert
+Collège Mazarin
+1735
+artificial-intelligence-and-machine-learning"]
+	49057 [label="Hermann Ludwig Ferdinand von Helmholtz
+Universität Berlin
+1842
+artificial-intelligence-and-machine-learning"]
+	90415 [label="Owen W. Richardson
+University of London
+1904
+artificial-intelligence-and-machine-learning"]
+	47025 [label="Karl Christian von Langsdorf
+Georg-August-Universität Göttingen and Justus-Liebig-Universität Gießen and Universität Erfurt
+1781
+artificial-intelligence-and-machine-learning"]
+	17981 [label="Jean-Baptiste Joseph Fourier
+École Normale Supérieure
+ure
+artificial-intelligence-and-machine-learning"]
+	147797 [label="Nathaniel  Bowditch
+nan
+nan
+artificial-intelligence-and-machine-learning"]
+	133301 [label="Thomas  Postlethwaite
+University of Cambridge
+1756
+artificial-intelligence-and-machine-learning"]
+	103066 [label="John  Cranke
+University of Cambridge
+1774
+artificial-intelligence-and-machine-learning"]
+	129421 [label="Edward  Waring
+University of Cambridge
+1760
+artificial-intelligence-and-machine-learning"]
+	129422 [label="Henry  Bracken
+Universiteit Leiden
+den
+artificial-intelligence-and-machine-learning"]
+	41423 [label="Enno Heeren Dirksen
+Georg-August-Universität Göttingen
+1820
+artificial-intelligence-and-machine-learning"]
+	124285 [label="Abraham Gottlob Werner
+Universität Leipzig
+1774
+artificial-intelligence-and-machine-learning"]
+	124286 [label="René Just Haüy
+nan
+D.
+artificial-intelligence-and-machine-learning"]
+	76485 [label="Johann Friedrich Gmelin
+Eberhard-Karls-Universität Tübingen
+1768
+artificial-intelligence-and-machine-learning"]
+	18230 [label="Johann Friedrich Pfaff
+Georg-August-Universität Göttingen
+1786
+artificial-intelligence-and-machine-learning"]
+	57670 [label="Christian August Hausen
+Martin-Luther-Universität Halle-Wittenberg
+1713
+artificial-intelligence-and-machine-learning"]
+	158900 [label="Jean Baptiste Michel Bucquet
+Université de Paris
+1768
+artificial-intelligence-and-machine-learning"]
+	53410 [label="Johann  Bernoulli
+Universität Basel
+1694
+artificial-intelligence-and-machine-learning"]
+	23194 [label="Johannes Peter Müller
+Rheinische Friedrich-Wilhelms-Universität Bonn
+1822
+artificial-intelligence-and-machine-learning"]
+	50701 [label="Joseph John Thomson
+University of Cambridge
+1883
+artificial-intelligence-and-machine-learning"]
+	4759 -> 39437
+	36705 -> 45379
+	279264 -> 279263
+	217154 -> 279263
+	8755 -> 58650
+	72124 -> 167185
+	139732 -> 264772
+	88145 -> 119359
+	176620 -> 0
+	11836 -> 131052
+	72088 -> 97099
+	71514 -> 73583
+	148432 -> 254910
+	132986 -> 254910
+	4758 -> 4759
+	25276 -> 36705
+	72247 -> 279264
+	70227 -> 217154
+	8658 -> 8755
+	44546 -> 8755
+	72085 -> 72124
+	46289 -> 139732
+	88112 -> 88145
+	76951 -> 176620
+	12037 -> 11836
+	5481 -> 72088
+	71100 -> 71514
+	33035 -> 148432
+	71081 -> 132986
+	9629 -> 4758
+	33019 -> 4758
+	13305 -> 25276
+	82279 -> 72247
+	70186 -> 70227
+	29869 -> 8658
+	8024 -> 44546
+	61066 -> 72085
+	82018 -> 46289
+	88102 -> 88112
+	76948 -> 76951
+	55146 -> 76951
+	12042 -> 12037
+	13411 -> 12037
+	25275 -> 5481
+	13812 -> 5481
+	61379 -> 71100
+	50081 -> 33035
+	41471 -> 71081
+	33019 -> 9629
+	7378 -> 33019
+	18953 -> 13305
+	15886 -> 82279
+	8755 -> 70186
+	73831 -> 29869
+	8011 -> 8024
+	6869 -> 61066
+	98916 -> 82018
+	128356 -> 88102
+	10479 -> 76948
+	24109 -> 55146
+	7339 -> 12042
+	7378 -> 13411
+	13305 -> 25275
+	84481 -> 13812
+	58747 -> 61379
+	69223 -> 50081
+	25275 -> 41471
+	7298 -> 7378
+	25248 -> 18953
+	24557 -> 15886
+	44546 -> 8755
+	8658 -> 8755
+	78732 -> 73831
+	805 -> 8011
+	8581 -> 6869
+	111345 -> 98916
+	126428 -> 128356
+	24109 -> 10479
+	24101 -> 24109
+	7298 -> 7339
+	140183 -> 84481
+	78519 -> 58747
+	7404 -> 7298
+	141987 -> 25248
+	39071 -> 24557
+	101929 -> 78732
+	806 -> 805
+	7461 -> 8581
+	62397 -> 126428
+	124661 -> 126428
+	18331 -> 24101
+	55185 -> 24101
+	7486 -> 24101
+	147676 -> 140183
+	147677 -> 140183
+	73816 -> 78519
+	7401 -> 7404
+	67041 -> 141987
+	34254 -> 39071
+	42016 -> 101929
+	129420 -> 101929
+	7865 -> 806
+	7451 -> 7461
+	45011 -> 62397
+	123973 -> 124661
+	123978 -> 124661
+	25484 -> 18331
+	104652 -> 55185
+	17865 -> 55185
+	29458 -> 7486
+	72167 -> 147676
+	148190 -> 147677
+	39071 -> 73816
+	7402 -> 7401
+	19964 -> 7401
+	132487 -> 67041
+	26995 -> 34254
+	102043 -> 42016
+	42016 -> 129420
+	26995 -> 7865
+	18589 -> 7451
+	32858 -> 7451
+	18600 -> 45011
+	123978 -> 123973
+	123999 -> 123978
+	18603 -> 25484
+	65162 -> 25484
+	158571 -> 104652
+	17864 -> 17865
+	108295 -> 17865
+	57667 -> 29458
+	72170 -> 72167
+	148580 -> 72167
+	147836 -> 148190
+	29642 -> 7402
+	47064 -> 19964
+	17946 -> 19964
+	80886 -> 132487
+	17865 -> 26995
+	102036 -> 102043
+	102037 -> 102043
+	15635 -> 18589
+	57706 -> 32858
+	46967 -> 32858
+	66319 -> 18600
+	123979 -> 123999
+	18231 -> 18603
+	65161 -> 65162
+	66476 -> 65162
+	158735 -> 158571
+	38586 -> 17864
+	146036 -> 17864
+	108266 -> 108295
+	65161 -> 57667
+	66476 -> 57667
+	49057 -> 72170
+	90415 -> 147836
+	18231 -> 29642
+	47025 -> 47064
+	17981 -> 17946
+	17865 -> 17946
+	147797 -> 80886
+	133301 -> 102036
+	103066 -> 102036
+	129421 -> 102037
+	129422 -> 102037
+	41423 -> 15635
+	15635 -> 57706
+	15635 -> 46967
+	124285 -> 66319
+	124286 -> 66319
+	158571 -> 123979
+	76485 -> 123979
+	18230 -> 18231
+	66476 -> 65161
+	57670 -> 66476
+	158900 -> 158735
+	53410 -> 38586
+	23194 -> 49057
+	50701 -> 90415
+}

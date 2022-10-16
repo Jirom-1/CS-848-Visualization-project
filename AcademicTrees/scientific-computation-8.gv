@@ -1,0 +1,300 @@
+digraph "Academic Genealogy for scientific-computation" {
+	147355 [label="Christopher Batty
+['University of British Columbia']
+['2010']
+scientific-computation" color=blue fillcolor=lightblue2 style=filled]
+	66894 [label="Peter Forsyth
+['University of Western Ontario']
+['1979']
+scientific-computation" color=blue fillcolor=lightblue2 style=filled]
+	50835 [label="Alan George
+['Stanford University']
+['1971']
+scientific-computation" color=blue fillcolor=lightblue2 style=filled]
+	87911 [label="George Labahn
+['University of Alberta']
+['1988']
+scientific-computation" color=blue fillcolor=lightblue2 style=filled]
+	65049 [label="Anita Layton (Cross appointed from the Department of Applied Mathematics)
+['University of Toronto']
+['2001']
+scientific-computation" color=blue fillcolor=lightblue2 style=filled]
+	66915 [label="Yuying Li
+['University of Waterloo']
+['1988']
+scientific-computation" color=blue fillcolor=lightblue2 style=filled]
+	70795 [label="Robert  Bridson
+Stanford University
+2003
+scientific-computation"]
+	68238 [label="Henning  Rasmussen
+University of Queensland
+1968
+scientific-computation"]
+	4319 [label="George Elmer Forsythe
+Brown University
+1941
+scientific-computation"]
+	72398 [label="Stanley  Cabay
+University of Toronto
+1971
+scientific-computation"]
+	59043 [label="Kenneth Ronald Jackson
+University of Toronto
+1978
+scientific-computation"]
+	65023 [label="Christina  Christara
+nan
+D.
+scientific-computation"]
+	42579 [label="Andrew Roger Conn
+University of Waterloo
+1971
+scientific-computation"]
+	36653 [label="Ronald Paul Fedkiw
+University of California, Los Angeles
+1996
+scientific-computation"]
+	14740 [label="A. Fenton Pillow
+University of Cambridge
+1950
+scientific-computation"]
+	4740 [label="Jacob David Tamarkin
+St. Petersburg State University
+1917
+scientific-computation"]
+	33019 [label="William  Feller
+Georg-August-Universität Göttingen
+1926
+scientific-computation"]
+	33269 [label="Anthony  Zeppetella
+New York University
+1976
+scientific-computation"]
+	17245 [label="Thomas E. Hull
+University of Toronto
+1949
+scientific-computation"]
+	66902 [label="Tomasz  Pietrzykowski
+Polska Akademia Nauk
+1960
+scientific-computation"]
+	11645 [label="Stanley Joel Osher
+New York University
+1966
+scientific-computation"]
+	30467 [label="George Keith Batchelor
+University of Cambridge
+1948
+scientific-computation"]
+	12543 [label="Andrei Andreyevich Markov
+St. Petersburg State University
+1884
+scientific-computation"]
+	7378 [label="Richard  Courant
+Georg-August-Universität Göttingen
+1910
+scientific-computation"]
+	33017 [label="Henry P. McKean, Jr.
+Princeton University
+1955
+scientific-computation"]
+	16268 [label="Leopold  Infeld
+Uniwersytet Jagielloński
+1921
+scientific-computation"]
+	13409 [label="Jacob Theodore (Jack) Schwartz
+Yale University
+1951
+scientific-computation"]
+	18588 [label="Geoffrey Ingram Taylor
+University of Cambridge
+dge
+scientific-computation"]
+	12542 [label="Pafnuty Lvovich Chebyshev
+St. Petersburg State University
+1849
+scientific-computation"]
+	7298 [label="David  Hilbert
+Universität Königsberg
+1885
+scientific-computation"]
+	106278 [label="Władysław  Natanson
+University of Cambridge
+dge
+scientific-computation"]
+	4299 [label="Nelson  Dunford
+Brown University
+1936
+scientific-computation"]
+	50701 [label="Joseph John Thomson
+University of Cambridge
+1883
+scientific-computation"]
+	12541 [label="Nikolai Dmitrievich Brashman
+Kazan State University and Lomonosov Moscow State University
+1834
+scientific-computation"]
+	7404 [label="C. L. Ferdinand (Carl Louis) Lindemann
+Friedrich-Alexander-Universität Erlangen-Nürnberg
+1873
+scientific-computation"]
+	101979 [label="John William Strutt (Lord Rayleigh)
+University of Cambridge
+1868
+scientific-computation"]
+	12540 [label="Joseph Johann von Littrow
+Universität Wien
+1838
+scientific-computation"]
+	259973 [label="Mikhail Vasilyevich  Ostrogradsky
+Université de Paris
+1823
+scientific-computation"]
+	146776 [label="Nikolai Ivanovich Lobachevsky
+Kazan State University
+ity
+scientific-computation"]
+	7401 [label="C. Felix (Christian) Klein
+Rheinische Friedrich-Wilhelms-Universität Bonn
+1868
+scientific-computation"]
+	101929 [label="Edward John Routh
+University of Cambridge
+1857
+scientific-computation"]
+	102483 [label="George Gabriel Stokes
+University of Cambridge
+1841
+scientific-computation"]
+	55177 [label="Augustin Louis Cauchy
+École Nationale des Ponts et Chaussées
+ées
+scientific-computation"]
+	17865 [label="Siméon Denis Poisson
+École Polytechnique
+1800
+scientific-computation"]
+	122737 [label="Stepan  Rumovsky
+Königliche Akademie der Wissenschaften zu Berlin
+lin
+scientific-computation"]
+	151180 [label="Johann Martin Christian Bartels
+Friedrich-Schiller-Universität Jena
+1799
+scientific-computation"]
+	7402 [label="Julius  Plücker
+Philipps-Universität Marburg
+1823
+scientific-computation"]
+	19964 [label="Rudolf Otto Sigismund Lipschitz
+Universität Berlin
+1853
+scientific-computation"]
+	42016 [label="William  Hopkins
+University of Cambridge
+1830
+scientific-computation"]
+	129420 [label="Isaac  Todhunter
+University of Cambridge
+1848
+scientific-computation"]
+	108295 [label="Pierre-Simon  Laplace
+Université de Caen Normandie
+1769
+scientific-computation"]
+	17864 [label="Joseph Louis Lagrange
+nan
+ee
+scientific-computation"]
+	260114 [label="Mikhail Vasilyevich  Lomonosov
+Philipps-Universität Marburg
+1739
+scientific-computation"]
+	38586 [label="Leonhard  Euler
+Universität Basel
+1726
+scientific-computation"]
+	18230 [label="Johann Friedrich Pfaff
+Georg-August-Universität Göttingen
+1786
+scientific-computation"]
+	66476 [label="Abraham Gotthelf Kästner
+Universität Leipzig
+1739
+scientific-computation"]
+	65161 [label="Georg Christoph Lichtenberg
+Georg-August-Universität Göttingen
+1765
+scientific-computation"]
+	29642 [label="Christian Ludwig Gerling
+Georg-August-Universität Göttingen
+1812
+scientific-computation"]
+	17946 [label="Gustav Peter Lejeune Dirichlet
+Rheinische Friedrich-Wilhelms-Universität Bonn
+1827
+scientific-computation"]
+	47064 [label="Martin  Ohm
+Friedrich-Alexander-Universität Erlangen-Nürnberg
+1811
+scientific-computation"]
+	70795 -> 147355
+	68238 -> 66894
+	4319 -> 50835
+	72398 -> 87911
+	59043 -> 65049
+	65023 -> 65049
+	42579 -> 66915
+	36653 -> 70795
+	14740 -> 68238
+	4740 -> 4319
+	33019 -> 4319
+	33269 -> 72398
+	17245 -> 59043
+	66902 -> 42579
+	11645 -> 36653
+	30467 -> 14740
+	12543 -> 4740
+	7378 -> 33019
+	33017 -> 33269
+	16268 -> 17245
+	13409 -> 11645
+	18588 -> 30467
+	12542 -> 12543
+	7298 -> 7378
+	33019 -> 33017
+	106278 -> 16268
+	4299 -> 13409
+	50701 -> 18588
+	12541 -> 12542
+	7404 -> 7298
+	50701 -> 106278
+	4740 -> 4299
+	101979 -> 50701
+	12540 -> 12541
+	259973 -> 12541
+	146776 -> 12541
+	7401 -> 7404
+	101929 -> 101979
+	102483 -> 101979
+	55177 -> 259973
+	17865 -> 259973
+	122737 -> 146776
+	151180 -> 146776
+	7402 -> 7401
+	19964 -> 7401
+	42016 -> 101929
+	129420 -> 101929
+	42016 -> 102483
+	108295 -> 17865
+	17864 -> 17865
+	260114 -> 122737
+	38586 -> 122737
+	18230 -> 151180
+	66476 -> 151180
+	65161 -> 151180
+	29642 -> 7402
+	17946 -> 19964
+	47064 -> 19964
+}

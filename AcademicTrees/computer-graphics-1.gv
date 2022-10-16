@@ -1,0 +1,38 @@
+digraph "Academic Genealogy for computer-graphics" {
+	147355 [label="Christopher Batty
+['University of British Columbia']
+['2010']
+computer-graphics" color=blue fillcolor=lightblue2 style=filled]
+	66906 [label="William Cowan
+['McGill University']
+['1976']
+computer-graphics" color=blue fillcolor=lightblue2 style=filled]
+	78067 [label="Craig Kaplan
+['University of Washington']
+['2002']
+computer-graphics" color=blue fillcolor=lightblue2 style=filled]
+	71953 [label="Stephen Mann
+['University of Washington']
+['1992']
+computer-graphics" color=blue fillcolor=lightblue2 style=filled]
+	70795 [label="Robert  Bridson
+Stanford University
+2003
+computer-graphics"]
+	128095 [label="Martin J. Zuckermann
+University of Oxford
+1963
+computer-graphics"]
+	50412 [label="David Henry Salesin
+Stanford University
+1991
+computer-graphics"]
+	33763 [label="Anthony David DeRose
+University of California, Berkeley
+1985
+computer-graphics"]
+	70795 -> 147355
+	128095 -> 66906
+	50412 -> 78067
+	33763 -> 71953
+}

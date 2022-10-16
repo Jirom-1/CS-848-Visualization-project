@@ -1,0 +1,143 @@
+digraph "Academic Genealogy for computer-graphics" {
+	147355 [label="Christopher Batty
+['University of British Columbia']
+['2010']
+computer-graphics" color=blue fillcolor=lightblue2 style=filled]
+	66906 [label="William Cowan
+['McGill University']
+['1976']
+computer-graphics" color=blue fillcolor=lightblue2 style=filled]
+	78067 [label="Craig Kaplan
+['University of Washington']
+['2002']
+computer-graphics" color=blue fillcolor=lightblue2 style=filled]
+	71953 [label="Stephen Mann
+['University of Washington']
+['1992']
+computer-graphics" color=blue fillcolor=lightblue2 style=filled]
+	70795 [label="Robert  Bridson
+Stanford University
+2003
+computer-graphics"]
+	128095 [label="Martin J. Zuckermann
+University of Oxford
+1963
+computer-graphics"]
+	50412 [label="David Henry Salesin
+Stanford University
+1991
+computer-graphics"]
+	33763 [label="Anthony David DeRose
+University of California, Berkeley
+1985
+computer-graphics"]
+	36653 [label="Ronald Paul Fedkiw
+University of California, Los Angeles
+1996
+computer-graphics"]
+	39940 [label="Leonidas John (Ioannis) Guibas
+Stanford University
+1976
+computer-graphics"]
+	50070 [label="Brian Andrew Barsky
+University of Utah
+1981
+computer-graphics"]
+	11645 [label="Stanley Joel Osher
+New York University
+1966
+computer-graphics"]
+	10416 [label="Donald Ervin Knuth
+California Institute of Technology
+1963
+computer-graphics"]
+	16454 [label="Richard Franklin Riesenfeld
+Syracuse University
+1973
+computer-graphics"]
+	13409 [label="Jacob Theodore (Jack) Schwartz
+Yale University
+1951
+computer-graphics"]
+	6807 [label="Marshall  Hall, Jr.
+Yale University
+1936
+computer-graphics"]
+	14382 [label="William John Gordon, Jr.
+Brown University
+1965
+computer-graphics"]
+	96017 [label="Steven A. Coons
+nan
+D.
+computer-graphics"]
+	4299 [label="Nelson  Dunford
+Brown University
+1936
+computer-graphics"]
+	11890 [label="Øystein  Ore
+Universitetet i Oslo
+1924
+computer-graphics"]
+	13797 [label="Gordon Frank Newell
+University of Illinois at Urbana-Champaign
+1950
+computer-graphics"]
+	4740 [label="Jacob David Tamarkin
+St. Petersburg State University
+1917
+computer-graphics"]
+	18237 [label="Thoralf Albert Skolem
+Universitetet i Oslo
+1926
+computer-graphics"]
+	12543 [label="Andrei Andreyevich Markov
+St. Petersburg State University
+1884
+computer-graphics"]
+	18236 [label="Axel  Thue
+University of Christiania
+1889
+computer-graphics"]
+	12542 [label="Pafnuty Lvovich Chebyshev
+St. Petersburg State University
+1849
+computer-graphics"]
+	77898 [label="Elling  Holst
+nan
+D.
+computer-graphics"]
+	12541 [label="Nikolai Dmitrievich Brashman
+Kazan State University and Lomonosov Moscow State University
+1834
+computer-graphics"]
+	18235 [label="M. Sophus (Marius) Lie
+University of Christiania
+1872
+computer-graphics"]
+	70795 -> 147355
+	128095 -> 66906
+	50412 -> 78067
+	33763 -> 71953
+	36653 -> 70795
+	39940 -> 50412
+	50070 -> 33763
+	11645 -> 36653
+	10416 -> 39940
+	16454 -> 50070
+	13409 -> 11645
+	6807 -> 10416
+	14382 -> 16454
+	96017 -> 16454
+	4299 -> 13409
+	11890 -> 6807
+	13797 -> 14382
+	4740 -> 4299
+	18237 -> 11890
+	12543 -> 4740
+	18236 -> 18237
+	12542 -> 12543
+	77898 -> 18236
+	12541 -> 12542
+	18235 -> 77898
+}

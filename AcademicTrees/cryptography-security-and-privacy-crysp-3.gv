@@ -1,0 +1,176 @@
+digraph "Academic Genealogy for cryptography-security-and-privacy-crysp" {
+	218594 [label="Yousra Aafer 
+['Syracuse University']
+['2016']
+cryptography-security-and-privacy-crysp" color=blue fillcolor=lightblue2 style=filled]
+	67046 [label="N. Asokan
+['University of Waterloo']
+['1998']
+cryptography-security-and-privacy-crysp" color=blue fillcolor=lightblue2 style=filled]
+	70144 [label="Ian Goldberg
+['University of California, Berkeley']
+['2000']
+cryptography-security-and-privacy-crysp" color=blue fillcolor=lightblue2 style=filled]
+	203875 [label="Sergey Gorbunov
+['Massachusetts Institute of Technology']
+['2015']
+cryptography-security-and-privacy-crysp" color=blue fillcolor=lightblue2 style=filled]
+	206018 [label="Mohammad Hajiabadi
+['University of Victoria']
+['2016']
+cryptography-security-and-privacy-crysp" color=blue fillcolor=lightblue2 style=filled]
+	145850 [label="Urs Hengartner
+['Carnegie Mellon University']
+['2005']
+cryptography-security-and-privacy-crysp" color=blue fillcolor=lightblue2 style=filled]
+	33044 [label="Doug Stinson (retired)
+['University of Waterloo']
+['1981']
+cryptography-security-and-privacy-crysp" color=blue fillcolor=lightblue2 style=filled]
+	81699 [label="Wenliang  Du
+Purdue University
+2001
+cryptography-security-and-privacy-crysp"]
+	120682 [label="Michael   Waidner
+Karlsruher Institut für Technologie (KIT)
+1991
+cryptography-security-and-privacy-crysp"]
+	66819 [label="James P. Black
+University of Waterloo
+1982
+cryptography-security-and-privacy-crysp"]
+	67451 [label="Eric Allen Brewer
+Massachusetts Institute of Technology
+1994
+cryptography-security-and-privacy-crysp"]
+	133526 [label="Vinod  Vaikuntanathan
+Massachusetts Institute of Technology
+2008
+cryptography-security-and-privacy-crysp"]
+	72032 [label="Bruce M. Kapron
+University of Toronto
+1991
+cryptography-security-and-privacy-crysp"]
+	50087 [label="Peter Alfons Steenkiste
+Stanford University
+1987
+cryptography-security-and-privacy-crysp"]
+	33040 [label="Ronald C. Mullin
+University of Waterloo
+1964
+cryptography-security-and-privacy-crysp"]
+	47076 [label="Mikhail Jibrayil Atallah
+The Johns Hopkins University
+1982
+cryptography-security-and-privacy-crysp"]
+	81691 [label="Eugene Howard Spafford
+Georgia Institute of Technology
+1986
+cryptography-security-and-privacy-crysp"]
+	120676 [label="Winfried   Görke
+Karlsruher Institut für Technologie (KIT)
+1965
+cryptography-security-and-privacy-crysp"]
+	58017 [label="Rüdiger  Reischuk
+Universität Bielefeld
+1980
+cryptography-security-and-privacy-crysp"]
+	66870 [label="David J. Taylor
+University of Waterloo
+1977
+cryptography-security-and-privacy-crysp"]
+	66871 [label="David E. Morgan
+University of Waterloo
+1971
+cryptography-security-and-privacy-crysp"]
+	67447 [label="William Edward Weihl
+Massachusetts Institute of Technology
+1984
+cryptography-security-and-privacy-crysp"]
+	35879 [label="Shafrira  Goldwasser
+University of California, Berkeley
+1984
+cryptography-security-and-privacy-crysp"]
+	14011 [label="Stephen Arthur Cook
+Harvard University
+1966
+cryptography-security-and-privacy-crysp"]
+	40909 [label="John Leroy Hennessy
+State University of New York at Stony Brook
+1977
+cryptography-security-and-privacy-crysp"]
+	15096 [label="William Thomas Tutte
+University of Cambridge
+1948
+cryptography-security-and-privacy-crysp"]
+	50660 [label="Sambasiva Rao Kosaraju
+University of Pennsylvania
+1969
+cryptography-security-and-privacy-crysp"]
+	52892 [label="Partha  Dasgupta
+State University of New York at Stony Brook
+1984
+cryptography-security-and-privacy-crysp"]
+	106989 [label="Martin Stewart McKendry
+University of Illinois at Urbana-Champaign
+1982
+cryptography-security-and-privacy-crysp"]
+	21130 [label="Wolfgang Jakob  Paul
+Universität des Saarlandes
+1973
+cryptography-security-and-privacy-crysp"]
+	66872 [label="Eric G. Manning
+University of Illinois at Urbana-Champaign
+1965
+cryptography-security-and-privacy-crysp"]
+	61932 [label="Barbara Jane Huberman Liskov
+Stanford University
+1968
+cryptography-security-and-privacy-crysp"]
+	13373 [label="Manuel  Blum
+Massachusetts Institute of Technology
+1964
+cryptography-security-and-privacy-crysp"]
+	29869 [label="Hao  Wang
+Harvard University
+1948
+cryptography-security-and-privacy-crysp"]
+	94545 [label="Richard Bruce Kieburtz
+University of Washington
+1961
+cryptography-security-and-privacy-crysp"]
+	1406 [label="Shaun  Wylie
+Princeton University
+1937
+cryptography-security-and-privacy-crysp"]
+	81699 -> 218594
+	120682 -> 67046
+	66819 -> 67046
+	67451 -> 70144
+	133526 -> 203875
+	72032 -> 206018
+	50087 -> 145850
+	33040 -> 33044
+	47076 -> 81699
+	81691 -> 81699
+	120676 -> 120682
+	58017 -> 120682
+	66870 -> 66819
+	66871 -> 66819
+	67447 -> 67451
+	35879 -> 133526
+	14011 -> 72032
+	40909 -> 50087
+	15096 -> 33040
+	50660 -> 47076
+	52892 -> 81691
+	106989 -> 81691
+	21130 -> 58017
+	66871 -> 66870
+	66872 -> 66871
+	61932 -> 67447
+	13373 -> 35879
+	29869 -> 14011
+	94545 -> 40909
+	1406 -> 15096
+}
