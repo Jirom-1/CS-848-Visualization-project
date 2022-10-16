@@ -1,1 +1,1 @@
-web: bokeh serve --num-procs=0 --allow-websocket-origin=cs-academic-geneology.herokuapp.com --address=0.0.0.0 --use-xheaders app.py
+web: bokeh serve --num-procs=0 --port=$PORT --allow-websocket-origin=cs-848-viz.herokuapp.com --address=0.0.0.0 --use-xheaders app.py
