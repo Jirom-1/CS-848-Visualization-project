@@ -40,7 +40,7 @@ numexpr==2.8.3
 odfpy==1.4.1
 olefile==0.46
 openpyxl==3.0.10
-pickle5==0.0.12
+pickle5==0.0.11
 protobuf==4.21.7
 psutil==5.9.2
 psycopg2==2.9.4
