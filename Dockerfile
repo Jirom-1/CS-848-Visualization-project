@@ -9,4 +9,4 @@ RUN pip3 install -r requirements.txt
 # EXPOSE $PORT
 
 # CMD bokeh serve --port=$PORT --num-procs=0 --allow-websocket-origin=cs-848-viz.herokuapp.com --address=0.0.0.0 --use-xheaders app.py
-CMD bokeh serve app.py
+CMD bokeh serve app.py --allow-websocket-origin=localhost:4000
