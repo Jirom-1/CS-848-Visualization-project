@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - "argocd-test"
+      - "main"
   pull_request:
   workflow_dispatch:
     inputs:
